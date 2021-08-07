@@ -1,0 +1,51 @@
+stackbitVersion: "~0.3.0"
+ssgName: "custom"
+buildCommand: "npx @11ty/eleventy"
+publishDir: "public"
+staticDir: "static"
+uploadDir: "images"
+pagesDir: "site"
+metadata:
+  title: "waw2021"
+  description: "Theme created in Webflow and converted with Udesly"
+models:
+  exhibitor:
+    type: "page"
+    label: "Exhibitors"
+    urlPath: "/exhibitor/{slug}"
+  category:
+    type: "page"
+    label: "Blog categories"
+    urlPath: "/category/{slug}"
+  lieu:
+    type: "page"
+    label: "Lieux"
+    urlPath: "/lieu/{slug}"
+  kunstenaar:
+    type: "page"
+    label: "Kunstenaars"
+    urlPath: "/kunstenaar/{slug}"
+  artiste:
+    type: "page"
+    label: "Artistes"
+    urlPath: "/artiste/{slug}"
+  post:
+    type: "page"
+    label: "Blog posts"
+    urlPath: "/post/{slug}"
+  artist:
+    type: "page"
+    label: "Artists"
+    urlPath: "/artist/{slug}"
+  locatie:
+    type: "page"
+    label: "Locaties"
+    urlPath: "/locatie/{slug}"
+  place:
+    type: "page"
+    label: "Places"
+    urlPath: "/place/{slug}"
+  index:
+    type: "page"
+    label: "index"
+    urlPath: "/index/{slug}"

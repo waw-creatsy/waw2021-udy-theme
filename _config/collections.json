@@ -1,0 +1,193 @@
+{
+  "21beca4e": {
+    "collection": "index",
+    "query": {
+      "fields": [
+        {
+          "fieldPath": "language-code",
+          "operatorName": "eq",
+          "value": "EN"
+        }
+      ]
+    }
+  },
+  "-6244ff67": {
+    "collection": "place",
+    "query": {
+      "sort": [
+        "place-number"
+      ]
+    }
+  },
+  "-60ec2607": {
+    "collection": "artist",
+    "query": {
+      "sort": [
+        "name"
+      ]
+    }
+  },
+  "-4feda071": {
+    "collection": "index",
+    "query": {
+      "sort": [
+        "language-code"
+      ]
+    }
+  },
+  "-1f99b145": {
+    "collection": "artist",
+    "query": {
+      "fields": [
+        {
+          "fieldPath": "referral-place",
+          "operatorName": "eq",
+          "value": "DYN_CONTEXT"
+        }
+      ],
+      "sort": [
+        "name"
+      ]
+    }
+  },
+  "334eb552": {
+    "collection": "lieu",
+    "query": {
+      "sort": [
+        "numero-du-lieu"
+      ]
+    }
+  },
+  "-56e7028": {
+    "collection": "locatie",
+    "query": {
+      "sort": [
+        "numero-du-lieu"
+      ]
+    }
+  },
+  "5d38e431": {
+    "collection": "index",
+    "query": {
+      "fields": [
+        {
+          "fieldPath": "language-code",
+          "operatorName": "eq",
+          "value": "FR"
+        }
+      ]
+    }
+  },
+  "-2c4fae83": {
+    "collection": "place",
+    "query": {
+      "fields": [
+        {
+          "fieldPath": "event",
+          "operatorName": "eq",
+          "value": "DYN_CONTEXT"
+        }
+      ]
+    }
+  },
+  "1f4a07e9": {
+    "collection": "post"
+  },
+  "-6250c9b9": {
+    "collection": "category"
+  },
+  "6fec26b4": {
+    "collection": "post",
+    "query": {
+      "fields": [
+        {
+          "fieldPath": "category",
+          "operatorName": "eq",
+          "value": "DYN_CONTEXT"
+        }
+      ]
+    }
+  },
+  "200ba94": {
+    "collection": "artiste",
+    "query": {
+      "sort": [
+        "name"
+      ]
+    }
+  },
+  "-75d093e0": {
+    "collection": "post",
+    "query": {
+      "fields": [
+        {
+          "fieldPath": "place",
+          "operatorName": "eq",
+          "value": "DYN_CONTEXT.lieu-associe"
+        }
+      ]
+    }
+  },
+  "2cf8ff6c": {
+    "collection": "artiste",
+    "query": {
+      "fields": [
+        {
+          "fieldPath": "lieu",
+          "operatorName": "eq",
+          "value": "DYN_CONTEXT"
+        }
+      ],
+      "sort": [
+        "name"
+      ]
+    }
+  },
+  "5edce7a3": {
+    "collection": "index",
+    "query": {
+      "fields": [
+        {
+          "fieldPath": "language-code",
+          "operatorName": "eq",
+          "value": "NL"
+        }
+      ]
+    }
+  },
+  "-54382729": {
+    "collection": "post",
+    "query": {
+      "fields": [
+        {
+          "fieldPath": "place",
+          "operatorName": "eq",
+          "value": "DYN_CONTEXT.associated-locatie"
+        }
+      ]
+    }
+  },
+  "54b821e3": {
+    "collection": "kunstenaar",
+    "query": {
+      "fields": [
+        {
+          "fieldPath": "locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df",
+          "operatorName": "eq",
+          "value": "DYN_CONTEXT"
+        }
+      ],
+      "sort": [
+        "name"
+      ]
+    }
+  },
+  "2dbdab76": {
+    "collection": "kunstenaar",
+    "query": {
+      "sort": [
+        "name"
+      ]
+    }
+  }
+}
