@@ -11,6 +11,7 @@ featured-artwork:
 quote: "!!! Phrase blanche !!!"
 opening-hours: 11am > 7pm
 number-of-exhibitors: 4 artists
+event: site/post/découvrez-l’univers-de-la-couleur-de-la-peinture-et-du-dessin.md
 copy-artist-present-in-this-place: Caroline Dujardin, Bern Wery, Nina Neuray, Lionel Vinche
 name: Caroline's place
 created-on: 2021-08-07T19:41:28.158Z
