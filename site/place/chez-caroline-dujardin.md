@@ -12,7 +12,7 @@ quote: "!!! Phrase blanche !!!"
 opening-hours: 11h > 19h
 number-of-exhibitors: 4 artistes
 copy-artist-present-in-this-place: Caroline Dujardin, Bern Wery, Nina Neuray, Lionel Vinche
-name: Chez Caroline Dujardin
+name: Caroline's place
 created-on: 2021-08-07T19:41:28.158Z
 updated-on: 2021-08-07T19:41:28.172Z
 published-on: 2021-08-07T19:41:28.187Z
