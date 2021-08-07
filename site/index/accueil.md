@@ -13,7 +13,7 @@ concept: >-
 
   <p>Le WAW, c'est une balade artistique d'un atelier &agrave; l'autre, d'un univers &agrave; l'autre, d'une vibration &agrave; l'autre.</p>
 
-  <p>Le fil rouge... toujours le blanc.</p>
+  <p>Le fil rouge&hellip; toujours le blanc.</p>
 
   <p>Le blanc comme champ de tous les possibles.</p>
 
