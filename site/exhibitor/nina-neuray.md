@@ -6,7 +6,7 @@ seo:
 featured-artwork:
   url: /static/images/waw_nina_neuray_01.jpg
   alt: Illustration by Nina Neuray
-mail: ninaneuray@gmail.com
+mail: mailto:ninaneuray@gmail.com
 website-url: https://www.behance.net/ninaneuray
 instagram-url: https://www.instagram.com/_naynaneuray_/?hl=fr
 name: Nina Neuray
