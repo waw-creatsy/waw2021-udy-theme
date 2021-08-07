@@ -80,7 +80,7 @@ links: >-
 
   <p><strong>Anouk Flausch,&nbsp;Maryse Collignon</strong></p>
 
-  <p><strong>Jonathan Lapierre</strong>&nbsp;| Graphiste &amp; Web designer |&nbsp;<a href="http://www.jonathanlapierre.be/">www.jonathanlapierre.be</a>&nbsp;|&nbsp;<a href="https://www.creatsy.be/">www.creatsy.be</a></p>
+  <p><strong>Jonathan Lapierre</strong>&nbsp;|&nbsp;Graphiste &amp; Web designer&nbsp;|&nbsp;<a href="http://www.jonathanlapierre.be/">www.jonathanlapierre.be</a>&nbsp;|&nbsp;<a href="https://www.creatsy.be/">www.creatsy.be</a></p>
 language-code: FR
 name: Accueil
 created-on: 2021-08-07T18:24:38.776Z
