@@ -6,6 +6,8 @@ seo:
 category: site/category/événements.md
 date-time: Dimanche 10 octobre à 15h
 short-description: Réaliser sa peinture avec des pigments
+image:
+  url: /static/images/waw_caroline_dujardin-_04.jpeg
 place: site/place/chez-caroline-dujardin.md
 name: Réaliser sa peinture avec des pigments
 created-on: 2021-08-07T20:11:50.339Z
