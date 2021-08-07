@@ -9,8 +9,8 @@ featured-artwork:
   url: /static/images/waw_caroline_dujardin-_01.jpeg
   alt: Peinture de Caroline Dujardin
 quote: "!!! Phrase blanche !!!"
-opening-hours: 11h > 19h
-number-of-exhibitors: 4 artistes
+opening-hours: 11am > 7pm
+number-of-exhibitors: 4 artists
 copy-artist-present-in-this-place: Caroline Dujardin, Bern Wery, Nina Neuray, Lionel Vinche
 name: Caroline's place
 created-on: 2021-08-07T19:41:28.158Z
