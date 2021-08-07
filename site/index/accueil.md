@@ -4,34 +4,26 @@ layout: single-index.html
 seo:
   twitter:card: summary
 concept: >-
-  # Concept
+  <h1>Concept</h1>
 
 
-  Fort du succès rencontré en 2017 et 2019, le WAW s’enrichit encore et toujours de nouveaux artistes pour sa troisième édition.
+  <p>Fort du succ&egrave;s rencontr&eacute; en 2017 et 2019, le WAW s&rsquo;enrichit encore et toujours de nouveaux artistes pour sa troisi&egrave;me &eacute;dition.</p>
 
+  <p>Cette ann&eacute;e, le th&eacute;&acirc;tre et la po&eacute;sie s&rsquo;invitent &eacute;galement dans notre parcours qui accueille les &eacute;l&egrave;ves de l&rsquo;Acad&eacute;mie des arts de la parole de Rixensart et met &agrave; l&rsquo;honneur la po&eacute;tesse belge Marie-Claire d'Orbaix (plus d&rsquo;info sur cette partie du parcours dans l&rsquo;onglet &laquo;&eacute;v&eacute;nements&raquo;).</p>
 
-  Cette année, le théâtre et la poésie s’invitent également dans notre parcours qui accueille les élèves de l’Académie des arts de la parole de Rixensart et met à l’honneur la poétesse belge Marie-Claire d'Orbaix (plus d’info sur cette partie du parcours dans l’onglet «événements»).
+  <p>Le WAW, c'est une balade artistique d'un atelier &agrave; l'autre, d'un univers &agrave; l'autre, d'une vibration &agrave; l'autre.</p>
 
+  <p>Le fil rouge... toujours le blanc.</p>
 
-  Le WAW, c'est une balade artistique d'un atelier à l'autre, d'un univers à l'autre, d'une vibration à l'autre.
+  <p>Le blanc comme champ de tous les possibles.</p>
 
+  <p>L'art comme un rendez-vous.</p>
 
-  Le fil rouge... toujours le blanc.
+  <p>Le tout r&eacute;uni par les phrases po&eacute;tiques de Marie-Claire d&rsquo;Orbaix.</p>
 
+  <p>Venez donc d&eacute;couvrir plus de 50 artistes et &eacute;v&eacute;nements r&eacute;partis sur 20 lieux de la commune de Rixensart, Genval et Rosi&egrave;res.</p>
 
-  Le blanc comme champ de tous les possibles.
-
-
-  L'art comme un rendez-vous.
-
-
-  Le tout réuni par les phrases poétiques de Marie-Claire d’Orbaix.
-
-
-  Venez donc découvrir plus de 50 artistes et événements répartis sur 20 lieux de la commune de Rixensart, Genval et Rosières.
-
-
-  Bienvenue dans le WAW et belle balade !
+  <p>Bienvenue dans le WAW et belle balade !</p>
 language-code: FR
 name: Accueil
 created-on: 2021-08-07T18:24:38.776Z
