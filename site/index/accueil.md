@@ -56,6 +56,7 @@ info: >-
   <p><strong>Circuit balade v&eacute;lo :&nbsp;</strong>Vous aimez le v&eacute;lo et souhaiteriez relier les lieux d&rsquo;exposition en utilisant les chemins parall&egrave;les, un circuit balade v&eacute;lo est disponible avec le plan des ateliers sur demande.</p>
 map:
   alt: Où acheter le plan ?
+  url: /static/images/waw-rixensart-plan-2019.jpg
 partners: <h1>Sponsors & partenaires</h1>
 links: >-
   <h1>Liens &amp; remerciements</h1>
@@ -88,5 +89,5 @@ updated-on: 2021-08-07T18:24:38.803Z
 published-on: 2021-08-07T18:24:38.821Z
 ---
 Les artistes ouvrent leurs ateliers\
-les week-ends des **27** – **28 avril**\
-et **04** – **05 mai** de 11h à 19h.
+les week-ends des **9** – **10**\
+et **16** – **17 octobre** de 11h à 19h.
