@@ -3,6 +3,9 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW – white art walk – Nina Neuray
+  description: Caroline Dujardin – Illustration / gravure / peinture – Lieu numéro 6
+  og:image: /static/images/waw_nina_neuray_01.jpg
 discipline: Illustration / gravure / peinture
 artiste-associe: site/exhibitor/nina-neuray.md
 galerie-d-images-attention-memes-images-qu-en-en:
