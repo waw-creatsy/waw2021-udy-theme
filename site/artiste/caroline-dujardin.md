@@ -3,6 +3,9 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW – white art walk – Caroline Dujardin
+  description: Caroline Dujardin – Peinture / encre – Lieu numéro 6
+  og:image: /static/images/waw_caroline_dujardin-_01.jpeg
 discipline: Peinture / encre
 artiste-associe: site/exhibitor/caroline-dujardin.md
 galerie-d-images-attention-memes-images-qu-en-en:
