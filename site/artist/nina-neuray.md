@@ -12,7 +12,7 @@ image-gallery:
   - url: /static/images/waw_nina_neuray_04.jpg
   - url: /static/images/waw_nina_neuray_05.jpg
 referral-place: site/place/chez-caroline-dujardin.md
-name: Nina Neuray1
+name: Nina Neuray
 created-on: 2021-08-07T20:38:01.916Z
 updated-on: 2021-08-07T20:38:01.927Z
 published-on: 2021-08-07T20:38:01.936Z
