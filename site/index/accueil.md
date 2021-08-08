@@ -3,6 +3,10 @@ tags: index
 layout: single-index.html
 seo:
   twitter:card: summary
+  og:image: /static/images/waw-logo-fond-blanc.png
+  title: WAW – white art walk – Accueil
+  description: Edition 2021 du WAW à Rixensart, Genval et Rosières – Carte blanche
+    aux artistes
 edition: Edition 2021 du WAW à Rixensart, Genval et Rosières
 white-card-title: CARTE BLANCHE AUX ARTISTES
 concept: >-
