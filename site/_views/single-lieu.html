@@ -98,13 +98,14 @@
               </div>{%- endunless -%}
             </div>
           </div>
-          <div class="nbr-artist-place">
-            <p class="txt-lieu">Lieu</p>
-            <p class="artist-place-nbr">{{ item.data['numero-du-lieu'] }}</p>
-          </div>
         </div>
         <div class="row-margin w-row">
-          <div class="w-col w-col-5">{%- assign ref = item | resolveReference: "lieu-associe", "place" -%}<img data-sizes="[{"max":479,"size":"87vw"},{"max":767,"size":"88vw"},{"max":10000,"size":"38vw"}]" width="518" src="{{ ref.data['featured-artwork'].url | escape }}" alt="{{ item.data.name | escape }}" class="white-artwork"></div>
+          <div class="w-col w-col-5">
+            <div class="nbr-artist-place">
+              <p class="txt-lieu">Lieu</p>
+              <p class="artist-place-nbr">{{ item.data['numero-du-lieu'] }}</p>
+            </div>{%- assign ref = item | resolveReference: "lieu-associe", "place" -%}<img data-sizes="[{"max":479,"size":"87vw"},{"max":767,"size":"92vw"},{"max":10000,"size":"38vw"}]" width="518" src="{{ ref.data['featured-artwork'].url | escape }}" alt="{{ item.data.name | escape }}" class="white-artwork">
+          </div>
           <div class="w-col w-col-7">
             <blockquote class="quote-block">{{ item.data['phrase-blanche'] }}</blockquote>
           </div>

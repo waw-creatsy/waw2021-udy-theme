@@ -79,10 +79,6 @@
     <div class="wrapper">
       <div id="oeuvre-blanche">
         <div class="intro-section">
-          <div class="nbr-artist-place">
-            <p class="txt-lieu">Place</p>
-            <p class="artist-place-nbr">{{ item.data['place-number'] }}</p>
-          </div>
           <div class="div-block-2">
             <h1 class="h1-inline">{{ item.data.name }}</h1>
             <p class="opening-hours">{{ item.data['opening-hours'] }}</p>
@@ -95,7 +91,12 @@
           </div>
         </div>
         <div class="row-margin w-row">
-          <div class="w-col w-col-5"><img data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;87vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;88vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;38vw&quot;}]" width="518" src="{{ item.data['featured-artwork'].url | escape }}" alt="{{ item.data['featured-artwork'].alt | escape }}" class="white-artwork"></div>
+          <div class="w-col w-col-5">
+            <div class="nbr-artist-place">
+              <p class="txt-lieu">Place</p>
+              <p class="artist-place-nbr">{{ item.data['place-number'] }}</p>
+            </div><img data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;87vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;38vw&quot;}]" width="707" src="{{ item.data['featured-artwork'].url | escape }}" alt="{{ item.data['featured-artwork'].alt | escape }}" class="white-artwork">
+          </div>
           <div class="w-col w-col-7">
             <blockquote class="quote-block">{{ item.data.quote }}</blockquote>
           </div>

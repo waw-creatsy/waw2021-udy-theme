@@ -94,7 +94,7 @@
                     </a>{%- endif -%}
                     {%- if item.data.date-time -%}<p class="date">{{ item.data['date-time'] }}</p>{%- endif -%}
                   </div>
-                  <div class="news-img-wrapper"><img data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;64vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;44vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;33vw&quot;}]" width="937" src="{{ item.data.image.url | escape }}" alt="{{ item.data.name | escape }}" class="news-img-thumb"></div>
+                  <div class="news-img-wrapper"><img data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;66vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;44vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;33vw&quot;}]" width="937" src="{{ item.data.image.url | escape }}" alt="{{ item.data.name | escape }}" class="news-img-thumb"></div>
                   <p class="rich-text-news">{{ item.data['short-description'] }}</p>
                   <a href="{{ item.url }}" class="read-more-btn w-inline-block w-clearfix">
                     <div class="btn-arrow-txt-left">Read more</div><img src="/static/images/arrow-right.svg" width="20" alt="right arrow icon" class="btn-right-arrow">
@@ -111,7 +111,7 @@
           <div class="categories-block">
             <h2 class="cat-title">Categories</h2>
             <a href="/blog/" aria-current="page" class="cat-link w-inline-block w-clearfix w--current">
-              <div class="cat-txt">All posts</div><img src="https://uploads-ssl.webflow.com/601d45a73f0590fc82c2268b/601d45a73f0590b61cc22714_arrow-right.svg" width="20" alt="right arrow" class="btn-right-arrow">
+              <div class="cat-txt">Toutes les catégories</div><img src="https://uploads-ssl.webflow.com/601d45a73f0590fc82c2268b/601d45a73f0590b61cc22714_arrow-right.svg" width="20" alt="right arrow" class="btn-right-arrow">
             </a>
             {%- assign collectionId = "main" -%}{%- assign collection = collections["-6250c9b9"][collectionId] -%}<div class="w-dyn-list">
               {%- if collection.length > 0 -%}<div role="list" class="w-dyn-items">
