@@ -3,6 +3,9 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW – white art walk – Bern Wery
+  description: Bern Wery – Peinture / dessin – Lieu numéro 6
+  og:image: /static/images/waw_bern_wery_00.jpg
 discipline: Peinture / dessin
 biographie: >-
   <p>Né en 1956.
