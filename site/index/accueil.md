@@ -58,6 +58,14 @@ map:
   alt: Où acheter le plan ?
   url: /static/images/waw-rixensart-plan-2019.jpg
 partners: <h1>Sponsors & partenaires</h1>
+partner-1-logo:
+  url: /static/images/logo-brabant-wallon-rvb.jpg
+  alt: logo de la province du Brabant wallon
+partner-1-link: https://brabantwallon.be/bw/
+partner-2-logo:
+  url: /static/images/commune-de-rixensart.png
+  alt: logo de la commune de Rixensart
+partner-2-link: https://www.rixensart.be/
 links: >-
   <h1>Liens &amp; remerciements</h1>
 
