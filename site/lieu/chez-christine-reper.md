@@ -6,7 +6,7 @@ seo:
   title: WAW - White Art Walk - Chez Christine Reper
   description: Lieu numéro 16 / Christine Reper, Adeline Halot, Hilde Ghesquiere
 language-link-choisir-accueil: site/index/accueil.md
-numero-du-lieu: 14
+numero-du-lieu: 16
 phrase-blanche: VOIX DE L’AIR, Ô CLAIRE TRANSPARENCE
 horaire-d-ouverture: 11h>19h
 nombre-d-artistes-1-artiste-2-artistes: 3 artistes
