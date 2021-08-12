@@ -11,7 +11,7 @@ witte-zin: VOIX DE L’AIR, Ô CLAIRE TRANSPARENCE
 openingstijd: 11h>19h
 aantal-kunstenaars: 3 kunstenaars
 associated-locatie: site/place/christines-place.md
-name: Bij Christine Reper
+name: Locatie van Christine Reper
 created-on: 2021-08-09T15:35:29.539Z
 updated-on: 2021-08-09T15:35:29.549Z
 published-on: 2021-08-09T15:35:29.557Z
