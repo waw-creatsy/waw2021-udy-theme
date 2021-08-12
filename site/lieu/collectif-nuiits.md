@@ -9,7 +9,7 @@ language-link-choisir-accueil: site/index/home.md
 numero-du-lieu: 8
 phrase-blanche: BLA BLA
 horaire-d-ouverture: 11h>19h
-nombre-d-artistes-1-artiste-2-artistes: "3"
+nombre-d-artistes-1-artiste-2-artistes: 3 artistes
 lieu-associe: site/place/place-of-collectif-nuiits.md
 name: Chez Juliane Lavis
 created-on: 2021-08-12T16:45:06.274Z
