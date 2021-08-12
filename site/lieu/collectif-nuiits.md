@@ -11,7 +11,7 @@ phrase-blanche: BLA BLA
 horaire-d-ouverture: 11h>19h
 nombre-d-artistes-1-artiste-2-artistes: "3"
 lieu-associe: site/place/place-of-collectif-nuiits.md
-name: Collectif Nuiits
+name: Chez Juliane Lavis
 created-on: 2021-08-12T16:45:06.274Z
 updated-on: 2021-08-12T16:45:06.285Z
 published-on: 2021-08-12T16:45:06.294Z
