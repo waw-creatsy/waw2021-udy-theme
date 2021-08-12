@@ -9,7 +9,7 @@ quote: blabla
 opening-hours: 11am>7pm
 number-of-exhibitors: 1 artist
 copy-artist-present-in-this-place: Michel Delvaulx
-name: Michel Delvaulx
+name: Place of Michel Delvaulx
 created-on: 2021-08-12T20:02:38.484Z
 updated-on: 2021-08-12T20:02:38.494Z
 published-on: 2021-08-12T20:02:38.503Z
