@@ -6,7 +6,7 @@ seo:
 artiestendiscipline: Fotografie
 associate-kunstenaar: site/exhibitor/christine-reper.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/bij-christine-reper.md
-name: HIlde Ghesquiere
+name: Hilde Ghesquiere
 created-on: 2021-08-09T16:14:04.863Z
 updated-on: 2021-08-09T16:14:04.872Z
 published-on: 2021-08-09T16:14:04.882Z
