@@ -7,7 +7,7 @@ language-link-choisir: site/index/hoofdpagina.md
 numero-du-lieu: 8
 witte-zin: bla bla
 openingstijd: 11h>19h
-aantal-kunstenaars: "3"
+aantal-kunstenaars: 3 kunstenaars
 associated-locatie: site/place/place-of-collectif-nuiits.md
 name: Locatie van Juliane Lavis
 created-on: 2021-08-12T16:48:34.656Z
