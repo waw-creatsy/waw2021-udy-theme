@@ -5,7 +5,8 @@ seo:
   twitter:card: summary
 language-link: site/index/home.md
 place-number: 20
-quote: bla bla
+quote: CAR LES BRANCHES SANS FEUILLES SONT LASSES       SOUS CE FARDEAU FRAGILE
+  ET BLANC
 opening-hours: 11am>7pm
 number-of-exhibitors: 2 artists
 copy-artist-present-in-this-place: Chantal Sallustin, Griet Van Humbeeck
