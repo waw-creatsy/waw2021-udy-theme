@@ -4,6 +4,7 @@ layout: single-artist.html
 seo:
   twitter:card: summary
 sf: Painting
+referral-exhibitor: site/exhibitor/griet-van-humbeeck.md
 referral-place: site/place/maison-rosiéroise.md
 name: Griet Van Humbeeck
 created-on: 2021-08-13T06:07:08.585Z
