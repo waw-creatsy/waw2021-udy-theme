@@ -16,8 +16,6 @@ published-on: 2021-08-07T20:13:30.062Z
 ---
 <!--StartFragment-->
 
-Dans le cadre de ses Formations Couleurs et de ses cours de dessin et techniques mixtes, Caroline Dujardin organise un exposé "**Découvrez l'univers de la couleur, de la peinture et du dessin**"
-
- 
+Dans le cadre de ses Formations Couleurs et de ses cours de dessin et techniques mixtes, Caroline Dujardin organise un exposé qui vous fera découvrir l'univers 'magique" des couleurs dans le peinture et le dessin
 
 <!--EndFragment-->
