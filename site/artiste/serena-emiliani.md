@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW - White Art Walk - Serena Emiliani
+  description: Serena Emiliani - art visuel/perfomance - lieu numéro 10
 discipline: Art visuel/performance
 artiste-associe: site/exhibitor/serena-emiliani.md
 lieu: site/lieu/tour-musée-et-café-du-tir-à-larc-de-genval.md
