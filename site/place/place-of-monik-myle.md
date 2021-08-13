@@ -8,6 +8,7 @@ place-number: 7
 quote: COMME UNE BLANCHE PAROLE       COMME UN SURSAUT DE PÉTALE
 opening-hours: 11am>7pm
 number-of-exhibitors: 2 artists
+event: site/post/démo-de-cyanotype.md
 copy-artist-present-in-this-place: Monik Myle, Mileen Malbrain
 name: Place of Monik Myle
 created-on: 2021-08-13T11:28:53.449Z
