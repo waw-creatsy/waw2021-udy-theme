@@ -5,7 +5,7 @@ seo:
   twitter:card: summary
 language-link: site/index/home.md
 place-number: 4
-quote: blabla
+quote: ET SUR LA PELOUSE DE FLOCONS       LES TRACES DE TA JOIE BLANCHE
 opening-hours: Saterday 11am > 7pm / Sunday 1pm>7pm
 number-of-exhibitors: 4 artists
 event: site/post/découvrez-l’univers-de-la-couleur-de-la-peinture-et-du-dessin.md
