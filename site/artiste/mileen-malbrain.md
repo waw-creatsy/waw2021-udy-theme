@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW - White Art Walk - Mileen Malbrain
+  description: Mileen Malbrain - Art textile/mixed media - lieu numéro 7
 discipline: Art textile/mixed media
 artiste-associe: site/exhibitor/mileen-malbrain.md
 lieu: site/lieu/chez-monik-myle.md
