@@ -4,6 +4,7 @@ layout: single-artiste.html
 seo:
   twitter:card: summary
 discipline: Sculpture/peinture
+artiste-associe: site/exhibitor/yves-bosquet.md
 lieu: site/lieu/chez-sohie-collet-et-ann-schoemans.md
 name: Yves Bosquet
 created-on: 2021-08-13T06:02:36.241Z
