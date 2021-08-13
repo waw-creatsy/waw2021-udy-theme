@@ -4,6 +4,7 @@ layout: single-artist.html
 seo:
   twitter:card: summary
 sf: Visual Arts
+referral-exhibitor: site/exhibitor/pierre-courtois.md
 referral-place: site/place/espace-kamer-9-k9.md
 name: Pierre Courtois
 created-on: 2021-08-13T05:52:39.002Z
