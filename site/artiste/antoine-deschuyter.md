@@ -3,7 +3,7 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
-discipline: installation audiovisuelle
+discipline: Installation audiovisuelle
 artiste-associe: site/exhibitor/antoine-deschuyter.md
 lieu: site/lieu/chez-myriam-deru.md
 name: Antoine Deschuyter
