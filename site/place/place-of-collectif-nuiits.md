@@ -5,7 +5,7 @@ seo:
   twitter:card: summary
 language-link: site/index/home.md
 place-number: 8
-quote: " 9. CHARGE DU BLANC       SUR LES BRANCHES       ÉTONNEMENT DU SILENCE"
+quote: " CHARGE DU BLANC       SUR LES BRANCHES       ÉTONNEMENT DU SILENCE"
 opening-hours: 11am>7pm
 number-of-exhibitors: 3 artists
 copy-artist-present-in-this-place: Collectif Nuiits, Gerald Dederen, Bernard Declercq
