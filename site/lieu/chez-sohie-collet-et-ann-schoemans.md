@@ -8,7 +8,8 @@ seo:
     Gouny, Xavier Dumont, Yves Bosquet/11h>19h
 language-link-choisir-accueil: site/index/accueil.md
 numero-du-lieu: 4
-phrase-blanche: BLA BLA
+phrase-blanche: IL NEIGE, D‘UNE LÉGÈRE ET RÊVEUSE       ET FOL TRE ET FL
+  NEUSE       ET NEUVE NEIGE
 horaire-d-ouverture: 11h>19h
 nombre-d-artistes-1-artiste-2-artistes: 6 artistes
 lieu-associe: site/place/place-of-sophie-collet-and-ann-schoemans.md
