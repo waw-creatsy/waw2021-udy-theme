@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: "WAW - White Art Walk - Claude Chervault "
+  description: Claude Chevault - photographie - lieu numéro 13
 discipline: Photographie
 artiste-associe: site/exhibitor/claude-chervault.md
 lieu: site/lieu/restaurant-hôtel-de-la-gare.md
