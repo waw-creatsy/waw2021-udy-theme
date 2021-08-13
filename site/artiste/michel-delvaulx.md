@@ -4,6 +4,7 @@ layout: single-artiste.html
 seo:
   twitter:card: summary
 discipline: Photographisme
+artiste-associe: site/exhibitor/michel-delvaulx.md
 lieu: site/lieu/michel-delvaulx.md
 name: Michel Delvaulx
 created-on: 2021-08-13T05:40:50.848Z
