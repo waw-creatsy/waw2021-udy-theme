@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW - White Art Walk - Pauline Bourguignon
+  description: Pauline Bourguignon - Création textile - lieu numéro 19
 discipline: Création textile
 artiste-associe: site/exhibitor/pauline-bourguignon.md
 lieu: site/lieu/chez-michel-vranckx.md
