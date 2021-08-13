@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW - White Art Walk - Colin Delvaulx
+  description: Colin Delvaulx - peinture - lieu numéro 11
 discipline: Peinture
 artiste-associe: site/exhibitor/colin-delvaulx.md
 lieu: site/lieu/hangar-de-latelier-16.md
