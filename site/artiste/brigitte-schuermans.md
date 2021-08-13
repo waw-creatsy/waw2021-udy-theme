@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW - White Art Walk - Brigitte Schuermans
+  description: Brigitte Schuermans - Créations digitales - lieu numéro 13
 discipline: Créations digitales
 artiste-associe: site/exhibitor/brigitte-schuermans.md
 lieu: site/lieu/restaurant-hôtel-de-la-gare.md
