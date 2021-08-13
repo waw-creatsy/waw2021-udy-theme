@@ -3,6 +3,9 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW - White Art Walk - Laurence Leonard
+  description: Laurence Leonard - Gravure/impression papier et textile/livre
+    d'artiste - lieu numéro 15
 discipline: Gravure-impression papier et textile/livre d'artiste
 artiste-associe: site/exhibitor/laurence-leonard.md
 lieu: site/lieu/chez-myriam-deru.md
