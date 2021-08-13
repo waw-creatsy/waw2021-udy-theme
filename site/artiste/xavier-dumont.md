@@ -4,6 +4,7 @@ layout: single-artiste.html
 seo:
   twitter:card: summary
 discipline: Sculpture
+artiste-associe: site/exhibitor/xavier-dumont.md
 lieu: site/lieu/chez-sohie-collet-et-ann-schoemans.md
 name: Xavier Dumont
 created-on: 2021-08-13T05:59:19.885Z
