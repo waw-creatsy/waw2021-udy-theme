@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW - White Art Walk - Véronique van der Wielen
+  description: Véronique van der Wielen - Art plastique/portraitiste - lieu numéro 11
 discipline: Art plastique/portraitiste
 artiste-associe: site/exhibitor/véronique-van-der-wielen.md
 lieu: site/lieu/hangar-de-latelier-16.md
