@@ -5,7 +5,7 @@ seo:
   twitter:card: summary
 language-link: site/index/home.md
 place-number: 12
-quote: bla bla
+quote: L’ALPHABET BLANC VOLTIGE       À LA RENCONTRE DE MA PHRASE
 opening-hours: 11am>7pm
 number-of-exhibitors: 2 artists
 copy-artist-present-in-this-place: Anne Françoise Jadin, Catherine Thiry
