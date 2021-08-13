@@ -5,7 +5,7 @@ seo:
   twitter:card: summary
 language-link-choisir: site/index/hoofdpagina.md
 numero-du-lieu: 1
-witte-zin: bla bla
+witte-zin: DIRE OUI, COMME LES FLEURS DU CERISIER QUI RESTENT BLANCHES DANS LA NUIT
 openingstijd: 14h>19h
 aantal-kunstenaars: 1 kunstenaars
 associated-locatie: site/place/annette-dieles.md
