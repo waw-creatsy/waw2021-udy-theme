@@ -7,7 +7,7 @@ category: site/category/événements.md
 date-time: Tous les jours de 13h à 14h (si soleil)
 short-description: "Demonstration de cyanotype tous les jours de 13h à 14h "
 place: site/place/place-of-monik-myle.md
-name: "Démo de Cyanotype "
+name: Démo de Cyanotype tous le jours de 13h à 14h (si soleil)
 created-on: 2021-08-13T15:32:25.911Z
 updated-on: 2021-08-13T15:32:25.926Z
 published-on: 2021-08-13T15:32:25.935Z
