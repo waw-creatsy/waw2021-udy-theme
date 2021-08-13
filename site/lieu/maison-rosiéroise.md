@@ -5,7 +5,8 @@ seo:
   twitter:card: summary
 language-link-choisir-accueil: site/index/accueil.md
 numero-du-lieu: 20
-phrase-blanche: bla bla
+phrase-blanche: CAR LES BRANCHES SANS FEUILLES SONT LASSES       SOUS CE FARDEAU
+  FRAGILE ET BLANC
 horaire-d-ouverture: 11h>19h
 nombre-d-artistes-1-artiste-2-artistes: 2 artistes
 lieu-associe: site/place/maison-rosiéroise.md
