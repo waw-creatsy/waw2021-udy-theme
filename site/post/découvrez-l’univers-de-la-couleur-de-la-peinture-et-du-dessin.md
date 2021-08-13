@@ -9,7 +9,7 @@ short-description: ""
 image:
   url: /static/images/confetti.svg
 place: site/place/chez-caroline-dujardin.md
-name: l’univers de la couleur, de la peinture et du dessin dimanche 17 oct à 15h
+name: "l’univers de la couleur, de la peinture et du dessin "
 created-on: 2021-08-07T20:13:30.037Z
 updated-on: 2021-08-07T20:13:30.051Z
 published-on: 2021-08-07T20:13:30.062Z
