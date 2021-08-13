@@ -3,6 +3,7 @@ tags: post
 layout: single-post.html
 seo:
   twitter:card: summary
+date-time: "Réservation souhaitée par mail à 'veroniquevdm@gmail.com' "
 name: ' Votre portrait "Les yeux dans les yeux"'
 created-on: 2021-08-13T18:52:12.984Z
 updated-on: 2021-08-13T18:52:12.995Z
