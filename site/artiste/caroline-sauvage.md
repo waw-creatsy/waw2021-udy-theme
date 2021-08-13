@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW - White Art Walk - Caroline Sauvage
+  description: Caroline Sauvage - Sculpture - lieu numéro 15
 discipline: Sculpture
 artiste-associe: site/exhibitor/caroline-sauvage.md
 lieu: site/lieu/chez-myriam-deru.md
