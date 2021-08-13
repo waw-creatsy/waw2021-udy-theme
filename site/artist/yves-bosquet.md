@@ -4,6 +4,7 @@ layout: single-artist.html
 seo:
   twitter:card: summary
 sf: Sculpture/Painting
+referral-exhibitor: site/exhibitor/yves-bosquet.md
 referral-place: site/place/place-of-sophie-collet-and-ann-schoemans.md
 name: Yves Bosquet
 created-on: 2021-08-13T06:01:17.780Z
