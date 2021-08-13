@@ -4,6 +4,7 @@ layout: single-artist.html
 seo:
   twitter:card: summary
 sf: Printmaking
+referral-exhibitor: site/exhibitor/chantal-sallustin.md
 referral-place: site/place/maison-rosiéroise.md
 name: Chantal Sallustin
 created-on: 2021-08-13T05:28:14.692Z
