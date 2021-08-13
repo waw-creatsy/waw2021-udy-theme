@@ -13,8 +13,6 @@ published-on: 2021-08-13T18:52:13.008Z
 
 En solo, en couple ou en famille venez vous laisser regarder et vous voir autrement à travers les portraits de Véronique van der Wielen. Plus qu’une oeuvre artistique personnalisée, une expérience profondément humaine (prévoir 45 min/1h pour la réalisation de 3 portraits. 
 
-Réservation souhaitée par mail à “ve[roniquevdm@gmail.com](mailto:roniquevdm@gmail.com)”
-
 
 
 <!--EndFragment-->
