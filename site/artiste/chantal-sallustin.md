@@ -4,6 +4,7 @@ layout: single-artiste.html
 seo:
   twitter:card: summary
 discipline: Gravure
+artiste-associe: site/exhibitor/chantal-sallustin.md
 lieu: site/lieu/maison-rosiéroise.md
 name: Chantal Sallustin
 created-on: 2021-08-13T05:31:20.184Z
