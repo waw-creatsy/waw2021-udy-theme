@@ -9,7 +9,7 @@ short-description: 'Demo : "Réaliser sa peinture avec des pigments" le dimanche
 image:
   url: /static/images/waw_caroline_dujardin-_04.jpeg
 place: site/place/chez-caroline-dujardin.md
-name: Réaliser sa peinture avec des pigments
+name: 'Demo : "Réaliser sa peinture avec des pigments" le dimanche 10 oct à 15h'
 created-on: 2021-08-07T20:11:50.339Z
 updated-on: 2021-08-07T20:11:50.357Z
 published-on: 2021-08-07T20:11:50.370Z
