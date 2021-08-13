@@ -5,7 +5,8 @@ seo:
   twitter:card: summary
 language-link: site/index/home.md
 place-number: 6
-quote: " blaba"
+quote: MA BELLE ET BLANCHE AMIE       CHAQUE BRINDILLE       A SA
+  MANTILLE       CHAQUE GLAÇON       EST UN RAYON
 opening-hours: 11am>7pm
 number-of-exhibitors: " 1 artist"
 copy-artist-present-in-this-place: Bernard Hubot
