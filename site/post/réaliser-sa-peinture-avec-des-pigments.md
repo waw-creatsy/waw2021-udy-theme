@@ -5,7 +5,7 @@ seo:
   twitter:card: summary
 category: site/category/événements.md
 date-time: Dimanche 10 octobre à 15h
-short-description: 'Demo : "Réaliser sa peinture avec des pigments" le dimanche 10 oct à 15h'
+short-description: "Demo : Réaliser sa peinture avec des pigments"
 image:
   url: /static/images/waw_caroline_dujardin-_04.jpeg
 place: site/place/chez-caroline-dujardin.md
