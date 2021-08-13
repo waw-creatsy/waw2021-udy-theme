@@ -5,7 +5,7 @@ seo:
   twitter:card: summary
 language-link: site/index/home.md
 place-number: 1
-quote: BLA BLA
+quote: DIRE OUI, COMME LES FLEURS DU CERISIER QUI RESTENT BLANCHES DANS LA NUIT
 opening-hours: 14h>19h
 number-of-exhibitors: 1 artist
 copy-artist-present-in-this-place: Annette Dieles
