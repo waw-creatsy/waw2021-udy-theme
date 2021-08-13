@@ -5,7 +5,7 @@ seo:
   twitter:card: summary
 language-link-choisir: site/index/hoofdpagina.md
 numero-du-lieu: 12
-witte-zin: blabal
+witte-zin: L’ALPHABET BLANC VOLTIGE       À LA RENCONTRE DE MA PHRASE
 openingstijd: 11h>19h
 aantal-kunstenaars: 2 kunstenaars
 associated-locatie: site/place/place-of-anne-françoise-jadin.md
