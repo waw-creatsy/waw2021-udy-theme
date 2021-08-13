@@ -4,6 +4,7 @@ layout: single-post.html
 seo:
   twitter:card: summary
 date-time: Samedi 16 et 26 oct à 16h
+place: site/place/rixensart-academy-theater.md
 name: " Entracte théâtral : représentation de la pièce “ART” de Yasmina Reza, "
 created-on: 2021-08-13T19:31:10.973Z
 updated-on: 2021-08-13T19:31:10.998Z
