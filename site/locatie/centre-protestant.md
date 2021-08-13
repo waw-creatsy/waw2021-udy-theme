@@ -5,7 +5,7 @@ seo:
   twitter:card: summary
 language-link-choisir: site/index/hoofdpagina.md
 numero-du-lieu: 4
-witte-zin: blabal
+witte-zin: ET SUR LA PELOUSE DE FLOCONS       LES TRACES DE TA JOIE BLANCHE
 openingstijd: Zaterdag 11h>19h - Zondag 13h>19h
 aantal-kunstenaars: 4 kunstenaars
 associated-locatie: site/place/centre-protestant.md
