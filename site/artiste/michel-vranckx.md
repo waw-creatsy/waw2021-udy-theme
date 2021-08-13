@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW - White Art Walk - Michel Vranckx
+  description: Michel Vranckx - Céramique au raku/bronze - lieu numéro 19
 discipline: Céramique au raku/bronze
 artiste-associe: site/exhibitor/michel-vranckx.md
 lieu: site/lieu/chez-michel-vranckx.md
