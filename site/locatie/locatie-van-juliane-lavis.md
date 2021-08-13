@@ -5,7 +5,7 @@ seo:
   twitter:card: summary
 language-link-choisir: site/index/hoofdpagina.md
 numero-du-lieu: 8
-witte-zin: bla bla
+witte-zin: " 9. CHARGE DU BLANC       SUR LES BRANCHES       ÉTONNEMENT DU SILENCE"
 openingstijd: 11h>19h
 aantal-kunstenaars: 3 kunstenaars
 associated-locatie: site/place/place-of-collectif-nuiits.md
