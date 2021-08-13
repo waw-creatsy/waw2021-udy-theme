@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW - White Art Walk - Sylvie Verhaegen
+  description: Sylvie Verhaegen - Gravure/art plastique - lieu numéro 15
 discipline: Gravure/art plastique
 artiste-associe: site/exhibitor/sylvie-verhaegen.md
 lieu: site/lieu/chez-myriam-deru.md
