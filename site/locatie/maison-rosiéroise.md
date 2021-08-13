@@ -5,7 +5,8 @@ seo:
   twitter:card: summary
 language-link-choisir: site/index/hoofdpagina.md
 numero-du-lieu: 20
-witte-zin: blabla
+witte-zin: CAR LES BRANCHES SANS FEUILLES SONT LASSES       SOUS CE FARDEAU
+  FRAGILE ET BLANC
 openingstijd: 11h>19h
 aantal-kunstenaars: 2 kunstenaars
 associated-locatie: site/place/maison-rosiéroise.md
