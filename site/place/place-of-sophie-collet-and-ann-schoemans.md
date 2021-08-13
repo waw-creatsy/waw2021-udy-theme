@@ -5,7 +5,8 @@ seo:
   twitter:card: summary
 language-link: site/index/home.md
 place-number: 4
-quote: BLA BLA
+quote: IL NEIGE, D‘UNE LÉGÈRE ET RÊVEUSE       ET FOL TRE ET FL NEUSE       ET
+  NEUVE NEIGE
 opening-hours: 11am> 7pm
 number-of-exhibitors: 6 artists
 copy-artist-present-in-this-place: Sophie Collet, Ann Schoemans, Ise Cellier,
