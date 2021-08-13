@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW - White Art Walk - Antoine Deschuyter
+  description: Antoine Deschuyter - Installation audiovisuelle - lieu numéro 15
 discipline: Installation audiovisuelle
 artiste-associe: site/exhibitor/antoine-deschuyter.md
 lieu: site/lieu/chez-myriam-deru.md
