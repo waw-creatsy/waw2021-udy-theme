@@ -5,7 +5,7 @@ seo:
   twitter:card: summary
 language-link-choisir: site/index/hoofdpagina.md
 numero-du-lieu: 14
-witte-zin: bla bal
+witte-zin: UNE PAGE BLANCHE       UNE PAGE DE SILENCE       EN IMMOBILE FRAGILITÉ
 openingstijd: 11h>19h
 aantal-kunstenaars: 2 kunstenaars
 associated-locatie: site/place/place-of-patricia-widmer.md
