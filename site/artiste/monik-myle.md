@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW - White Art Walk - Monik Myle
+  description: Monik Myle - Arts visuel/cyanotypes - lieu numéro 7
 discipline: Visual arts, cyanotype
 artiste-associe: site/exhibitor/monik-myle.md
 lieu: site/lieu/chez-monik-myle.md
