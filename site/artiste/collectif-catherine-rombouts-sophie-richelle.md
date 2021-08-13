@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW - White Art Walk - Collectif rombouts & richelle
+  description: Collectif Rombouts & Richelle - lieu numéro 4
 discipline: Edition/photographie
 artiste-associe: site/exhibitor/collectif-catherine-rombouts-sophie-richelle.md
 lieu: site/lieu/centre-protestant.md
