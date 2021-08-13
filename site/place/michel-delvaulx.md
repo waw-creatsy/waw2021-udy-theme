@@ -5,7 +5,7 @@ seo:
   twitter:card: summary
 language-link: site/index/home.md
 place-number: 17
-quote: blabla
+quote: CE MOT NE SORTIRA PAS DE MA PLUME       NE DÉTRUIRA PAS L’ESPACE BLANC
 opening-hours: 11am>7pm
 number-of-exhibitors: 1 artist
 copy-artist-present-in-this-place: Michel Delvaulx
