@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW - White Art Walk - Mariam Deru
+  description: Myriam Deru - Illustration, carnets de voyage - lieu numéro 15
 discipline: Illustration/carnets de voyages
 artiste-associe: site/exhibitor/myriam-deru.md
 lieu: site/lieu/chez-myriam-deru.md
