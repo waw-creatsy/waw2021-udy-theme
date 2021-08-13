@@ -5,7 +5,7 @@ seo:
   twitter:card: summary
 language-link-choisir: site/index/hoofdpagina.md
 numero-du-lieu: 17
-witte-zin: bla bla
+witte-zin: CE MOT NE SORTIRA PAS DE MA PLUME       NE DÉTRUIRA PAS L’ESPACE BLANC
 openingstijd: 11h>19h
 aantal-kunstenaars: 1 kunstenaar
 associated-locatie: site/place/michel-delvaulx.md
