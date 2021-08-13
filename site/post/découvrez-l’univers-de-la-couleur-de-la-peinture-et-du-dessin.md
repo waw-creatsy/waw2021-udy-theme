@@ -7,7 +7,7 @@ category: site/category/événements.md
 date-time: Dimanche 17 octobre à 15h
 short-description: ""
 image:
-  url: /static/images/confetti.svg
+  url: ""
 place: site/place/chez-caroline-dujardin.md
 name: "Exposé : l’univers de la couleur, de la peinture et du dessin "
 created-on: 2021-08-07T20:13:30.037Z
