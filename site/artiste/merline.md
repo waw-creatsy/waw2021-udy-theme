@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW - White Art Walk - Merline
+  description: Merline - Peinture/dessin au bic - lieu numéro 19
 discipline: Peinture/dessin au bic
 artiste-associe: site/exhibitor/merline.md
 lieu: site/lieu/chez-michel-vranckx.md
