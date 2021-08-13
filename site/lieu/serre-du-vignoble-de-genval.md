@@ -5,7 +5,8 @@ seo:
   twitter:card: summary
 language-link-choisir-accueil: site/index/accueil.md
 numero-du-lieu: 6
-phrase-blanche: blabla
+phrase-blanche: MA BELLE ET BLANCHE AMIE       CHAQUE BRINDILLE       A SA
+  MANTILLE       CHAQUE GLAÇON       EST UN RAYON
 horaire-d-ouverture: 11h>19h
 nombre-d-artistes-1-artiste-2-artistes: 1 artistes
 lieu-associe: site/place/serre-du-vignoble-de-genval.md
