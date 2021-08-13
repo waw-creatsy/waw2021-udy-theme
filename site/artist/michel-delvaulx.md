@@ -4,6 +4,7 @@ layout: single-artist.html
 seo:
   twitter:card: summary
 sf: Fotografism
+referral-exhibitor: site/exhibitor/michel-delvaulx.md
 referral-place: site/place/michel-delvaulx.md
 name: Michel Delvaulx
 created-on: 2021-08-13T05:39:35.349Z
