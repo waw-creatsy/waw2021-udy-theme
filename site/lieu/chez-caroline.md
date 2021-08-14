@@ -8,7 +8,7 @@ seo:
     Neuray | 11h > 19h
   og:image: /static/images/waw_caroline_dujardin-_01.jpeg
 language-link-choisir-accueil: site/index/accueil.md
-numero-du-lieu: 6
+numero-du-lieu: 8
 phrase-blanche: COMME DU LINGE ÉPARS AU JARDIN       LA NEIGE
 horaire-d-ouverture: 11h > 19h
 nombre-d-artistes-1-artiste-2-artistes: 4 artistes
