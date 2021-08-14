@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW - White Art Walk - Yves Bosquet
+  description: Yves Bosquet - Sulpture/peinture - lieu numéro 5
 discipline: Sculpture/peinture
 artiste-associe: site/exhibitor/yves-bosquet.md
 lieu: site/lieu/chez-sohie-collet-et-ann-schoemans.md
