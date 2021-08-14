@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW - White Art Walk - Hilde Ghesquiere
+  description: Hilde Gesquiere - photographie - lieu numéro 16
 discipline: Photographie
 artiste-associe: site/exhibitor/hilde-ghesquiere.md
 lieu: site/lieu/chez-christine-reper.md
