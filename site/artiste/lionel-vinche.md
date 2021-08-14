@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW - White Art Walk - Linel Vinche
+  description: Lionel Vinche - Peinture/dessin/gravure -lieu numéro 8
 discipline: Peinture/dessin
 artiste-associe: site/exhibitor/lionel-vinche.md
 lieu: site/lieu/chez-caroline.md
