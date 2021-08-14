@@ -4,7 +4,7 @@ layout: single-locatie.html
 seo:
   twitter:card: summary
 language-link-choisir: site/index/hoofdpagina.md
-numero-du-lieu: 6
+numero-du-lieu: 8
 witte-zin: COMME DU LINGE ÉPARS AU JARDIN       LA NEIGE
 openingstijd: 11.00 > 19.00 uur
 aantal-kunstenaars: 4 kunstenaars
