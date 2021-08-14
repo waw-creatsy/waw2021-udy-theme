@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW - White Art Walk - Ise Cellier
+  description: Ise Cellier - Art textile/estamoe - lieu numéro 5
 discipline: Art textile/estampes
 artiste-associe: site/exhibitor/ise-cellier.md
 lieu: site/lieu/chez-sohie-collet-et-ann-schoemans.md
