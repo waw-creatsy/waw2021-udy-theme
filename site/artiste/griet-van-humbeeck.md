@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: "WAW - White Art Walk - Griet Van Humbeeck "
+  description: Griet Van Humbeeck - Peinture - lieu numéro 20
 discipline: Peinture
 artiste-associe: site/exhibitor/griet-van-humbeeck.md
 lieu: site/lieu/maison-rosiéroise.md
