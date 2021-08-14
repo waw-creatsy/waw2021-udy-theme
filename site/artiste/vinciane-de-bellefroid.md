@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW - White Art Walk - Vinciane de Bellefroid
+  description: Vinciane de Bellefroid - Gravure - lieu numéro 4
 discipline: Gravure
 artiste-associe: site/exhibitor/vinciane-de-bellefroid.md
 lieu: site/lieu/centre-protestant.md
