@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW - White Art Walk - Patricia Widmer
+  description: Patricia Widmer - céramique - lieu numéro 14
 discipline: Céramique
 artiste-associe: site/exhibitor/patricia-widmer.md
 lieu: site/lieu/chez-patricia-widmer.md
