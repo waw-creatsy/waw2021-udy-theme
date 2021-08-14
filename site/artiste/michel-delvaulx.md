@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW - White Art Walk - Michel Delvaulx
+  description: Michel Delvaulx - photogrphisme - lieu numéro 17
 discipline: Photographisme
 artiste-associe: site/exhibitor/michel-delvaulx.md
 lieu: site/lieu/michel-delvaulx.md
