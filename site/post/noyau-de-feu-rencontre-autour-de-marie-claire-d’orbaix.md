@@ -4,7 +4,7 @@ layout: single-post.html
 seo:
   twitter:card: summary
 category: site/category/événements.md
-date-time: Dimanche 17 oct à 15h - Inscription obligatoire par mail à
+date-time: Le dimanche 17 oct à 15h - Inscription obligatoire par mail à
   “ingridfogelbaum@gmail.com”
 place: site/place/place-of-ingrid-fogelbaum-and-michel-vertongen.md
 name: "Noyau de feu : Rencontre autour de Marie-Claire d’Orbaix"
