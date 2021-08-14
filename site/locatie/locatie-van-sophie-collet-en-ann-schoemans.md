@@ -4,7 +4,7 @@ layout: single-locatie.html
 seo:
   twitter:card: summary
 language-link-choisir: site/index/hoofdpagina.md
-numero-du-lieu: 4
+numero-du-lieu: 5
 witte-zin: IL NEIGE, D‘UNE LÉGÈRE ET RÊVEUSE       ET FOL TRE ET FL
   NEUSE       ET NEUVE NEIGE
 openingstijd: 11h>19h
