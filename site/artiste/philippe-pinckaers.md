@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW - White Art Walk - Philippe Pinckaers
+  description: Philippe Pinckaers - Peinture - lieu numéro 4
 discipline: Peinture
 artiste-associe: site/exhibitor/philippe-pinckaers.md
 lieu: site/lieu/centre-protestant.md
