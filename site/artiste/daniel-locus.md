@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW - White Art Walk - Daniel Locus
+  description: Daniel Locaus - mutimedia - lieu numéro 2
 discipline: Plasticien
 artiste-associe: site/exhibitor/daniel-locus.md
 lieu: site/lieu/espace-kamer-9-k9.md
