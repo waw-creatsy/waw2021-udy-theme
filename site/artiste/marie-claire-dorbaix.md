@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW - White Art Walk - Marie-Claire d'Orbaix
+  description: Marie-Claire d'Orbaix - Poête - lieu numéro 18
 discipline: Poêsie
 artiste-associe: site/exhibitor/marie-claire-dorbaix.md
 lieu: site/lieu/chez-ingrid-fogelbaum-et-michel-vertongen.md
