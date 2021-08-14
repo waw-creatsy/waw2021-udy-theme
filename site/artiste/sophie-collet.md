@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW - White Art Walk - Sophie Collet
+  description: Sophie Collet - Peinture/carnets de voyage - lieu numéro 5
 discipline: Peinture/carnets de voyages
 artiste-associe: site/exhibitor/sophie-collet.md
 lieu: site/lieu/chez-sohie-collet-et-ann-schoemans.md
