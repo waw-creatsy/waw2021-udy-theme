@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW - White Art Walk - Collectif Nuiits
+  description: Collectif Nuiits - Installation - lieu numéro 9
 discipline: Installation
 artiste-associe: site/exhibitor/collectif-nuiits.md
 lieu: site/lieu/collectif-nuiits.md
