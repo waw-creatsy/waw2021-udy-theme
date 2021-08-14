@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW - White Art Walk - Xavier Dumont
+  description: Xavier Dumont - sculpture - lieu numéro 5
 discipline: Sculpture
 artiste-associe: site/exhibitor/xavier-dumont.md
 lieu: site/lieu/chez-sohie-collet-et-ann-schoemans.md
