@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW - White Art Walk - Gérald Dederen
+  description: Gérald Dederen - Sculpture/Dessin - lieu numéro 9
 discipline: Sculpture/dessin
 artiste-associe: site/exhibitor/gerald-dederen.md
 lieu: site/lieu/collectif-nuiits.md
