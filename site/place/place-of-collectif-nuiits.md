@@ -4,7 +4,7 @@ layout: single-place.html
 seo:
   twitter:card: summary
 language-link: site/index/home.md
-place-number: 8
+place-number: 9
 quote: " CHARGE DU BLANC       SUR LES BRANCHES       ÉTONNEMENT DU SILENCE"
 opening-hours: 11am>7pm
 number-of-exhibitors: 3 artists
