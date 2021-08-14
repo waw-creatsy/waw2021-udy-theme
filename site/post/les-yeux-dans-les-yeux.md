@@ -3,6 +3,7 @@ tags: post
 layout: single-post.html
 seo:
   twitter:card: summary
+category: site/category/événements.md
 date-time: "Tous les jours - réservation souhaitée par mail à 'veroniquevdm@gmail.com' "
 place: site/place/hangar-de-latelier-16.md
 name: ' Votre portrait "Les yeux dans les yeux"'
