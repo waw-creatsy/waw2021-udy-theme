@@ -3,6 +3,8 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  title: WAW - White Art Walk - Pierre Courtois
+  description: Pierre Courtois - plasticien - lieu numéro 2
 discipline: Plasticien
 artiste-associe: site/exhibitor/pierre-courtois.md
 lieu: site/lieu/espace-kamer-9-k9.md
