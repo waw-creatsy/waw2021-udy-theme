@@ -4,7 +4,7 @@ layout: single-place.html
 seo:
   twitter:card: summary
 language-link: site/index/home.md
-place-number: 6
+place-number: 8
 featured-artwork:
   url: /static/images/waw_caroline_dujardin-_01.jpeg
   alt: Peinture de Caroline Dujardin
