@@ -4,7 +4,7 @@ layout: single-post.html
 seo:
   twitter:card: summary
 category: site/category/événements.md
-date-time: Dimanche 10 oct à 15h
+date-time: Le dimanche 10 oct à 15h
 short-description: ""
 image:
   url: /static/images/waw_caroline_dujardin-_04.jpeg
