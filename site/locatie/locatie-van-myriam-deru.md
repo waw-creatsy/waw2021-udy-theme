@@ -7,7 +7,7 @@ language-link-choisir: site/index/hoofdpagina.md
 numero-du-lieu: 15
 witte-zin: " DANS LE BLANC RELIQUAIRE       S’ENCH SSENT LA DERNIÈRE
   NUIT       ET LA PREMIÈRE AURORE"
-openingstijd: 11h>19h
+openingstijd: 11.00 > 19.00 uur
 aantal-kunstenaars: 5 kunstenaars
 associated-locatie: site/place/place-of-myriam-deru.md
 name: Locatie van Myriam Deru
