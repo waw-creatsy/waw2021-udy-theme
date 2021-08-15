@@ -6,7 +6,7 @@ seo:
 language-link-choisir: site/index/hoofdpagina.md
 numero-du-lieu: 9
 witte-zin: " CHARGE DU BLANC       SUR LES BRANCHES       ÉTONNEMENT DU SILENCE"
-openingstijd: 11h>19h
+openingstijd: 11.00 > 19.00 uur
 aantal-kunstenaars: 3 kunstenaars
 associated-locatie: site/place/place-of-collectif-nuiits.md
 name: Locatie van Juliane Lavis
