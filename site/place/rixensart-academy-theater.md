@@ -6,7 +6,7 @@ seo:
 language-link: site/index/home.md
 place-number: 3
 quote: L’ALPHABET BLANC VOLTIGE       À LA RENCONTRE DE MA PHRASE
-opening-hours: Saterday 16 et 23 0ctobre at 4 pm.
+opening-hours: Saterday 16 and 23 0ct at 4 pm.
 number-of-exhibitors: ""
 copy-artist-present-in-this-place: les élèves de l'académie
 name: Rixensart academy theater
