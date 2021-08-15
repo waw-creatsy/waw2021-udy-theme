@@ -7,7 +7,7 @@ language-link-choisir: site/index/hoofdpagina.md
 numero-du-lieu: 11
 witte-zin: CES ESPACES DE GLACE       JE LES JETTE DANS LE SOLEIL       EN
   SORTENT LES TORCHES DE MES MOTS
-openingstijd: 11h>19h
+openingstijd: 11.00 > 19.00 uur
 aantal-kunstenaars: 2 kunstenaars
 associated-locatie: site/place/hangar-de-latelier-16.md
 name: Hangar de "l'atelier 16"
