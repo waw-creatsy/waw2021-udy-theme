@@ -6,7 +6,7 @@ seo:
 language-link-choisir: site/index/hoofdpagina.md
 numero-du-lieu: 18
 witte-zin: CE MOT NE SORTIRA PAS DE MA PLUME       NE BLANCHIRA PAS VOS LÈVRES
-openingstijd: Zondag 17 oct - 15h
+openingstijd: Zondag 17 oct - 15uur
 aantal-kunstenaars: 1 kunstenaar
 associated-locatie: site/place/place-of-ingrid-fogelbaum-michel-vertongen.md
 name: Locatie van Ingrid Fogelbaum en Michel Vertongen
