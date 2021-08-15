@@ -6,7 +6,7 @@ seo:
 language-link-choisir: site/index/hoofdpagina.md
 numero-du-lieu: 7
 witte-zin: COMME UNE BLANCHE PAROLE       COMME UN SURSAUT DE PÉTALE
-openingstijd: 11h>19h
+openingstijd: 11.00 > 19.00 uur
 aantal-kunstenaars: 2 kunstenaars
 associated-locatie: site/place/place-of-monik-myle.md
 name: Locatie van Monik Myle
