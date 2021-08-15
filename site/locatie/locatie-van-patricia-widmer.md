@@ -6,7 +6,7 @@ seo:
 language-link-choisir: site/index/hoofdpagina.md
 numero-du-lieu: 14
 witte-zin: UNE PAGE BLANCHE       UNE PAGE DE SILENCE       EN IMMOBILE FRAGILITÉ
-openingstijd: 11h>19h
+openingstijd: 11.00 > 19.00 uur
 aantal-kunstenaars: 2 kunstenaars
 associated-locatie: site/place/place-of-patricia-widmer.md
 name: Locatie van Patricia Widmer
