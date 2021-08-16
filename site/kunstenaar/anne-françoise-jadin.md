@@ -3,6 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
+artiestendiscipline: Schilderkunst
 associate-kunstenaar: site/exhibitor/anne-françoise-jadin.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-anne-françoise-jadin.md
 name: Anne Françoise Jadin
