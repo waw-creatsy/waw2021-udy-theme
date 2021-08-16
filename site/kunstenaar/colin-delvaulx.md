@@ -3,6 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
+artiestendiscipline: Schilderkunst
 associate-kunstenaar: site/exhibitor/colin-delvaulx.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/hangar-de-latelier-16.md
 name: Colin Delvaulx
