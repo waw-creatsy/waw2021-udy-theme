@@ -3,7 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
-artiestendiscipline: ""
+artiestendiscipline: Schilderkunst
 associate-kunstenaar: site/exhibitor/lionel-vinche.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/at-caroline.md
 name: Lionel Vinche
