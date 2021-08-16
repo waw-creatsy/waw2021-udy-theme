@@ -3,6 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
+artiestendiscipline: Fotografism
 associate-kunstenaar: site/exhibitor/michel-delvaulx.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-michel-delvaulx.md
 name: Michel Delvaulx
