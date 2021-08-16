@@ -3,7 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
-artiestendiscipline: ""
+artiestendiscipline: Schilderkunst/Tekenen
 biografie: >-
   <!--StartFragment-->
 
