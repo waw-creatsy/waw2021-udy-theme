@@ -3,6 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
+artiestendiscipline: Grafiek
 associate-kunstenaar: site/exhibitor/chantal-sallustin.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/maison-rosiéroise.md
 name: Chantal Sallustin
