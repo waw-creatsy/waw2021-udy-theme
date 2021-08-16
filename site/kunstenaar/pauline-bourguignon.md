@@ -3,6 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
+artiestendiscipline: Textielkunst
 associate-kunstenaar: site/exhibitor/pauline-bourguignon.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-michel-vranckx.md
 name: Pauline Bourguignon
