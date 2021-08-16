@@ -3,6 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
+artiestendiscipline: Grafiek/Plastische kunst
 associate-kunstenaar: site/exhibitor/sylvie-verhaegen.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-myriam-deru.md
 name: Sylvie Verhaegen
