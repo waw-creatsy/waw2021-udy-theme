@@ -3,6 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
+artiestendiscipline: Beeldhouwkunst
 associate-kunstenaar: site/exhibitor/bernard-declercq.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-juliane-lavis.md
 name: Bernard Declercq
