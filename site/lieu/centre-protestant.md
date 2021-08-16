@@ -10,7 +10,7 @@ language-link-choisir-accueil: site/index/accueil.md
 numero-du-lieu: 4
 phrase-blanche: ET SUR LA PELOUSE DE FLOCONS       LES TRACES DE TA JOIE BLANCHE
 horaire-d-ouverture: Sa 11h>19h - Di 13h>19h
-nombre-d-artistes-1-artiste-2-artistes: 4 artistes
+nombre-d-artistes-1-artiste-2-artistes: 4 artiste
 lieu-associe: site/place/centre-protestant.md
 name: Centre Protestant
 created-on: 2021-08-13T10:45:45.563Z
