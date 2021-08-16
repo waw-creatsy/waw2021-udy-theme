@@ -3,6 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
+artiestendiscipline: Zeefdruk/Fotografie/Video
 associate-kunstenaar: site/exhibitor/esther-eggermont.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/tour-musée-et-café-du-tir-à-larc-de-genval.md
 name: Esther Eggermont
