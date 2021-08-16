@@ -3,6 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
+artiestendiscipline: Digitale kunst
 associate-kunstenaar: site/exhibitor/brigitte-schuermans.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/restaurant-hôtel-de-la-gare.md
 name: Brigitte Schuermans
