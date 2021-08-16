@@ -3,6 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
+artiestendiscipline: Textiel kunst/Vrije grafiek
 associate-kunstenaar: site/exhibitor/ise-cellier.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-sophie-collet-en-ann-schoemans.md
 name: Ise Cellier
