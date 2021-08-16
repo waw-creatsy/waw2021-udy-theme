@@ -3,6 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
+artiestendiscipline: Visuele kunst/Portret tekenen
 associate-kunstenaar: site/exhibitor/véronique-van-der-wielen.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/hangar-de-latelier-16.md
 name: Véronique van der Wielen
