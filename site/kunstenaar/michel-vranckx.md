@@ -3,6 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
+artiestendiscipline: Keramiek (brons & raku)
 associate-kunstenaar: site/exhibitor/michel-vranckx.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-michel-vranckx.md
 name: Michel Vranckx
