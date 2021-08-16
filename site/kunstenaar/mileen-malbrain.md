@@ -3,7 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
-artiestendiscipline: Textiele kunst/Mixed media
+artiestendiscipline: Textielkunst/ Mixed media
 associate-kunstenaar: site/exhibitor/mileen-malbrain.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-monik-myle.md
 name: Mileen Malbrain
