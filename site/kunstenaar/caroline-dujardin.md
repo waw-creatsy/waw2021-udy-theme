@@ -3,7 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
-artiestendiscipline: Verf / inkt
+artiestendiscipline: Schilderkunst / inkt
 associate-kunstenaar: site/exhibitor/caroline-dujardin.md
 foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
   - url: /static/images/waw_caroline_dujardin-_02.jpeg
