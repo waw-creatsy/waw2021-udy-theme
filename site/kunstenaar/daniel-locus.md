@@ -3,6 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
+artiestendiscipline: Multimedia (fotografie/video)
 associate-kunstenaar: site/exhibitor/daniel-locus.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/espace-kamer-9-k9.md
 name: Daniel Locus
