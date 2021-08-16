@@ -13,8 +13,6 @@ published-on: 2021-08-13T18:45:59.503Z
 ---
 <!--StartFragment-->
 
-Venez réaliser une fresque collective avec Colin Delvaulx. Peinture et matériels seront à votre disposition pour cette création commune.
-
-
+Venez réaliser une fresque collective avec Colin Delvaulx. Peinture et matériel seront à votre disposition pour cette création commune.
 
 <!--EndFragment-->
