@@ -3,6 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
+artiestendiscipline: Grafiek
 associate-kunstenaar: site/exhibitor/vinciane-de-bellefroid.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/centre-protestant.md
 name: Vinciane de Bellefroid
