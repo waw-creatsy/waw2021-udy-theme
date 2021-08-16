@@ -3,6 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
+artiestendiscipline: Fotographie/Installatie kunst
 associate-kunstenaar: site/exhibitor/annette-dieles.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-annette-dieles.md
 name: Annette Dieles
