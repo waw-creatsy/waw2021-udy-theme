@@ -3,6 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
+artiestendiscipline: Schilderkunst
 associate-kunstenaar: site/exhibitor/griet-van-humbeeck.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/maison-rosiéroise.md
 name: Griet Van Humbeeck
