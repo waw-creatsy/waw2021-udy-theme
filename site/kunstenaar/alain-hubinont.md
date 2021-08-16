@@ -3,6 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
+artiestendiscipline: Beeldhouwkunst
 associate-kunstenaar: site/exhibitor/alain-hubinont.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/centre-protestant.md
 name: Alain Hubinont
