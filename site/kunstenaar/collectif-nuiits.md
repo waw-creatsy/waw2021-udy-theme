@@ -3,6 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
+artiestendiscipline: Installatiekunst
 associate-kunstenaar: site/exhibitor/collectif-nuiits.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-juliane-lavis.md
 name: Collectif Nuiits
