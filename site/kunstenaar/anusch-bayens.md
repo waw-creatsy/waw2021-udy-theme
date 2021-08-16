@@ -3,6 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
+artiestendiscipline: Glas
 associate-kunstenaar: site/exhibitor/anusch-bayens.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-patricia-widmer.md
 name: Anusch Bayens
