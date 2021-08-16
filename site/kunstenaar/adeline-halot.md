@@ -3,6 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
+artiestendiscipline: Textielkunst
 associate-kunstenaar: site/exhibitor/adeline-hallot.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/bij-christine-reper.md
 name: Adeline Halot
