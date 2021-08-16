@@ -3,6 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
+artiestendiscipline: Schilderkunst/ Bic tekeningen
 associate-kunstenaar: site/exhibitor/merline.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-michel-vranckx.md
 name: Merline
