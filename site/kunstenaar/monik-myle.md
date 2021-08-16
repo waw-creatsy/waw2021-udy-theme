@@ -3,6 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
+artiestendiscipline: Multimedia, cyanotype
 associate-kunstenaar: site/exhibitor/monik-myle.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-monik-myle.md
 name: Monik Myle
