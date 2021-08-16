@@ -8,7 +8,7 @@ place-number: 4
 featured-artwork:
   url: /static/images/waw_vinciane_de_bellefroid_00.jpg
 quote: ET SUR LA PELOUSE DE FLOCONS       LES TRACES DE TA JOIE BLANCHE
-opening-hours: Saterday 11am > 7pm / Sunday 1pm>7pm
+opening-hours: Sa 11am > 7pm / Sun 1pm>7pm
 number-of-exhibitors: 4 artists
 event: ""
 copy-artist-present-in-this-place: Vinciane de Bellefroid, Alain Hubinont,
