@@ -3,6 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
+artiestendiscipline: Beeldhouwkunst
 associate-kunstenaar: site/exhibitor/catherine-thiry.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-anne-françoise-jadin.md
 name: Catherine Thiry
