@@ -3,6 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
+artiestendiscipline: Plastische kunst
 associate-kunstenaar: site/exhibitor/pierre-courtois.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/espace-kamer-9-k9.md
 name: Pierre Courtois
