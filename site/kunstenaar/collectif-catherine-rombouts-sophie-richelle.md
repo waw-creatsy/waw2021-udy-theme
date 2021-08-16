@@ -3,6 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
+artiestendiscipline: Kunstboek/Fotographie
 associate-kunstenaar: site/exhibitor/collectif-catherine-rombouts-sophie-richelle.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/centre-protestant.md
 name: Collectif Catherine Rombouts & Sophie Richelle
