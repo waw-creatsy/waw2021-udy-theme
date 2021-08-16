@@ -3,6 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
+artiestendiscipline: Illustratie/Schilderkunst/Grafiek
 associate-kunstenaar: site/exhibitor/nina-neuray.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/at-caroline.md
 name: Nina Neuray
