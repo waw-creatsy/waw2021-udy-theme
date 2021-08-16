@@ -3,7 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
-artiestendiscipline: Fotografie
+artiestendiscipline: Fotographie
 associate-kunstenaar: site/exhibitor/christine-reper.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/bij-christine-reper.md
 name: Hilde Ghesquiere
