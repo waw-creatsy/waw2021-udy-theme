@@ -6,7 +6,7 @@ seo:
 language-link-choisir: site/index/hoofdpagina.md
 numero-du-lieu: 4
 witte-zin: ET SUR LA PELOUSE DE FLOCONS       LES TRACES DE TA JOIE BLANCHE
-openingstijd: Zaterdag 11.00>19.00 uur - Zondag 13.00>19.00 uur
+openingstijd: Za 11>19uur - Zon 13>19uur
 aantal-kunstenaars: 4 kunstenaars
 associated-locatie: site/place/centre-protestant.md
 name: Centre Protestant
