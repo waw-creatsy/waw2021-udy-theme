@@ -3,6 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
+artiestendiscipline: Visuele kunst/Performance
 associate-kunstenaar: site/exhibitor/serena-emiliani.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/tour-musée-et-café-du-tir-à-larc-de-genval.md
 name: Serena Emiliani
