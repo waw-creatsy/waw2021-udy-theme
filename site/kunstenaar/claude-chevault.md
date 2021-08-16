@@ -3,6 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
+artiestendiscipline: Fotografie
 associate-kunstenaar: site/exhibitor/claude-chervault.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/restaurant-hôtel-de-la-gare.md
 name: Claude Chevault
