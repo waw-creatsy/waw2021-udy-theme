@@ -3,6 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
+artiestendiscipline: Sculpture
 associate-kunstenaar: site/exhibitor/caroline-sauvage.md
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-myriam-deru.md
 name: Caroline Sauvage
