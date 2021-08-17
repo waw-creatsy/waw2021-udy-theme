@@ -3,6 +3,7 @@ tags: artist
 layout: single-artist.html
 seo:
   twitter:card: summary
+  og:image: /static/images/waw_annette_dieles_01.jpg
 sf: Photography/installation
 referral-exhibitor: site/exhibitor/annette-dieles.md
 image-gallery:
