@@ -5,6 +5,8 @@ seo:
   twitter:card: summary
 category: site/category/événements.md
 date-time: "Le dimanche 17 octobre à 15h "
+image:
+  url: /static/images/noyau-de-feu-mc-d-orbaix.jpg
 place: site/place/place-of-ingrid-fogelbaum-michel-vertongen.md
 name: "Noyau de feu : Rencontre autour de Marie-Claire d’Orbaix "
 created-on: 2021-08-18T15:32:27.957Z
