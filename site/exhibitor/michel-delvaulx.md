@@ -3,6 +3,7 @@ tags: exhibitor
 layout: single-exhibitor.html
 seo:
   twitter:card: summary
+  og:image: /static/images/waw_michel_delvaulx_00.jpg
 mail: "mailto:michel.delvaulx@gmail.com
   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
 facebook-url: https://www.facebook.com/delvaulx
