@@ -6,7 +6,6 @@ seo:
 sf: Sculpture
 referral-exhibitor: site/exhibitor/bernard-declercq.md
 image-gallery:
-  - url: /static/images/waw_bernard_declercq_00.jpg
   - url: /static/images/waw_bernard_declercq_05.jpg
   - url: /static/images/waw_bernard_declercq_02.jpg
 referral-place: site/place/place-of-collectif-nuiits.md
