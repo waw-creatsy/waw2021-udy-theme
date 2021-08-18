@@ -3,6 +3,8 @@ tags: exhibitor
 layout: single-exhibitor.html
 seo:
   twitter:card: summary
+featured-artwork:
+  url: /static/images/waw_daniel_locus_01.jpg
 mail: mailto:locus.daniel@skynet.be
 website-url: http://locusdaniel.be/
 facebook-url: https://www.facebook.com/profile.php?id=100008377694535
