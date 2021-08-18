@@ -5,6 +5,8 @@ seo:
   twitter:card: summary
 language-link: site/index/home.md
 place-number: 20
+featured-artwork:
+  url: /static/images/waw_griet_vanhumbeeck_00.jpg
 quote: CAR LES BRANCHES SANS FEUILLES SONT LASSES       SOUS CE FARDEAU FRAGILE
   ET BLANC
 opening-hours: 11am>7pm
