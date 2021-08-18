@@ -10,7 +10,6 @@ image-gallery:
   - url: /static/images/waw_annette_dieles_02.jpg
   - url: /static/images/waw_annette_dieles_03.jpg
   - url: /static/images/waw_annette_dieles_04.jpg
-  - url: /static/images/waw_annette_dieles_01.jpg
   - {}
 referral-place: site/place/annette-dieles.md
 name: Annette Dieles
