@@ -5,6 +5,8 @@ seo:
   twitter:card: summary
 category: site/category/événements.md
 date-time: les Samedis 16 et 23 0ctobre à 16h
+image:
+  url: /static/images/art-pièce-1.jpg
 place: site/place/rixensart-academy-theater.md
 name: Entracte théâtral – « ART » de Yasmina Reza
 created-on: 2021-08-18T15:35:18.111Z
