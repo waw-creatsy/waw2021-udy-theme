@@ -3,6 +3,8 @@ tags: exhibitor
 layout: single-exhibitor.html
 seo:
   twitter:card: summary
+featured-artwork:
+  url: /static/images/waw_catherine_rombouts_01.jpg
 mail: "mailto:romboutscatherine@me.com     mailto: richellesophie@gmail.com\t"
 website-url: https://www.catherinerombouts.com/
 instagram-url: https://www.instagram.com/romboutscatherine/
