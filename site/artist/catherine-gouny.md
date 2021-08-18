@@ -5,6 +5,10 @@ seo:
   twitter:card: summary
 sf: Painting
 referral-exhibitor: site/exhibitor/catherine-gouny.md
+image-gallery:
+  - url: /static/images/waw_catherine_gouny_00.jpg
+  - url: /static/images/waw_catherine_gouny_01.jpg.jpg
+  - url: /static/images/waw_catherine_gouny_02.jpg.jpg
 referral-place: site/place/place-of-sophie-collet-and-ann-schoemans.md
 name: Catherine Gouny
 created-on: 2021-08-12T16:15:39.343Z
