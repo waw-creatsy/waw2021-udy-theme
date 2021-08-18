@@ -5,7 +5,7 @@ seo:
   twitter:card: summary
   og:image: ""
 featured-artwork:
-  url: /static/images/waw_michel_delvaulx_00.jpg
+  url: /static/images/waw_michel_delvaulx_03.jpg
 mail: "mailto:michel.delvaulx@gmail.com
   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
 facebook-url: https://www.facebook.com/delvaulx
