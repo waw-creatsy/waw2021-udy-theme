@@ -7,6 +7,10 @@ seo:
   description: Michel Delvaulx - photogrphisme - lieu numéro 17
 discipline: Photographisme
 artiste-associe: site/exhibitor/michel-delvaulx.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_michel_delvaulx_02.jpg
+  - url: /static/images/waw_michel_delvaulx_03.jpg
+  - url: /static/images/waw_michel_delvaulx_05.jpg
 lieu: site/lieu/michel-delvaulx.md
 name: Michel Delvaulx
 created-on: 2021-08-13T05:40:50.848Z
