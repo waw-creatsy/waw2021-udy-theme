@@ -5,6 +5,8 @@ seo:
   twitter:card: summary
 sf: Sculpture
 referral-exhibitor: site/exhibitor/catherine-thiry.md
+image-gallery:
+  - url: /static/images/waw_catherine_thiry_01.jpg
 referral-place: site/place/place-of-anne-françoise-jadin.md
 name: Catherine Thiry
 created-on: 2021-08-12T19:52:48.621Z
