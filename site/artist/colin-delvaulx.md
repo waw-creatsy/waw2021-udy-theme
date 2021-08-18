@@ -5,6 +5,11 @@ seo:
   twitter:card: summary
 sf: Painting
 referral-exhibitor: site/exhibitor/colin-delvaulx.md
+image-gallery:
+  - url: /static/images/waw_colin_delvaulx_01.jpg
+  - url: /static/images/waw_colin_delvaulx_02.jpg
+  - url: /static/images/waw_colin_delvaulx_03.jpg
+  - url: /static/images/waw_colin_delvaulx_04.jpg
 referral-place: site/place/hangar-de-latelier-16.md
 name: Colin Delvaulx
 created-on: 2021-08-13T12:18:28.234Z
