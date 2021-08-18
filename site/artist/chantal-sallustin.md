@@ -5,6 +5,10 @@ seo:
   twitter:card: summary
 sf: Printmaking
 referral-exhibitor: site/exhibitor/chantal-sallustin.md
+image-gallery:
+  - url: /static/images/waw_chantal_sallustin_01.jpg
+  - url: /static/images/waw_chantal_sallustin_02.jpg
+  - url: /static/images/waw_chantal_sallustin_03.jpg
 referral-place: site/place/maison-rosiéroise.md
 name: Chantal Sallustin
 created-on: 2021-08-13T05:28:14.692Z
