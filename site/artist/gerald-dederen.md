@@ -5,6 +5,12 @@ seo:
   twitter:card: summary
 sf: Sculpture/drawing
 referral-exhibitor: site/exhibitor/gerald-dederen.md
+image-gallery:
+  - url: /static/images/waw_gérald_dederen_01.jpg
+  - url: /static/images/waw_gérald_dederen_02.jpg
+  - url: /static/images/waw_gérald_dederen_03.jpg
+  - url: /static/images/waw_gérald_dederen_04.jpg
+  - url: /static/images/waw_gérald_dederen_05.jpg
 referral-place: site/place/place-of-collectif-nuiits.md
 name: Gerald Dederen
 created-on: 2021-08-12T16:58:06.186Z
