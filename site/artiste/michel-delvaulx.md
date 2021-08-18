@@ -11,6 +11,7 @@ galerie-d-images-attention-memes-images-qu-en-en:
   - url: /static/images/waw_michel_delvaulx_02.jpg
   - url: /static/images/waw_michel_delvaulx_03.jpg
   - url: /static/images/waw_michel_delvaulx_05.jpg
+  - url: /static/images/waw_michel_delvaulx_01.jpg
 lieu: site/lieu/michel-delvaulx.md
 name: Michel Delvaulx
 created-on: 2021-08-13T05:40:50.848Z
