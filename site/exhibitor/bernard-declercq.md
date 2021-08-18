@@ -3,6 +3,8 @@ tags: exhibitor
 layout: single-exhibitor.html
 seo:
   twitter:card: summary
+featured-artwork:
+  url: /static/images/waw_bernard_declercq_00.jpg
 mail: "mailto:filmanontroppo@gmail.com "
 instagram-url: https://www.instagram.com/bernarddeclercq.atelier20/?hl=fr
 name: Bernard Declercq
