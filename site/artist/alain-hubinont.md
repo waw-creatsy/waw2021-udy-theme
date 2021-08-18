@@ -5,7 +5,10 @@ seo:
   twitter:card: summary
 sf: Sculpture
 referral-exhibitor: site/exhibitor/alain-hubinont.md
-image-gallery: []
+image-gallery:
+  - url: /static/images/waw_alain-_hubinont_01.jpg
+  - url: /static/images/waw_alain-_hubinont_03.jpg
+  - url: /static/images/waw_alain-_hubinont_04.jpg
 referral-place: site/place/centre-protestant.md
 name: Alain Hubinont
 created-on: 2021-08-13T11:05:29.134Z
