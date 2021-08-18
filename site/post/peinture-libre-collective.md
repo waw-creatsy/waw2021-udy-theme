@@ -5,6 +5,8 @@ seo:
   twitter:card: summary
 category: site/category/événements.md
 date-time: "Tous les jours de 11h à 19h     "
+image:
+  url: /static/images/peinture-libe-collective.jpg
 place: site/place/hangar-de-latelier-16.md
 name: Peinture libre collective
 created-on: 2021-08-13T18:45:59.480Z
