@@ -4,7 +4,7 @@ layout: single-post.html
 seo:
   twitter:card: summary
 category: site/category/événements.md
-date-time: Tous les jours
+date-time: "Tous les jours toute la journée     "
 place: site/place/hangar-de-latelier-16.md
 name: Peinture libre collective
 created-on: 2021-08-13T18:45:59.480Z
