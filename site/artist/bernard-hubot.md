@@ -5,6 +5,10 @@ seo:
   twitter:card: summary
 sf: Installation
 referral-exhibitor: site/exhibitor/bernard-hubot.md
+image-gallery:
+  - url: /static/images/waw_bernard_hubot_01.jpg
+  - url: /static/images/waw_bernard_hubot_03.jpg
+  - url: /static/images/waw_bernard_hubot_06.jpg
 referral-place: site/place/serre-du-vignoble-de-genval.md
 name: Bernard Hubot
 created-on: 2021-08-12T19:29:56.474Z
