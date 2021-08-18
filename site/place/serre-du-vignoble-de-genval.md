@@ -5,6 +5,8 @@ seo:
   twitter:card: summary
 language-link: site/index/home.md
 place-number: 6
+featured-artwork:
+  url: /static/images/waw_bernard_hubot_01.jpg
 quote: MA BELLE ET BLANCHE AMIE       CHAQUE BRINDILLE       A SA
   MANTILLE       CHAQUE GLAÇON       EST UN RAYON
 opening-hours: 11am>7pm
