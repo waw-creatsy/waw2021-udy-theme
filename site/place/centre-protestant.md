@@ -6,7 +6,7 @@ seo:
 language-link: site/index/home.md
 place-number: 4
 featured-artwork:
-  url: /static/images/waw_vinciane_de_bellefroid_00.jpg
+  url: /static/images/waw_vinciane_de_bellefroid_01.jpg
 quote: ET SUR LA PELOUSE DE FLOCONS       LES TRACES DE TA JOIE BLANCHE
 opening-hours: Sa 11am > 7pm / Sun 1pm>7pm
 number-of-exhibitors: 4 artists
