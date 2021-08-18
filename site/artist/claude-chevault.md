@@ -5,8 +5,13 @@ seo:
   twitter:card: summary
 sf: Photography
 referral-exhibitor: site/exhibitor/claude-chervault.md
+image-gallery:
+  - url: /static/images/waw_claude_hervault_01.jpg
+  - url: /static/images/waw_claude_hervault_06.jpg
+  - url: /static/images/waw_claude_hervault_02.jpg
+  - url: /static/images/waw_claude_hervault_00.jpg
 referral-place: site/place/restaurant-hôtel-de-la-gare.md
-name: Claude Chevault
+name: Claude Hervault
 created-on: 2021-08-13T12:39:24.653Z
 updated-on: 2021-08-13T12:39:24.662Z
 published-on: 2021-08-13T12:39:24.670Z
