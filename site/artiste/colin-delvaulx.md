@@ -7,6 +7,10 @@ seo:
   description: Colin Delvaulx - peinture - lieu numéro 11
 discipline: Peinture
 artiste-associe: site/exhibitor/colin-delvaulx.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_colin_delvaulx_02.jpg
+  - url: /static/images/waw_colin_delvaulx_03.jpg
+  - url: /static/images/waw_colin_delvaulx_04.jpg
 lieu: site/lieu/hangar-de-latelier-16.md
 name: Colin Delvaulx
 created-on: 2021-08-13T12:19:05.898Z
