@@ -3,6 +3,7 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  og:image: /static/images/waw_ann_schoemans_00.jpg
 discipline: Sculpture
 artiste-associe: site/exhibitor/ann-schoemans.md
 lieu: site/lieu/chez-sohie-collet-et-ann-schoemans.md
