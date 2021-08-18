@@ -6,7 +6,6 @@ seo:
 sf: "Glass "
 referral-exhibitor: site/exhibitor/anusch-bayens.md
 image-gallery:
-  - url: /static/images/waw_anuschb_01.jpg
   - url: /static/images/waw_anuschb_02.jpg
   - url: /static/images/waw_anuschb_03.jpg
 referral-place: site/place/place-of-patricia-widmer.md
