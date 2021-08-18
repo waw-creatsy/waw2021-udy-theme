@@ -5,6 +5,11 @@ seo:
   twitter:card: summary
 sf: Painting
 referral-exhibitor: site/exhibitor/lionel-vinche.md
+image-gallery:
+  - url: /static/images/waw_lionel_vinche_00.jpg
+  - url: /static/images/waw_lionel_vinche_01.jpg
+  - url: /static/images/waw_lionel_vinche_02.jpg
+  - {}
 referral-place: site/place/chez-caroline-dujardin.md
 name: Lionel Vinche
 created-on: 2021-08-12T15:08:29.787Z
