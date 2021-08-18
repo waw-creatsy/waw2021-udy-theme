@@ -3,7 +3,7 @@ tags: artist
 layout: single-artist.html
 seo:
   twitter:card: summary
-sf: Theater
+sf: Dramatic Art
 referral-exhibitor: site/exhibitor/les-élèves-de-lacadémie.md
 image-gallery:
   - url: /static/images/academy-temporaire.png
