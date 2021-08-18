@@ -3,6 +3,8 @@ tags: exhibitor
 layout: single-exhibitor.html
 seo:
   twitter:card: summary
+featured-artwork:
+  url: /static/images/waw_griet_vanhumbeeck_00.jpg
 mail: " mailto:griet_vanhumbeeck@yahoo.com"
 website-url: https://www.grietvanhumbeeck.be/
 instagram-url: https://www.instagram.com/griet_vhb/?hl=fr
