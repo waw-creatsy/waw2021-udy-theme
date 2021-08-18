@@ -5,6 +5,12 @@ seo:
   twitter:card: summary
 sf: Screenprinting/Photography/Video
 referral-exhibitor: site/exhibitor/esther-eggermont.md
+image-gallery:
+  - url: /static/images/waw_esther_eggermont_00.jpg
+  - url: /static/images/waw_esther_eggermont_01.jpg
+  - url: /static/images/waw_esther_eggermont_03.jpg
+  - url: /static/images/waw_esther_eggermont_04.jpg
+  - url: /static/images/waw_esther_eggermont_05.jpg
 referral-place: site/place/tour-musée-et-café-du-tir-à-larc-de-genval.md
 name: Esther Eggermont
 created-on: 2021-08-13T11:48:24.789Z
