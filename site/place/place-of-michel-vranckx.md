@@ -5,6 +5,8 @@ seo:
   twitter:card: summary
 language-link: site/index/home.md
 place-number: 19
+featured-artwork:
+  url: /static/images/waw_michel_vranckx_01.jpg
 quote: UN DÉCLIC SUR LE PAPIER BLANC       ET JE RALLUME VOTRE VIE
 opening-hours: 11am>7pm
 number-of-exhibitors: 3 artists
