@@ -3,6 +3,8 @@ tags: exhibitor
 layout: single-exhibitor.html
 seo:
   twitter:card: summary
+featured-artwork:
+  url: /static/images/waw_antoine_deschuyter_00.jpg
 mail: mailto:deschuyter.a@gmail.com
 facebook-url: https://www.facebook.com/antoinedeschuyter.audiovisual
 instagram-url: https://www.instagram.com/antoine.deschuyter/
