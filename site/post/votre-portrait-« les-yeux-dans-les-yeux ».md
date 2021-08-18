@@ -4,7 +4,7 @@ layout: single-post.html
 seo:
   twitter:card: summary
 category: site/category/événements.md
-date-time: Tous les jours toute la journée
+date-time: Tous les jours de 11h à 19h
 place: site/place/hangar-de-latelier-16.md
 name: Votre portrait « les yeux dans les yeux »
 created-on: 2021-08-18T16:10:07.871Z
