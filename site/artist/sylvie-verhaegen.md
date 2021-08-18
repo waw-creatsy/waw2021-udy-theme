@@ -5,6 +5,9 @@ seo:
   twitter:card: summary
 sf: Printmaking/Fine art
 referral-exhibitor: site/exhibitor/sylvie-verhaegen.md
+image-gallery:
+  - url: /static/images/waw_sylvie_verhaegen_02.jpg
+  - url: /static/images/waw_sylvie_verhaegen_04.jpg
 referral-place: site/place/place-of-myriam-deru.md
 name: Sylvie Verhaegen
 created-on: 2021-08-13T13:06:40.101Z
