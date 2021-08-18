@@ -5,6 +5,10 @@ seo:
   twitter:card: summary
 sf: Textile art/Printmaking
 referral-exhibitor: site/exhibitor/ise-cellier.md
+image-gallery:
+  - url: /static/images/waw_ise_cellier_00.jpg
+  - url: /static/images/waw_ise_cellier_01.jpg
+  - url: /static/images/waw_ise_cellier_03.jpg
 referral-place: site/place/place-of-sophie-collet-and-ann-schoemans.md
 name: Ise Cellier
 created-on: 2021-08-12T15:57:55.771Z
