@@ -3,6 +3,7 @@ tags: artiste
 layout: single-artiste.html
 seo:
   twitter:card: summary
+  og:image: /static/images/waw_anne_francoise_jadin_00.jpg
 discipline: Peinture
 artiste-associe: site/exhibitor/anne-françoise-jadin.md
 lieu: site/lieu/chez-anne-françoise-jadin.md
