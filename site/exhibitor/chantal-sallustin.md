@@ -3,6 +3,8 @@ tags: exhibitor
 layout: single-exhibitor.html
 seo:
   twitter:card: summary
+featured-artwork:
+  url: /static/images/waw_chantal_sallustin_01.jpg
 mail: mailto:chantalsallustin@artgraphique.be
 website-url: https://chantalsallustin.be/
 facebook-url: https://www.facebook.com/chantal.sallustin
