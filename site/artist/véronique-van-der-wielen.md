@@ -5,6 +5,10 @@ seo:
   twitter:card: summary
 sf: "Visual Arts/ Portrait "
 referral-exhibitor: site/exhibitor/véronique-van-der-wielen.md
+image-gallery:
+  - url: /static/images/waw_van_der_wielen_01.jpg
+  - url: /static/images/waw_van_der_wielen_02.jpg
+  - url: /static/images/waw_van_der_wielen_04.jpg
 referral-place: site/place/hangar-de-latelier-16.md
 name: Véronique van der Wielen
 created-on: 2021-08-13T12:12:27.098Z
