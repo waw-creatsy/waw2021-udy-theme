@@ -6,7 +6,6 @@ seo:
 sf: Digital Art
 referral-exhibitor: site/exhibitor/brigitte-schuermans.md
 image-gallery:
-  - url: /static/images/waw_brigitte_schuèrmans_00.jpg
   - url: /static/images/waw_brigitte_schuèrmans_01.jpg
   - url: /static/images/waw_brigitte_schuèrmans_05.jpg
 referral-place: site/place/restaurant-hôtel-de-la-gare.md
