@@ -3,6 +3,8 @@ tags: exhibitor
 layout: single-exhibitor.html
 seo:
   twitter:card: summary
+featured-artwork:
+  url: /static/images/waw_anne_francoise_jadin_00.jpg
 mail: mailto:afjadin@hotmail.com
 facebook-url: https://www.facebook.com/Annefrancoisejadindory
 instagram-url: https://www.instagram.com/annefrancoisejadin.dory/?hl=fr
