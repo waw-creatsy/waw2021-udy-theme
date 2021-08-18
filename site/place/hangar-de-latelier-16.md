@@ -5,6 +5,8 @@ seo:
   twitter:card: summary
 language-link: site/index/home.md
 place-number: 11
+featured-artwork:
+  url: /static/images/waw_colin_delvaulx_01.jpg
 quote: CES ESPACES DE GLACE       JE LES JETTE DANS LE SOLEIL       EN SORTENT
   LES TORCHES DE MES MOTS
 opening-hours: 11am>7pm
