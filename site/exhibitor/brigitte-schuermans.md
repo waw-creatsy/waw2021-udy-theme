@@ -4,7 +4,7 @@ layout: single-exhibitor.html
 seo:
   twitter:card: summary
 featured-artwork:
-  url: /static/images/waw_brigitte_schuèrmans_00.jpg
+  url: /static/images/waw_brigitte_schuèrmans_00.jpg
 mail: " mailto:b.schuermans@scarlet.be"
 website-url: https://www.brigitte-schuermans.be/
 facebook-url: https://www.facebook.com/brigitte.schuermans
