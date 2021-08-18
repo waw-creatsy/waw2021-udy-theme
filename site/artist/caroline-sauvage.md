@@ -5,6 +5,12 @@ seo:
   twitter:card: summary
 sf: Sculpture
 referral-exhibitor: site/exhibitor/caroline-sauvage.md
+image-gallery:
+  - url: /static/images/waw_caro_sauvage_00.jpg
+  - url: /static/images/waw_caro_sauvage_05.jpg
+  - url: /static/images/waw_caro_sauvage_01.jpg
+  - url: /static/images/waw_caro_sauvage_03.jpg
+  - url: /static/images/waw_caro_sauvage_04.jpg
 referral-place: site/place/place-of-myriam-deru.md
 name: Caroline Sauvage
 created-on: 2021-08-13T13:02:30.380Z
