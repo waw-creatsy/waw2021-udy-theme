@@ -3,6 +3,8 @@ tags: exhibitor
 layout: single-exhibitor.html
 seo:
   twitter:card: summary
+featured-artwork:
+  url: /static/images/waw_claude_hervault_01.jpg
 mail: mailto:chervault@gmail.com
 instagram-url: https://www.instagram.com/latitude1961/
 name: Claude Chervault
