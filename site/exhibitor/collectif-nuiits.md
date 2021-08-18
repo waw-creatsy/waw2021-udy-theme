@@ -4,6 +4,8 @@ layout: single-exhibitor.html
 seo:
   twitter:card: summary
   og:image: /static/images/waw_collectif_nuiit_00.jpg
+featured-artwork:
+  url: /static/images/waw_collectif_nuiit_00.jpg
 mail: mailto:nuiits@nuiits.be
 website-url: http://nuiits.be/
 instagram-url: https://www.instagram.com/nuiits/?hl=fr
