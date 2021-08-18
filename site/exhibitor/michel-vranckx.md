@@ -4,6 +4,8 @@ layout: single-exhibitor.html
 seo:
   twitter:card: summary
   og:image: /static/images/waw_michel_vranckx_01.jpg
+featured-artwork:
+  url: /static/images/waw_michel_vranckx_01.jpg
 mail: mailto:michelvranckx@mac.com
 website-url: https://www.galerieprivee.be/
 name: Michel Vranckx
