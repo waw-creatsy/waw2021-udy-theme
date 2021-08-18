@@ -5,6 +5,10 @@ seo:
   twitter:card: summary
 sf: Illsutration/Drawn-travelbooks
 referral-exhibitor: site/exhibitor/myriam-deru.md
+image-gallery:
+  - url: /static/images/waw_myriam_deru_01.jpg
+  - url: /static/images/waw_myriam_deru_04.jpg
+  - url: /static/images/waw_myriam_deru_02.jpg
 referral-place: site/place/place-of-myriam-deru.md
 name: Myriam Deru
 created-on: 2021-08-13T12:52:08.536Z
