@@ -5,6 +5,10 @@ seo:
   twitter:card: summary
 sf: Sculpture
 referral-exhibitor: site/exhibitor/ann-schoemans.md
+image-gallery:
+  - url: /static/images/waw_ann_schoemans_01.jpg
+  - url: /static/images/waw_ann_schoemans_03.jpg
+  - url: /static/images/waw_ann_schoemans_05.jpg
 referral-place: site/place/place-of-sophie-collet-and-ann-schoemans.md
 name: Ann Schoemans
 created-on: 2021-08-12T15:48:59.659Z
