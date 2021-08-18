@@ -5,6 +5,12 @@ seo:
   twitter:card: summary
 sf: Multimedia (photography/video)
 referral-exhibitor: site/exhibitor/daniel-locus.md
+image-gallery:
+  - url: /static/images/waw_daniel_locus_01.jpg
+  - url: /static/images/waw_daniel_locus_02.jpg
+  - url: /static/images/waw_daniel_locus_03.jpg
+  - url: /static/images/waw_daniel_locus_04.jpg
+  - url: /static/images/waw_daniel_locus_06.jpg
 referral-place: site/place/espace-kamer-9-k9.md
 name: Daniel Locus
 created-on: 2021-08-12T19:13:57.320Z
