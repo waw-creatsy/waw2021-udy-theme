@@ -5,6 +5,10 @@ seo:
   twitter:card: summary
 artiestendiscipline: Schilderkunst
 associate-kunstenaar: site/exhibitor/colin-delvaulx.md
+foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
+  - url: /static/images/waw_colin_delvaulx_02.jpg
+  - url: /static/images/waw_colin_delvaulx_03.jpg
+  - {}
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/hangar-de-latelier-16.md
 name: Colin Delvaulx
 created-on: 2021-08-13T12:19:40.493Z
