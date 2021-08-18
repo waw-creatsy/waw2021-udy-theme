@@ -5,6 +5,10 @@ seo:
   twitter:card: summary
 sf: Digital Art
 referral-exhibitor: site/exhibitor/brigitte-schuermans.md
+image-gallery:
+  - url: /static/images/waw_brigitte_schuèrmans_00.jpg
+  - url: /static/images/waw_brigitte_schuèrmans_01.jpg
+  - url: /static/images/waw_brigitte_schuèrmans_05.jpg
 referral-place: site/place/restaurant-hôtel-de-la-gare.md
 name: Brigitte Schuermans
 created-on: 2021-08-13T12:32:31.919Z
