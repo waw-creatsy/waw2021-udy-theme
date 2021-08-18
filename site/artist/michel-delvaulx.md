@@ -5,6 +5,10 @@ seo:
   twitter:card: summary
 sf: Fotografism
 referral-exhibitor: site/exhibitor/michel-delvaulx.md
+image-gallery:
+  - url: /static/images/waw_michel_delvaulx_02.jpg
+  - url: /static/images/waw_michel_delvaulx_03.jpg
+  - url: /static/images/waw_michel_delvaulx_05.jpg
 referral-place: site/place/michel-delvaulx.md
 name: Michel Delvaulx
 created-on: 2021-08-13T05:39:35.349Z
