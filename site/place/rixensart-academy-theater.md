@@ -5,6 +5,8 @@ seo:
   twitter:card: summary
 language-link: site/index/home.md
 place-number: 3
+featured-artwork:
+  url: /static/images/academy-temporaire.png
 quote: L’ALPHABET BLANC VOLTIGE       À LA RENCONTRE DE MA PHRASE
 opening-hours: Saterday 16 and 23 0ct at 4 pm.
 number-of-exhibitors: The students
