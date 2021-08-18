@@ -3,6 +3,8 @@ tags: exhibitor
 layout: single-exhibitor.html
 seo:
   twitter:card: summary
+featured-artwork:
+  url: /static/images/waw_gérald_dederen_01.jpg
 mail: mailto:gdederen@gmail.com
 website-url: http://www.geralddederen.be/
 facebook-url: https://www.facebook.com/gerald.dederen/
