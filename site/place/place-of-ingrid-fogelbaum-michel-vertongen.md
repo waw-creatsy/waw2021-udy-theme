@@ -6,7 +6,7 @@ seo:
 language-link: site/index/home.md
 place-number: 18
 featured-artwork:
-  url: /static/images/waw_caroline_lamarche.png
+  url: ""
 quote: " CE MOT NE SORTIRA PAS DE MA PLUME       NE BLANCHIRA PAS VOS LÈVRES"
 opening-hours: Sunday 17 oct at 3pm
 number-of-exhibitors: 1 artist
