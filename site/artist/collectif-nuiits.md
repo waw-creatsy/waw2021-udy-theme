@@ -5,6 +5,10 @@ seo:
   twitter:card: summary
 sf: Installation
 referral-exhibitor: site/exhibitor/collectif-nuiits.md
+image-gallery:
+  - url: /static/images/waw_collectif_nuiit_03.jpg
+  - url: /static/images/waw_collectif_nuiit_01.jpg
+  - url: /static/images/waw_collectif_nuiit_02.jpg
 referral-place: site/place/place-of-collectif-nuiits.md
 name: Collectif Nuiits
 created-on: 2021-08-12T16:49:53.935Z
