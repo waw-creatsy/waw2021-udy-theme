@@ -5,6 +5,8 @@ seo:
   twitter:card: summary
 language-link: site/index/home.md
 place-number: 2
+featured-artwork:
+  url: /static/images/waw_daniel_locus_01.jpg
 quote: PAROLES PRISES AU GLACIER DU SILENCE       MOTS DE GEL QUI CHAUFFENT MES LARMES
 opening-hours: 11am>7pm
 number-of-exhibitors: 2 artists
