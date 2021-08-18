@@ -5,6 +5,11 @@ seo:
   twitter:card: summary
 sf: Ceramics
 referral-exhibitor: site/exhibitor/patricia-widmer.md
+image-gallery:
+  - url: /static/images/waw_patricia_widmer_00.jpg.jpg
+  - url: /static/images/waw_patricia_widmer_01.jpg.jpg
+  - url: /static/images/waw_patricia_widmer_03.jpg.jpg
+  - url: /static/images/waw_patricia_widmer_04.jpg.jpg
 referral-place: site/place/place-of-patricia-widmer.md
 name: Patricia Widmer
 created-on: 2021-08-13T06:26:47.946Z
