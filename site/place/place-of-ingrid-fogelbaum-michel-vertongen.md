@@ -10,7 +10,7 @@ featured-artwork:
 quote: " CE MOT NE SORTIRA PAS DE MA PLUME       NE BLANCHIRA PAS VOS LÈVRES"
 opening-hours: Sunday 17 oct at 3pm
 number-of-exhibitors: 1 artist
-event: site/post/noyau-de-feu -rencontre-autour-de-marie-claire-d’orbaix.md
+event: site/post/noyau-de-feu -rencontre-autour-de-marie-claire-d’orbaix-1.md
 copy-artist-present-in-this-place: Marie-Claire d'Orbaix
 name: Place of Ingrid Fogelbaum & Michel Vertongen
 created-on: 2021-08-15T05:34:32.662Z
