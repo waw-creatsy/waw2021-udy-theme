@@ -5,6 +5,9 @@ seo:
   twitter:card: summary
 sf: Sculpture
 referral-exhibitor: site/exhibitor/xavier-dumont.md
+image-gallery:
+  - url: /static/images/waw_xavier-dumont_02.jpg
+  - url: /static/images/waw_xavier-dumont_04.jpg
 referral-place: site/place/place-of-sophie-collet-and-ann-schoemans.md
 name: Xavier Dumont
 created-on: 2021-08-13T05:58:13.528Z
