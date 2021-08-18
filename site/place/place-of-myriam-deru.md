@@ -5,6 +5,8 @@ seo:
   twitter:card: summary
 language-link: site/index/home.md
 place-number: 15
+featured-artwork:
+  url: /static/images/waw_myriam_deru_01.jpg
 quote: " DANS LE BLANC RELIQUAIRE       S’ENCH SSENT LA DERNIÈRE NUIT       ET
   LA PREMIÈRE AURORE"
 opening-hours: 11am>7pm
