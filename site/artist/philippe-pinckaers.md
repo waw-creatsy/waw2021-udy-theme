@@ -5,6 +5,10 @@ seo:
   twitter:card: summary
 sf: Painting
 referral-exhibitor: site/exhibitor/philippe-pinckaers.md
+image-gallery:
+  - url: /static/images/waw_philippe_pinckaers_01.jpg
+  - url: /static/images/waw_philippe_pinckaers_00.jpg
+  - url: /static/images/waw_philippe_pinckaers_03.jpg
 referral-place: site/place/centre-protestant.md
 name: Philippe Pinckaers
 created-on: 2021-08-13T11:11:56.539Z
