@@ -3,6 +3,8 @@ tags: exhibitor
 layout: single-exhibitor.html
 seo:
   twitter:card: summary
+featured-artwork:
+  url: /static/images/waw_anuschb_01.jpg
 mail: mailto:anusch@anuschb.be
 website-url: https://www.anuschb.be/
 facebook-url: https://www.facebook.com/anuschb/
