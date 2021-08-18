@@ -3,6 +3,8 @@ tags: exhibitor
 layout: single-exhibitor.html
 seo:
   twitter:card: summary
+featured-artwork:
+  url: /static/images/waw_catherine_thiry_01.jpg
 mail: mailto:info@catherinethiry.be
 website-url: https://www.catherinethiry.be/
 facebook-url: https://www.facebook.com/catherine.thiry
