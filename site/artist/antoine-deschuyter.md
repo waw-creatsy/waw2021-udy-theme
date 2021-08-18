@@ -7,6 +7,9 @@ sf: Audiovisual installation
 referral-exhibitor: site/exhibitor/antoine-deschuyter.md
 image-gallery:
   - url: /static/images/waw_antoine_deschuyter_01.jpg.jpg
+  - url: /static/images/waw_antoine_deschuyter_02.jpg.jpg
+  - url: /static/images/waw_antoine_deschuyter_03.jpg.jpg
+  - url: /static/images/waw_antoine_deschuyter_05.jpg.jpg
 referral-place: site/place/place-of-myriam-deru.md
 name: Antoine Deschuyter
 created-on: 2021-08-13T12:58:39.898Z
