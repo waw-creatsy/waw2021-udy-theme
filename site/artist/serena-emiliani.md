@@ -5,6 +5,11 @@ seo:
   twitter:card: summary
 sf: Visual Art/Performance
 referral-exhibitor: site/exhibitor/serena-emiliani.md
+image-gallery:
+  - url: /static/images/waw_serena_emilani_00.jpg
+  - url: /static/images/waw_serena_emilani_01.jpg
+  - url: /static/images/waw_serena_emilani_03.jpg
+  - url: /static/images/waw_serena_emilani_04.jpg
 referral-place: site/place/tour-musée-et-café-du-tir-à-larc-de-genval.md
 name: Serena Emiliani
 created-on: 2021-08-13T11:55:10.792Z
