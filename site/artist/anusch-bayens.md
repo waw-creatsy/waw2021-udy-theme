@@ -5,6 +5,10 @@ seo:
   twitter:card: summary
 sf: "Glass "
 referral-exhibitor: site/exhibitor/anusch-bayens.md
+image-gallery:
+  - url: /static/images/waw_anuschb_01.jpg
+  - url: /static/images/waw_anuschb_02.jpg
+  - url: /static/images/waw_anuschb_03.jpg
 referral-place: site/place/place-of-patricia-widmer.md
 name: Anusch Bayens
 created-on: 2021-08-13T07:01:00.676Z
