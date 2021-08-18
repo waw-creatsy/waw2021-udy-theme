@@ -4,6 +4,8 @@ layout: single-exhibitor.html
 seo:
   twitter:card: summary
   og:image: /static/images/waw_myriam_deru_01.jpg
+featured-artwork:
+  url: /static/images/waw_myriam_deru_01.jpg
 mail: mailto:myriamderu54@gmail.com
 facebook-url: https://www.facebook.com/myriam.deru
 instagram-url: https://www.instagram.com/myriamderu/
