@@ -5,6 +5,10 @@ seo:
   twitter:card: summary
 artiestendiscipline: Installatiekunst
 associate-kunstenaar: site/exhibitor/collectif-nuiits.md
+foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
+  - url: /static/images/waw_collectif_nuiit_03.jpg
+  - url: /static/images/waw_collectif_nuiit_01.jpg
+  - url: /static/images/waw_collectif_nuiit_02.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-juliane-lavis.md
 name: Collectif Nuiits
 created-on: 2021-08-12T16:52:34.035Z
