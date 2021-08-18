@@ -3,6 +3,8 @@ tags: exhibitor
 layout: single-exhibitor.html
 seo:
   twitter:card: summary
+featured-artwork:
+  url: /static/images/waw_patricia_widmer_00.jpg.jpg
 mail: mailto:patriciawidmerceramiste@gmail.com
 website-url: https://patriciawidmer.com/
 facebook-url: https://www.facebook.com/patriciawidmerceramiste
