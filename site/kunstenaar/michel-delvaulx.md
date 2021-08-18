@@ -9,6 +9,7 @@ foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
   - url: /static/images/waw_michel_delvaulx_02.jpg
   - url: /static/images/waw_michel_delvaulx_03.jpg
   - url: /static/images/waw_michel_delvaulx_05.jpg
+  - url: /static/images/waw_michel_delvaulx_01.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-michel-delvaulx.md
 name: Michel Delvaulx
 created-on: 2021-08-13T06:32:43.493Z
