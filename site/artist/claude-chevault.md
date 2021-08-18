@@ -6,7 +6,6 @@ seo:
 sf: Photography
 referral-exhibitor: site/exhibitor/claude-chervault.md
 image-gallery:
-  - url: /static/images/waw_claude_hervault_01.jpg
   - url: /static/images/waw_claude_hervault_06.jpg
   - url: /static/images/waw_claude_hervault_02.jpg
   - url: /static/images/waw_claude_hervault_00.jpg
