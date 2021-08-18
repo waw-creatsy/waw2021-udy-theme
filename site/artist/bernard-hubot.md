@@ -6,7 +6,6 @@ seo:
 sf: Installation
 referral-exhibitor: site/exhibitor/bernard-hubot.md
 image-gallery:
-  - url: /static/images/waw_bernard_hubot_01.jpg
   - url: /static/images/waw_bernard_hubot_03.jpg
   - url: /static/images/waw_bernard_hubot_06.jpg
 referral-place: site/place/serre-du-vignoble-de-genval.md
