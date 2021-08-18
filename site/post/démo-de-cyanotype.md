@@ -7,7 +7,7 @@ category: site/category/événements.md
 date-time: Tous les jours de 13h à 14h (si soleil)
 short-description: ""
 image:
-  url: /static/images/waw_caroline_dujardin-_03.jpeg
+  url: ""
 place: site/place/place-of-monik-myle.md
 name: "Demo de Cyanotype "
 created-on: 2021-08-13T15:32:25.911Z
