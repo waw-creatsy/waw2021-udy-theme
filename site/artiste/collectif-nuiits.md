@@ -7,6 +7,10 @@ seo:
   description: Collectif Nuiits - Installation - lieu numéro 9
 discipline: Installation
 artiste-associe: site/exhibitor/collectif-nuiits.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_collectif_nuiit_03.jpg
+  - url: /static/images/waw_collectif_nuiit_01.jpg
+  - url: /static/images/waw_collectif_nuiit_02.jpg
 lieu: site/lieu/collectif-nuiits.md
 name: Collectif Nuiits
 created-on: 2021-08-12T16:51:27.605Z
