@@ -3,6 +3,8 @@ tags: exhibitor
 layout: single-exhibitor.html
 seo:
   twitter:card: summary
+featured-artwork:
+  url: /static/images/waw_colin_delvaulx_01.jpg
 mail: "mailto:colin.delvaulx@gmail.com "
 facebook-url: ""
 instagram-url: https://www.instagram.com/colin_delvaulx/
