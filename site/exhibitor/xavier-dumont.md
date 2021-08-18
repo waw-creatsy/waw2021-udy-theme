@@ -3,6 +3,8 @@ tags: exhibitor
 layout: single-exhibitor.html
 seo:
   twitter:card: summary
+featured-artwork:
+  url: /static/images/waw_xavier-dumont_01.jpg
 mail: mailto:xdsolea@gmail.com
 facebook-url: https://www.facebook.com/XavierDumontSculpture
 instagram-url: https://www.instagram.com/xavierdumontsculpture/?hl=fr
