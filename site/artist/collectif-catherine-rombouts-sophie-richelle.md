@@ -5,6 +5,11 @@ seo:
   twitter:card: summary
 sf: Artist book/photography
 referral-exhibitor: site/exhibitor/collectif-catherine-rombouts-sophie-richelle.md
+image-gallery:
+  - url: /static/images/waw_catherine_rombouts_01.jpg
+  - url: /static/images/waw_catherine_rombouts_02.jpg
+  - url: /static/images/waw_catherine_rombouts_03.jpg
+  - url: /static/images/waw_catherine_rombouts_04.jpg
 referral-place: site/place/centre-protestant.md
 name: Collectif Catherine Rombouts & Sophie Richelle
 created-on: 2021-08-13T11:19:02.820Z
