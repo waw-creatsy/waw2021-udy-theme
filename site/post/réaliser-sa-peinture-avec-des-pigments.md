@@ -7,7 +7,7 @@ category: site/category/événements.md
 date-time: Le dimanche 10 oct à 15h
 short-description: ""
 image:
-  url: /static/images/peinture-pigemnt.jpg
+  url: /static/images/pigment-nouvelles-photo.jpg
 place: site/place/chez-caroline-dujardin.md
 name: "Demo : Réaliser sa peinture avec des pigments"
 created-on: 2021-08-07T20:11:50.339Z
