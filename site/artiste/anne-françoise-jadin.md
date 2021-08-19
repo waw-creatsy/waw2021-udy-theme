@@ -6,6 +6,9 @@ seo:
   og:image: /static/images/waw_anne_francoise_jadin_00.jpg
 discipline: Peinture
 artiste-associe: site/exhibitor/anne-françoise-jadin.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_anne_francoise_jadin_01.jpg
+  - url: /static/images/waw_anne_francoise_jadin_03.jpg
 lieu: site/lieu/chez-anne-françoise-jadin.md
 name: Anne Françoise Jadin
 created-on: 2021-08-12T19:47:00.582Z
