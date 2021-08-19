@@ -5,6 +5,11 @@ seo:
   twitter:card: summary
 sf: Painting
 referral-exhibitor: site/exhibitor/christine-reper.md
+image-gallery:
+  - url: /static/images/waw_christine_reper_02.jpg
+  - url: /static/images/waw_christine_reper_03.jpg
+  - url: /static/images/waw_christine_reper_04.jpg
+  - url: /static/images/waw_christine_reper_05.jpg
 referral-place: site/place/christines-place.md
 name: Christine Reper
 created-on: 2021-08-09T15:43:12.909Z
