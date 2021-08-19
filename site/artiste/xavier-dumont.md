@@ -7,6 +7,9 @@ seo:
   description: Xavier Dumont - sculpture - lieu numéro 5
 discipline: Sculpture
 artiste-associe: site/exhibitor/xavier-dumont.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_xavier-dumont_02.jpg
+  - url: /static/images/waw_xavier-dumont_04.jpg
 lieu: site/lieu/chez-sohie-collet-et-ann-schoemans.md
 name: Xavier Dumont
 created-on: 2021-08-13T05:59:19.885Z
