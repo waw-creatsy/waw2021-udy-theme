@@ -6,7 +6,6 @@ seo:
 sf: Visual Arts
 referral-exhibitor: site/exhibitor/pierre-courtois.md
 image-gallery:
-  - url: /static/images/waw_pierre_courtois_01.jpg
   - url: /static/images/waw_pierre_courtois_03.jpg
   - url: /static/images/waw_pierre_courtois_05.jpg
 referral-place: site/place/espace-kamer-9-k9.md
