@@ -7,6 +7,10 @@ seo:
   description: Patricia Widmer - céramique - lieu numéro 14
 discipline: Céramique
 artiste-associe: site/exhibitor/patricia-widmer.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_patricia_widmer_01.jpg.jpg
+  - url: /static/images/waw_patricia_widmer_03.jpg.jpg
+  - url: /static/images/waw_patricia_widmer_04.jpg.jpg
 lieu: site/lieu/chez-patricia-widmer.md
 name: Patricia Widmer
 created-on: 2021-08-13T06:28:53.102Z
