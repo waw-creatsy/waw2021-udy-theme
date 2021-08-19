@@ -15,8 +15,8 @@ published-on: 2021-08-19T07:31:25.795Z
 ---
 <!--StartFragment-->
 
-COMME UNE BLANCHE PAROLE        COMME UN SURSAUT DE PÉTALE
+ Marie-Claire d’Orbaix (1920-1990) : poète belge de langue française, dont l’oeuvre, ardente et sobre, a récemment été rééditée. 
 
-Marie-Claire d’Orbaix (1920-1990) : poète belge d’expression française, dont l’oeuvre, ardente et sobre, a été récemment rééditée. 
+
 
 <!--EndFragment-->
