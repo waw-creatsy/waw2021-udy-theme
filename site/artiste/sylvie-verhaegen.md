@@ -7,6 +7,9 @@ seo:
   description: Sylvie Verhaegen - Gravure/art plastique - lieu numéro 15
 discipline: Gravure/art plastique
 artiste-associe: site/exhibitor/sylvie-verhaegen.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_sylvie_verhaegen_02.jpg
+  - url: /static/images/waw_sylvie_verhaegen_04.jpg
 lieu: site/lieu/chez-myriam-deru.md
 name: Sylvie Verhaegen
 created-on: 2021-08-13T13:07:20.451Z
