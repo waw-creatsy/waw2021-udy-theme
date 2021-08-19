@@ -7,6 +7,9 @@ seo:
   description: Myriam Deru - Illustration, carnets de voyage - lieu numéro 15
 discipline: Illustration/carnets de voyages
 artiste-associe: site/exhibitor/myriam-deru.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_myriam_deru_04.jpg
+  - url: /static/images/waw_myriam_deru_02.jpg
 lieu: site/lieu/chez-myriam-deru.md
 name: Myriam Deru
 created-on: 2021-08-13T12:53:35.331Z
