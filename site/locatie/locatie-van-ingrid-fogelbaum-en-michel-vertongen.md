@@ -5,7 +5,7 @@ seo:
   twitter:card: summary
 language-link-choisir: site/index/hoofdpagina.md
 numero-du-lieu: 18
-witte-zin: CE MOT NE SORTIRA PAS DE MA PLUME       NE BLANCHIRA PAS VOS LÈVRES
+witte-zin: COMME UNE BLANCHE PAROLE        COMME UN SURSAUT DE PÉTALE
 openingstijd: Zondag 17 oct - 15.00 uur
 aantal-kunstenaars: 1 kunstenaar
 associated-locatie: site/place/place-of-ingrid-fogelbaum-michel-vertongen.md
