@@ -6,6 +6,10 @@ seo:
   og:image: /static/images/waw_ann_schoemans_00.jpg
 discipline: Sculpture
 artiste-associe: site/exhibitor/ann-schoemans.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_ann_schoemans_01.jpg
+  - url: /static/images/waw_ann_schoemans_03.jpg
+  - url: /static/images/waw_ann_schoemans_05.jpg
 lieu: site/lieu/chez-sohie-collet-et-ann-schoemans.md
 name: Ann Schoemans
 created-on: 2021-08-12T15:50:12.912Z
