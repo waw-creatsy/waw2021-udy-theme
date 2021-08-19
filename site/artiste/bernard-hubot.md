@@ -5,6 +5,9 @@ seo:
   twitter:card: summary
 discipline: Installation
 artiste-associe: site/exhibitor/bernard-hubot.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_bernard_hubot_03.jpg
+  - url: /static/images/waw_bernard_hubot_06.jpg
 lieu: site/lieu/serre-du-vignoble-de-genval.md
 name: Bernard Hubot
 created-on: 2021-08-12T19:30:54.854Z
