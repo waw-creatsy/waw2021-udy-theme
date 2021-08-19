@@ -6,7 +6,6 @@ seo:
 sf: Ceramics (bronze & raku)
 referral-exhibitor: site/exhibitor/michel-vranckx.md
 image-gallery:
-  - url: /static/images/waw_michel_vranckx_01.jpg
   - url: /static/images/waw_michel_vranckx_02.jpg
   - url: /static/images/waw_michel_vranckx_03.jpg
   - url: /static/images/waw_michel_vranckx_04.jpg
