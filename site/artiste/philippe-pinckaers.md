@@ -7,6 +7,9 @@ seo:
   description: Philippe Pinckaers - Peinture - lieu numéro 4
 discipline: Peinture
 artiste-associe: site/exhibitor/philippe-pinckaers.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_philippe_pinckaers_00.jpg
+  - url: /static/images/waw_philippe_pinckaers_03.jpg
 lieu: site/lieu/centre-protestant.md
 name: Philippe Pinckaers
 created-on: 2021-08-13T11:12:56.093Z
