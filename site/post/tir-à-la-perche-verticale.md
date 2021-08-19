@@ -5,7 +5,7 @@ seo:
   twitter:card: summary
 date-time: "Les dimanches 10 et 17 oct à 17h30 "
 image:
-  url: /static/images/tir-à-l-arc.jpg
+  url: /static/images/tir-à-la-perche-vertical.jpg
 place: site/place/tour-musée-et-café-du-tir-à-larc-de-genval.md
 name: Tir à la perche verticale
 created-on: 2021-08-13T19:12:11.923Z
