@@ -7,6 +7,11 @@ seo:
   description: Daniel Locaus - mutimedia - lieu numéro 2
 discipline: Plasticien
 artiste-associe: site/exhibitor/daniel-locus.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_daniel_locus_02.jpg
+  - url: /static/images/waw_daniel_locus_03.jpg
+  - url: /static/images/waw_daniel_locus_04.jpg
+  - url: /static/images/waw_daniel_locus_06.jpg
 lieu: site/lieu/espace-kamer-9-k9.md
 name: Daniel Locus
 created-on: 2021-08-12T19:15:23.152Z
