@@ -7,6 +7,10 @@ seo:
   description: Serena Emiliani - art visuel/perfomance - lieu numéro 10
 discipline: Art visuel/performance
 artiste-associe: site/exhibitor/serena-emiliani.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_serena_emilani_01.jpg
+  - url: /static/images/waw_serena_emilani_03.jpg
+  - url: /static/images/waw_serena_emilani_04.jpg
 lieu: site/lieu/tour-musée-et-café-du-tir-à-larc-de-genval.md
 name: Serena Emiliani
 created-on: 2021-08-13T11:56:02.101Z
