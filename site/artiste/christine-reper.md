@@ -5,6 +5,11 @@ seo:
   twitter:card: summary
 discipline: Peinture
 artiste-associe: site/exhibitor/christine-reper.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_christine_reper_02.jpg
+  - url: /static/images/waw_christine_reper_03.jpg
+  - url: /static/images/waw_christine_reper_04.jpg
+  - url: /static/images/waw_christine_reper_05.jpg
 lieu: site/lieu/chez-christine-reper.md
 name: Christine Reper
 created-on: 2021-08-09T16:05:48.911Z
