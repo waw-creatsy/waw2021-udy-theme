@@ -6,7 +6,6 @@ seo:
 sf: Visual Art/Performance
 referral-exhibitor: site/exhibitor/serena-emiliani.md
 image-gallery:
-  - url: /static/images/waw_serena_emilani_00.jpg
   - url: /static/images/waw_serena_emilani_01.jpg
   - url: /static/images/waw_serena_emilani_03.jpg
   - url: /static/images/waw_serena_emilani_04.jpg
