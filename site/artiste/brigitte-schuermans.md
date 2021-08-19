@@ -7,6 +7,9 @@ seo:
   description: Brigitte Schuermans - Créations digitales - lieu numéro 13
 discipline: Créations digitales
 artiste-associe: site/exhibitor/brigitte-schuermans.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_brigitte_schuèrmans_01.jpg
+  - url: /static/images/waw_brigitte_schuèrmans_05.jpg
 lieu: site/lieu/restaurant-hôtel-de-la-gare.md
 name: Brigitte Schuermans
 created-on: 2021-08-13T12:33:35.818Z
