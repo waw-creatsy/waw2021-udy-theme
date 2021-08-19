@@ -6,7 +6,6 @@ seo:
 sf: Printmaking
 referral-exhibitor: site/exhibitor/chantal-sallustin.md
 image-gallery:
-  - url: /static/images/waw_chantal_sallustin_01.jpg
   - url: /static/images/waw_chantal_sallustin_02.jpg
   - url: /static/images/waw_chantal_sallustin_03.jpg
 referral-place: site/place/maison-rosiéroise.md
