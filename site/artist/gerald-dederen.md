@@ -6,7 +6,6 @@ seo:
 sf: Sculpture/drawing
 referral-exhibitor: site/exhibitor/gerald-dederen.md
 image-gallery:
-  - url: /static/images/waw_gérald_dederen_01.jpg
   - url: /static/images/waw_gérald_dederen_02.jpg
   - url: /static/images/waw_gérald_dederen_03.jpg
   - url: /static/images/waw_gérald_dederen_04.jpg
