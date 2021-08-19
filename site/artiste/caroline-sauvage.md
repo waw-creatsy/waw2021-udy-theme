@@ -7,6 +7,11 @@ seo:
   description: Caroline Sauvage - Sculpture - lieu numéro 15
 discipline: Sculpture
 artiste-associe: site/exhibitor/caroline-sauvage.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_caro_sauvage_05.jpg
+  - url: /static/images/waw_caro_sauvage_01.jpg
+  - url: /static/images/waw_caro_sauvage_03.jpg
+  - url: /static/images/waw_caro_sauvage_04.jpg
 lieu: site/lieu/chez-myriam-deru.md
 name: Caroline Sauvage
 created-on: 2021-08-13T13:03:35.835Z
