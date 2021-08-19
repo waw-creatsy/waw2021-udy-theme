@@ -7,7 +7,7 @@ seo:
   description: Lieu numéro 18 - Marie-Claire d'Orbaix - dimanche 17 oct 15h
 language-link-choisir-accueil: site/index/accueil.md
 numero-du-lieu: 18
-phrase-blanche: CE MOT NE SORTIRA PAS DE MA PLUME       NE BLANCHIRA PAS VOS LÈVRES
+phrase-blanche: COMME UNE BLANCHE PAROLE        COMME UN SURSAUT DE PÉTALE
 horaire-d-ouverture: Dimanche 17 oct à 15h
 nombre-d-artistes-1-artiste-2-artistes: 1 artiste
 lieu-associe: site/place/place-of-ingrid-fogelbaum-michel-vertongen.md
