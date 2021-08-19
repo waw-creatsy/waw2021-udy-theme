@@ -5,6 +5,9 @@ seo:
   twitter:card: summary
 discipline: Créatrice verre
 artiste-associe: site/exhibitor/anusch-bayens.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_anuschb_02.jpg
+  - url: /static/images/waw_anuschb_03.jpg
 lieu: site/lieu/chez-patricia-widmer.md
 name: Anusch Bayens
 created-on: 2021-08-13T07:02:00.019Z
