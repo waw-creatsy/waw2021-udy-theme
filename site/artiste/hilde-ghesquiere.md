@@ -7,6 +7,11 @@ seo:
   description: Hilde Gesquiere - photographie - lieu numéro 16
 discipline: Photographie
 artiste-associe: site/exhibitor/hilde-ghesquiere.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_hilde_ghesquiere_04.jpg
+  - url: /static/images/waw_hilde_ghesquiere_05.jpg
+  - url: /static/images/waw_hilde_ghesquiere_06.jpg
+  - url: /static/images/waw_hilde_ghesquiere_08.jpg
 lieu: site/lieu/chez-christine-reper.md
 name: Hilde Ghesquiere
 created-on: 2021-08-09T16:09:04.375Z
