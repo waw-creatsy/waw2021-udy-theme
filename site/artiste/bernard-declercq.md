@@ -5,6 +5,9 @@ seo:
   twitter:card: summary
 discipline: Sculpture
 artiste-associe: site/exhibitor/bernard-declercq.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_bernard_declercq_05.jpg
+  - url: /static/images/waw_bernard_declercq_02.jpg
 lieu: site/lieu/collectif-nuiits.md
 name: Bernard Declercq
 created-on: 2021-08-12T17:04:53.791Z
