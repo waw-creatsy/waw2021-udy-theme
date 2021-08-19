@@ -7,6 +7,10 @@ seo:
   description: Mileen Malbrain - Art textile/mixed media - lieu numéro 7
 discipline: Art textile/mixed media
 artiste-associe: site/exhibitor/mileen-malbrain.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_mileen_malbrain_04.jpg
+  - url: /static/images/waw_mileen_malbrain_02.jpg
+  - url: /static/images/waw_mileen_malbrain_05.jpg
 lieu: site/lieu/chez-monik-myle.md
 name: Mileen Malbrain
 created-on: 2021-08-13T11:39:30.129Z
