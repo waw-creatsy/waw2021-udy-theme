@@ -7,6 +7,10 @@ seo:
   description: Véronique van der Wielen - Art plastique/portraitiste - lieu numéro 11
 discipline: Art plastique/portraitiste
 artiste-associe: site/exhibitor/véronique-van-der-wielen.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_van_der_wielen_01.jpg
+  - url: /static/images/waw_van_der_wielen_02.jpg
+  - url: /static/images/waw_van_der_wielen_04.jpg
 lieu: site/lieu/hangar-de-latelier-16.md
 name: Véronique van der Wielen
 created-on: 2021-08-13T12:14:13.626Z
