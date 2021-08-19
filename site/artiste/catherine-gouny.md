@@ -5,6 +5,9 @@ seo:
   twitter:card: summary
 discipline: Peinture
 artiste-associe: site/exhibitor/catherine-gouny.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_catherine_gouny_01.jpg.jpg
+  - url: /static/images/waw_catherine_gouny_02.jpg.jpg
 lieu: site/lieu/chez-sohie-collet-et-ann-schoemans.md
 name: Catherine Gouny
 created-on: 2021-08-12T16:16:41.069Z
