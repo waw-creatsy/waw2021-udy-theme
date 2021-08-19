@@ -6,7 +6,7 @@ seo:
 sf: Poetry
 referral-exhibitor: site/exhibitor/marie-claire-dorbaix.md
 image-gallery:
-  - url: /static/images/noyau-de-feu-mc-d-orbaix.jpg
+  - url: /static/images/mcd-o-noyau-de-feu-couverture.jpeg
 referral-place: site/place/place-of-ingrid-fogelbaum-michel-vertongen.md
 name: Marie-Claire d'Orbaix
 created-on: 2021-08-19T07:31:25.765Z
