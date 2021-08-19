@@ -6,7 +6,6 @@ seo:
 sf: Screenprinting/Photography/Video
 referral-exhibitor: site/exhibitor/esther-eggermont.md
 image-gallery:
-  - url: /static/images/waw_esther_eggermont_00.jpg
   - url: /static/images/waw_esther_eggermont_01.jpg
   - url: /static/images/waw_esther_eggermont_03.jpg
   - url: /static/images/waw_esther_eggermont_04.jpg
