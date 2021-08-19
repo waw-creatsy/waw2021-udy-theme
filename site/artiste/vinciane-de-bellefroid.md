@@ -7,6 +7,10 @@ seo:
   description: Vinciane de Bellefroid - Gravure - lieu numéro 4
 discipline: Gravure
 artiste-associe: site/exhibitor/vinciane-de-bellefroid.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_vinciane_de_bellefroid_03.jpg
+  - url: /static/images/waw_vinciane_de_bellefroid_04.jpg
+  - url: /static/images/waw_vinciane_de_bellefroid_00.jpg
 lieu: site/lieu/centre-protestant.md
 name: Vinciane de Bellefroid
 created-on: 2021-08-13T10:52:24.656Z
