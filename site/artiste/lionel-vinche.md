@@ -7,6 +7,9 @@ seo:
   description: Lionel Vinche - Peinture/dessin/gravure -lieu numéro 8
 discipline: Peinture/dessin
 artiste-associe: site/exhibitor/lionel-vinche.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_lionel_vinche_01.jpg
+  - url: /static/images/waw_lionel_vinche_04.jpg
 lieu: site/lieu/chez-caroline.md
 name: Lionel Vinche
 created-on: 2021-08-12T14:56:50.154Z
