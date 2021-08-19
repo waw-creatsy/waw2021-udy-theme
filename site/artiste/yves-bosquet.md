@@ -7,6 +7,9 @@ seo:
   description: Yves Bosquet - Sulpture/peinture - lieu numéro 5
 discipline: Sculpture/peinture
 artiste-associe: site/exhibitor/yves-bosquet.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_yves_bosquet_02.jpg
+  - url: /static/images/waw_yves_bosquet_05.jpg
 lieu: site/lieu/chez-sohie-collet-et-ann-schoemans.md
 name: Yves Bosquet
 created-on: 2021-08-13T06:02:36.241Z
