@@ -6,7 +6,6 @@ seo:
 sf: Painting
 referral-exhibitor: site/exhibitor/philippe-pinckaers.md
 image-gallery:
-  - url: /static/images/waw_philippe_pinckaers_01.jpg
   - url: /static/images/waw_philippe_pinckaers_00.jpg
   - url: /static/images/waw_philippe_pinckaers_03.jpg
 referral-place: site/place/centre-protestant.md
