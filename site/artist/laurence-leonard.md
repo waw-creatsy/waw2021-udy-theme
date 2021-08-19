@@ -6,7 +6,6 @@ seo:
 sf: Printmaking/mixed media paper-textile/Artist books
 referral-exhibitor: site/exhibitor/laurence-leonard.md
 image-gallery:
-  - url: /static/images/waw_laurence_leonard_01.png
   - url: /static/images/waw_laurence_leonard_02.jpg
   - url: /static/images/waw_laurence_leonard_03.jpg
   - url: /static/images/waw_laurence_leonard_04.png
