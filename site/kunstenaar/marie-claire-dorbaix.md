@@ -6,7 +6,7 @@ seo:
 artiestendiscipline: Poëzie
 associate-kunstenaar: site/exhibitor/marie-claire-dorbaix.md
 foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
-  - url: /static/images/noyau-de-feu-mc-d-orbaix.jpg
+  - url: /static/images/mcd-o-noyau-de-feu-couverture.jpeg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-ingrid-fogelbaum-en-michel-vertongen.md
 name: Marie-Claire d'Orbaix
 created-on: 2021-08-19T07:34:09.488Z
