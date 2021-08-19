@@ -4,7 +4,7 @@ layout: single-exhibitor.html
 seo:
   twitter:card: summary
 featured-artwork:
-  url: /static/images/waw_lionel_vinche_02.jpg
+  url: /static/images/waw_lionel_vinche_00.jpg
   alt: Painting by Lionel Vinche
 mail: mailto:chantal.bauwens@skynet.be
 website-url: https://espaceb.be/arts-a-glabais-2019/intro.php
