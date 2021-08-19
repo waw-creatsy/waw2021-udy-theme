@@ -7,6 +7,10 @@ seo:
   description: Pierre Courtois - plasticien - lieu numéro 2
 discipline: Plasticien
 artiste-associe: site/exhibitor/pierre-courtois.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_pierre_courtois_03.jpg
+  - url: /static/images/waw_pierre_courtois_05.jpg
+  - {}
 lieu: site/lieu/espace-kamer-9-k9.md
 name: Pierre Courtois
 created-on: 2021-08-13T06:49:07.755Z
