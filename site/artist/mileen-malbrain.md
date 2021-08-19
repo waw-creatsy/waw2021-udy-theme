@@ -6,7 +6,6 @@ seo:
 sf: Textile art/mixed media
 referral-exhibitor: site/exhibitor/mileen-malbrain.md
 image-gallery:
-  - url: /static/images/waw_mileen_malbrain_01.jpg
   - url: /static/images/waw_mileen_malbrain_04.jpg
   - url: /static/images/waw_mileen_malbrain_02.jpg
   - url: /static/images/waw_mileen_malbrain_05.jpg
