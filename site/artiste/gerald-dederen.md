@@ -7,6 +7,10 @@ seo:
   description: Gérald Dederen - Sculpture/Dessin - lieu numéro 9
 discipline: Sculpture/dessin
 artiste-associe: site/exhibitor/gerald-dederen.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_gérald_dederen_02.jpg
+  - url: /static/images/waw_gérald_dederen_01.jpg
+  - url: /static/images/waw_gérald_dederen_04.jpg
 lieu: site/lieu/collectif-nuiits.md
 name: Gerald Dederen
 created-on: 2021-08-12T16:59:25.659Z
