@@ -7,6 +7,10 @@ seo:
   description: Michel Vranckx - Céramique au raku/bronze - lieu numéro 19
 discipline: Céramique au raku/bronze
 artiste-associe: site/exhibitor/michel-vranckx.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_michel_vranckx_02.jpg
+  - url: /static/images/waw_michel_vranckx_03.jpg
+  - url: /static/images/waw_michel_vranckx_04.jpg
 lieu: site/lieu/chez-michel-vranckx.md
 name: Michel Vranckx
 created-on: 2021-08-13T13:26:09.142Z
