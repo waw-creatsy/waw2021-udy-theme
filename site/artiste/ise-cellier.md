@@ -7,6 +7,9 @@ seo:
   description: Ise Cellier - Art textile/estamoe - lieu numéro 5
 discipline: Art textile/estampes
 artiste-associe: site/exhibitor/ise-cellier.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_ise_cellier_00.jpg
+  - url: /static/images/waw_ise_cellier_03.jpg
 lieu: site/lieu/chez-sohie-collet-et-ann-schoemans.md
 name: Ise Cellier
 created-on: 2021-08-12T15:59:16.572Z
