@@ -5,7 +5,7 @@ seo:
   twitter:card: summary
   og:image: /static/images/waw_sophie_collet_01.jpg
 featured-artwork:
-  url: /static/images/waw_sophie_collet_01.jpg
+  url: /static/images/waw_sophie_collet_03.jpg
 mail: mailto:sophiecollet@msn.com
 instagram-url: https://www.instagram.com/sophie_collet37/?hl=fr
 name: Sophie Collet
