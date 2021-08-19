@@ -15,4 +15,4 @@ published-on: 2021-08-18T19:31:36.644Z
 ---
 Présentation et lecture de textes de Marie-Claire d’Orbaix par Caroline Lamarche suivie d’une conversation avec Renaud et Béatrice Denuit**.** 
 
-Inscription obligatoire :“ingridfogelbaum@gmail.com”
+Inscription obligatoire par mail à “ingridfogelbaum@gmail.com”
