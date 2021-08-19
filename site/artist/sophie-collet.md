@@ -6,7 +6,6 @@ seo:
 sf: Painting/Drawn-travelbooks
 referral-exhibitor: site/exhibitor/sophie-collet.md
 image-gallery:
-  - url: /static/images/waw_sophie_collet_01.jpg
   - url: /static/images/waw_sophie_collet_02.jpg
   - url: /static/images/waw_sophie_collet_03.jpg
   - {}
