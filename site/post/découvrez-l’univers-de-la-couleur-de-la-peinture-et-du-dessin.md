@@ -9,7 +9,8 @@ short-description: ""
 image:
   url: /static/images/couleurs-peinture-et-dessin.jpg
 place: site/place/chez-caroline-dujardin.md
-name: "Exposé : l’univers de la couleur, de la peinture et du dessin "
+name: "Evénement au lieu - Exposé sur l’univers de la couleur, de la peinture et
+  du dessin "
 created-on: 2021-08-07T20:13:30.037Z
 updated-on: 2021-08-07T20:13:30.051Z
 published-on: 2021-08-07T20:13:30.062Z
