@@ -5,6 +5,9 @@ seo:
   twitter:card: summary
 discipline: Gravure
 artiste-associe: site/exhibitor/chantal-sallustin.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_chantal_sallustin_02.jpg
+  - url: /static/images/waw_chantal_sallustin_03.jpg
 lieu: site/lieu/maison-rosiéroise.md
 name: Chantal Sallustin
 created-on: 2021-08-13T05:31:20.184Z
