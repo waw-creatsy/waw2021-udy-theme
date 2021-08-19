@@ -6,7 +6,6 @@ seo:
 sf: Sculpture
 referral-exhibitor: site/exhibitor/caroline-sauvage.md
 image-gallery:
-  - url: /static/images/waw_caro_sauvage_00.jpg
   - url: /static/images/waw_caro_sauvage_05.jpg
   - url: /static/images/waw_caro_sauvage_01.jpg
   - url: /static/images/waw_caro_sauvage_03.jpg
