@@ -7,6 +7,9 @@ seo:
   description: Claude Chevault - photographie - lieu numéro 13
 discipline: Photographie
 artiste-associe: site/exhibitor/claude-chervault.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_claude_hervault_02.jpg
+  - url: /static/images/waw_claude_hervault_00.jpg
 lieu: site/lieu/restaurant-hôtel-de-la-gare.md
 name: Claude Chervault
 created-on: 2021-08-13T12:40:03.038Z
