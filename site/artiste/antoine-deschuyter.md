@@ -7,6 +7,11 @@ seo:
   description: Antoine Deschuyter - Installation audiovisuelle - lieu numéro 15
 discipline: Installation audiovisuelle
 artiste-associe: site/exhibitor/antoine-deschuyter.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_antoine_deschuyter_01.jpg.jpg
+  - url: /static/images/waw_antoine_deschuyter_02.jpg.jpg
+  - url: /static/images/waw_antoine_deschuyter_03.jpg.jpg
+  - url: /static/images/waw_antoine_deschuyter_05.jpg.jpg
 lieu: site/lieu/chez-myriam-deru.md
 name: Antoine Deschuyter
 created-on: 2021-08-13T12:59:43.713Z
