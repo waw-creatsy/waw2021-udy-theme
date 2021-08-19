@@ -4,7 +4,7 @@ layout: single-exhibitor.html
 seo:
   twitter:card: summary
 featured-artwork:
-  url: /static/images/noyau-de-feu-mc-d-orbaix.jpg
+  url: /static/images/mcd-o-noyau-de-feu-couverture.jpeg
 website-url: https://objectifplumes.be/author/marie-claire-dorbaix/#.YR6BVo4zb3Z
 name: Marie-Claire d'Orbaix
 created-on: 2021-08-18T15:45:48.342Z
