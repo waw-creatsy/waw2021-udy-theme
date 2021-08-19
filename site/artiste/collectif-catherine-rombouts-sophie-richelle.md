@@ -7,6 +7,10 @@ seo:
   description: Collectif Rombouts & Richelle - lieu numéro 4
 discipline: Edition/photographie
 artiste-associe: site/exhibitor/collectif-catherine-rombouts-sophie-richelle.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_catherine_rombouts_02.jpg
+  - url: /static/images/waw_catherine_rombouts_03.jpg
+  - url: /static/images/waw_catherine_rombouts_04.jpg
 lieu: site/lieu/centre-protestant.md
 name: Collectif Catherine Rombouts  & Sophie Richelle
 created-on: 2021-08-13T11:20:42.876Z
