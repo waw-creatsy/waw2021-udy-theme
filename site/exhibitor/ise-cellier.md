@@ -4,7 +4,7 @@ layout: single-exhibitor.html
 seo:
   twitter:card: summary
 featured-artwork:
-  url: /static/images/waw_ise_cellier_00.jpg
+  url: /static/images/waw_ise_cellier_01.jpg
 mail: mailto:isecellier@gmail.com
 website-url: http://www.marque-ise.com/WP/
 facebook-url: https://www.facebook.com/ise.cellier
