@@ -5,6 +5,9 @@ seo:
   twitter:card: summary
 artiestendiscipline: Digitale kunst
 associate-kunstenaar: site/exhibitor/brigitte-schuermans.md
+foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
+  - url: /static/images/waw_brigitte_schuèrmans_01.jpg
+  - url: /static/images/waw_brigitte_schuèrmans_05.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/restaurant-hôtel-de-la-gare.md
 name: Brigitte Schuermans
 created-on: 2021-08-13T12:34:32.366Z
