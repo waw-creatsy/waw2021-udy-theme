@@ -5,6 +5,10 @@ seo:
   twitter:card: summary
 artiestendiscipline: Zeefdruk/Fotografie/Video
 associate-kunstenaar: site/exhibitor/esther-eggermont.md
+foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
+  - url: /static/images/waw_esther_eggermont_01.jpg
+  - url: /static/images/waw_esther_eggermont_03.jpg
+  - url: /static/images/waw_esther_eggermont_04.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/tour-musée-et-café-du-tir-à-larc-de-genval.md
 name: Esther Eggermont
 created-on: 2021-08-13T11:51:20.780Z
