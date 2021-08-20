@@ -5,6 +5,9 @@ seo:
   twitter:card: summary
 artiestendiscipline: Illustratie/schilderkunst/teken-reisboeken
 associate-kunstenaar: site/exhibitor/myriam-deru.md
+foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
+  - url: /static/images/waw_myriam_deru_04.jpg
+  - url: /static/images/waw_myriam_deru_02.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-myriam-deru.md
 name: Myriam Deru
 created-on: 2021-08-13T12:54:38.792Z
