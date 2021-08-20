@@ -5,6 +5,9 @@ seo:
   twitter:card: summary
 artiestendiscipline: Textielkunst
 associate-kunstenaar: site/exhibitor/adeline-hallot.md
+foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
+  - url: /static/images/waw_adeline_halot_02.jpg
+  - url: /static/images/waw_adeline_halot_03.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/bij-christine-reper.md
 name: Adeline Halot
 created-on: 2021-08-12T15:13:18.608Z
