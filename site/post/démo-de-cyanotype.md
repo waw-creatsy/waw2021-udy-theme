@@ -9,7 +9,7 @@ short-description: ""
 image:
   url: /static/images/waw_monik_myle_cyano.jpeg
 place: site/place/place-of-monik-myle.md
-name: "Evénement au lieu : Cyanotype (demo)"
+name: "Demo de Cyanotype "
 created-on: 2021-08-13T15:32:25.911Z
 updated-on: 2021-08-13T15:32:25.926Z
 published-on: 2021-08-13T15:32:25.935Z
