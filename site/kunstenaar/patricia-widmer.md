@@ -5,6 +5,10 @@ seo:
   twitter:card: summary
 artiestendiscipline: Keramiek
 associate-kunstenaar: site/exhibitor/patricia-widmer.md
+foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
+  - url: /static/images/waw_patricia_widmer_01.jpg.jpg
+  - url: /static/images/waw_patricia_widmer_03.jpg.jpg
+  - url: /static/images/waw_patricia_widmer_04.jpg.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-patricia-widmer.md
 name: Patricia Widmer
 created-on: 2021-08-13T06:30:01.111Z
