@@ -5,6 +5,9 @@ seo:
   twitter:card: summary
 artiestendiscipline: Beeldhouwkunst
 associate-kunstenaar: site/exhibitor/bernard-declercq.md
+foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
+  - url: /static/images/waw_bernard_declercq_05.jpg
+  - url: /static/images/waw_bernard_declercq_02.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-juliane-lavis.md
 name: Bernard Declercq
 created-on: 2021-08-12T17:06:07.994Z
