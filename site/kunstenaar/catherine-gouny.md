@@ -5,6 +5,9 @@ seo:
   twitter:card: summary
 artiestendiscipline: Schilderkunst
 associate-kunstenaar: site/exhibitor/catherine-gouny.md
+foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
+  - url: /static/images/waw_catherine_gouny_01.jpg.jpg
+  - url: /static/images/waw_catherine_gouny_02.jpg.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-sophie-collet-en-ann-schoemans.md
 name: Catherine Gouny
 created-on: 2021-08-12T16:17:26.384Z
