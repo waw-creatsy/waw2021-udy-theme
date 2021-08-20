@@ -7,7 +7,7 @@ language-link: site/index/home.md
 place-number: 5
 featured-artwork:
   url: /static/images/waw_ann_schoemans_00.jpg
-quote: IL NEIGE, D‘UNE LÉGÈRE ET RÊVEUSE       ET FOL TRE ET FL NEUSE       ET
+quote: IL NEIGE, D‘UNE LÉGÈRE ET RÊVEUSE       ET FOL ATRE ET FL ANEUSE       ET
   NEUVE NEIGE
 opening-hours: 11am> 7pm
 number-of-exhibitors: 6 artists
