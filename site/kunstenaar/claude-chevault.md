@@ -5,6 +5,9 @@ seo:
   twitter:card: summary
 artiestendiscipline: Fotografie
 associate-kunstenaar: site/exhibitor/claude-chervault.md
+foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
+  - url: /static/images/waw_claude_hervault_02.jpg
+  - url: /static/images/waw_claude_hervault_00.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/restaurant-hôtel-de-la-gare.md
 name: Claude Chevault
 created-on: 2021-08-13T12:40:49.962Z
