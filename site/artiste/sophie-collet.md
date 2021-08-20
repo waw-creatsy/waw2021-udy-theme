@@ -7,6 +7,9 @@ seo:
   description: Sophie Collet - Peinture/carnets de voyage - lieu numéro 5
 discipline: Peinture/carnets de voyages
 artiste-associe: site/exhibitor/sophie-collet.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_sophie_collet_01.jpg
+  - url: /static/images/waw_sophie_collet_02.jpg
 lieu: site/lieu/chez-sohie-collet-et-ann-schoemans.md
 name: Sophie Collet
 created-on: 2021-08-12T15:39:04.192Z
