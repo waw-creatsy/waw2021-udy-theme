@@ -5,6 +5,11 @@ seo:
   twitter:card: summary
 artiestendiscipline: Schilderkunst
 associate-kunstenaar: site/exhibitor/christine-reper.md
+foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
+  - url: /static/images/waw_christine_reper_02.jpg
+  - url: /static/images/waw_christine_reper_03.jpg
+  - url: /static/images/waw_christine_reper_04.jpg
+  - url: /static/images/waw_christine_reper_05.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/bij-christine-reper.md
 name: Christine Reper
 created-on: 2021-08-09T16:11:38.908Z
