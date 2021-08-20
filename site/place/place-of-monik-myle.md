@@ -5,6 +5,8 @@ seo:
   twitter:card: summary
 language-link: site/index/home.md
 place-number: 7
+featured-artwork:
+  url: /static/images/waw_monik_myle_01.jpg
 quote: COMME UNE BLANCHE PAROLE       COMME UN SURSAUT DE PÉTALE
 opening-hours: 11am>7pm
 number-of-exhibitors: 2 artists
