@@ -5,6 +5,9 @@ seo:
   twitter:card: summary
 artiestendiscipline: Schilderkunst
 associate-kunstenaar: site/exhibitor/lionel-vinche.md
+foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
+  - url: /static/images/waw_lionel_vinche_01.jpg
+  - url: /static/images/waw_lionel_vinche_04.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/at-caroline.md
 name: Lionel Vinche
 created-on: 2021-08-12T15:10:12.864Z
