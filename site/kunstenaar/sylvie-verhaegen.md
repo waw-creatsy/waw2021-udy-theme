@@ -5,6 +5,10 @@ seo:
   twitter:card: summary
 artiestendiscipline: Grafiek/Plastische kunst
 associate-kunstenaar: site/exhibitor/sylvie-verhaegen.md
+foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
+  - url: /static/images/waw_sylvie_verhaegen_0.jpg
+  - url: /static/images/waw_sylvie_verhaegen_02.jpg
+  - url: /static/images/waw_sylvie_verhaegen_04.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-myriam-deru.md
 name: Sylvie Verhaegen
 created-on: 2021-08-13T13:08:04.771Z
