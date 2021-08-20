@@ -5,6 +5,10 @@ seo:
   twitter:card: summary
 artiestendiscipline: Visuele kunst/Portret tekenen
 associate-kunstenaar: site/exhibitor/véronique-van-der-wielen.md
+foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
+  - url: /static/images/waw_van_der_wielen_01.jpg
+  - url: /static/images/waw_van_der_wielen_02.jpg
+  - url: /static/images/waw_van_der_wielen_04.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/hangar-de-latelier-16.md
 name: Véronique van der Wielen
 created-on: 2021-08-13T12:15:22.204Z
