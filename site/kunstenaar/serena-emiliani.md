@@ -5,6 +5,10 @@ seo:
   twitter:card: summary
 artiestendiscipline: Visuele kunst/Performance
 associate-kunstenaar: site/exhibitor/serena-emiliani.md
+foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
+  - url: /static/images/waw_serena_emilani_01.jpg
+  - url: /static/images/waw_serena_emilani_03.jpg
+  - url: /static/images/waw_serena_emilani_04.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/tour-musée-et-café-du-tir-à-larc-de-genval.md
 name: Serena Emiliani
 created-on: 2021-08-13T11:58:05.022Z
