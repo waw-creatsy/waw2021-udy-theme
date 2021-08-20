@@ -5,6 +5,9 @@ seo:
   twitter:card: summary
 artiestendiscipline: Schilderkunst/teken-reisboeken
 associate-kunstenaar: site/exhibitor/sophie-collet.md
+foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
+  - url: /static/images/waw_sophie_collet_01.jpg
+  - url: /static/images/waw_sophie_collet_02.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-sophie-collet-en-ann-schoemans.md
 name: Sophie Collet
 created-on: 2021-08-12T15:41:04.384Z
