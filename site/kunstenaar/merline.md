@@ -5,6 +5,9 @@ seo:
   twitter:card: summary
 artiestendiscipline: Schilderkunst/ Bic tekeningen
 associate-kunstenaar: site/exhibitor/merline.md
+foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
+  - url: /static/images/waw_merline_02.jpg
+  - url: /static/images/waw_merline_04.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-michel-vranckx.md
 name: Merline
 created-on: 2021-08-13T13:31:30.915Z
