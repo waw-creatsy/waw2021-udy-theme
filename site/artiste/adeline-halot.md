@@ -6,7 +6,6 @@ seo:
 discipline: Sculpture textile
 artiste-associe: site/exhibitor/adeline-hallot.md
 galerie-d-images-attention-memes-images-qu-en-en:
-  - url: /static/images/waw_adeline_halot_01.jpg
   - url: /static/images/waw_adeline_halot_02.jpg
   - url: /static/images/waw_adeline_halot_03.jpg
 lieu: site/lieu/chez-christine-reper.md
