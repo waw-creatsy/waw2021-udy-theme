@@ -7,7 +7,7 @@ category: site/category/événements.md
 date-time: Tous les jours de 13h à 14h (si soleil)
 short-description: ""
 image:
-  url: /static/images/img_3317-copy.jpg
+  url: /static/images/waw_monik_myle_cyano.jpeg
 place: site/place/place-of-monik-myle.md
 name: "Evénement au lieu : Demo de Cyanotype "
 created-on: 2021-08-13T15:32:25.911Z
