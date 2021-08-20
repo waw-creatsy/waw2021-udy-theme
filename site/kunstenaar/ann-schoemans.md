@@ -5,6 +5,10 @@ seo:
   twitter:card: summary
 artiestendiscipline: Beeldhouwkunst
 associate-kunstenaar: site/exhibitor/ann-schoemans.md
+foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
+  - url: /static/images/waw_ann_schoemans_01.jpg
+  - url: /static/images/waw_ann_schoemans_03.jpg
+  - url: /static/images/waw_ann_schoemans_05.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-sophie-collet-en-ann-schoemans.md
 name: Ann Schoemans
 created-on: 2021-08-12T15:52:13.245Z
