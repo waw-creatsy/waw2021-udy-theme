@@ -5,6 +5,11 @@ seo:
   twitter:card: summary
 artiestendiscipline: Audiovisuele installatie
 associate-kunstenaar: site/exhibitor/antoine-deschuyter.md
+foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
+  - url: /static/images/waw_antoine_deschuyter_01.jpg.jpg
+  - url: /static/images/waw_antoine_deschuyter_02.jpg.jpg
+  - url: /static/images/waw_antoine_deschuyter_03.jpg.jpg
+  - url: /static/images/waw_antoine_deschuyter_05.jpg.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-myriam-deru.md
 name: Antoine Deschuyter
 created-on: 2021-08-13T13:00:38.757Z
