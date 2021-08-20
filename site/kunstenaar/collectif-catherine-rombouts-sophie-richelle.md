@@ -5,6 +5,10 @@ seo:
   twitter:card: summary
 artiestendiscipline: Kunstboek/Fotographie
 associate-kunstenaar: site/exhibitor/collectif-catherine-rombouts-sophie-richelle.md
+foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
+  - url: /static/images/waw_catherine_rombouts_02.jpg
+  - url: /static/images/waw_catherine_rombouts_03.jpg
+  - url: /static/images/waw_catherine_rombouts_04.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/centre-protestant.md
 name: Collectif Catherine Rombouts & Sophie Richelle
 created-on: 2021-08-13T11:21:41.653Z
