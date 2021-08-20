@@ -5,6 +5,8 @@ seo:
   twitter:card: summary
 language-link: site/index/home.md
 place-number: 16
+featured-artwork:
+  url: /static/images/waw_christine_reper_01.jpg
 quote: VOIX DE L’AIR, Ô CLAIRE TRANSPARENCE
 opening-hours: 11am>7pm
 number-of-exhibitors: 3 artists
