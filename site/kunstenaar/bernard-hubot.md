@@ -5,6 +5,9 @@ seo:
   twitter:card: summary
 artiestendiscipline: Installatiekunst
 associate-kunstenaar: site/exhibitor/bernard-hubot.md
+foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
+  - url: /static/images/waw_bernard_hubot_03.jpg
+  - url: /static/images/waw_bernard_hubot_06.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/espace-kamer-9-k9.md
 name: Bernard Hubot
 created-on: 2021-08-12T19:32:58.154Z
