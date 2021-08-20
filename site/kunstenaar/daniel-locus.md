@@ -5,6 +5,11 @@ seo:
   twitter:card: summary
 artiestendiscipline: Multimedia (fotografie/video)
 associate-kunstenaar: site/exhibitor/daniel-locus.md
+foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
+  - url: /static/images/waw_daniel_locus_02.jpg
+  - url: /static/images/waw_daniel_locus_03.jpg
+  - url: /static/images/waw_daniel_locus_04.jpg
+  - url: /static/images/waw_daniel_locus_06.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/espace-kamer-9-k9.md
 name: Daniel Locus
 created-on: 2021-08-12T19:17:03.894Z
