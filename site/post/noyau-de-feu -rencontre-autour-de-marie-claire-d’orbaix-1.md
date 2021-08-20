@@ -8,8 +8,7 @@ date-time: "Le dimanche 17 octobre à 15h "
 image:
   url: /static/images/mcd-o-noyau-de-feu-couverture.jpeg
 place: site/place/place-of-ingrid-fogelbaum-michel-vertongen.md
-name: "Evénement au lieu 18 : Noyau de feu - Rencontre autour de Marie-Claire
-  d’Orbaix "
+name: "Noyau de feu - Rencontre autour de Marie-Claire d’Orbaix "
 created-on: 2021-08-18T19:31:36.622Z
 updated-on: 2021-08-18T19:31:36.636Z
 published-on: 2021-08-18T19:31:36.644Z
