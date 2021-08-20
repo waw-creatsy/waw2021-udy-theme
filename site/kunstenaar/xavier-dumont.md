@@ -5,6 +5,9 @@ seo:
   twitter:card: summary
 artiestendiscipline: Beeldhouwkunst
 associate-kunstenaar: site/exhibitor/xavier-dumont.md
+foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
+  - url: /static/images/waw_xavier-dumont_02.jpg
+  - url: /static/images/waw_xavier-dumont_04.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-sophie-collet-en-ann-schoemans.md
 name: Xavier Dumont
 created-on: 2021-08-13T06:44:19.565Z
