@@ -5,6 +5,11 @@ seo:
   twitter:card: summary
 artiestendiscipline: Beeldhouwkunst
 associate-kunstenaar: site/exhibitor/caroline-sauvage.md
+foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
+  - url: /static/images/waw_caro_sauvage_05.jpg
+  - url: /static/images/waw_caro_sauvage_01.jpg
+  - url: /static/images/waw_caro_sauvage_03.jpg
+  - url: /static/images/waw_caro_sauvage_04.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-myriam-deru.md
 name: Caroline Sauvage
 created-on: 2021-08-13T13:04:39.305Z
