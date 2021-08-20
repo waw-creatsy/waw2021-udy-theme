@@ -5,6 +5,10 @@ seo:
   twitter:card: summary
 artiestendiscipline: Grafiek/Papier en textieldruk/Kunstboeken
 associate-kunstenaar: site/exhibitor/laurence-leonard.md
+foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
+  - url: /static/images/waw_laurence_leonard_02.jpg
+  - url: /static/images/waw_laurence_leonard_03.jpg
+  - url: /static/images/waw_laurence_leonard_04.png
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-myriam-deru.md
 name: Laurence Leonard
 created-on: 2021-08-13T13:12:59.846Z
