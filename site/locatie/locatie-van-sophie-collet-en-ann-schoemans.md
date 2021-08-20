@@ -5,8 +5,8 @@ seo:
   twitter:card: summary
 language-link-choisir: site/index/hoofdpagina.md
 numero-du-lieu: 5
-witte-zin: IL NEIGE, D‘UNE LÉGÈRE ET RÊVEUSE       ET FOL ATRE ET FL
-  ANEUSE       ET NEUVE NEIGE
+witte-zin: il neige, d'une légère et rêveuse      et folâtre et
+  flâneuse       et neuve neige
 openingstijd: 11.00 > 19.00 uur
 aantal-kunstenaars: 6 kunstenaars
 associated-locatie: site/place/place-of-sophie-collet-and-ann-schoemans.md
