@@ -5,6 +5,11 @@ seo:
   twitter:card: summary
 artiestendiscipline: Textielkunst/ Mixed media
 associate-kunstenaar: site/exhibitor/mileen-malbrain.md
+foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
+  - url: /static/images/waw_mileen_malbrain_04.jpg
+  - url: /static/images/waw_mileen_malbrain_02.jpg
+  - url: /static/images/waw_mileen_malbrain_05.jpg
+  - {}
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-monik-myle.md
 name: Mileen Malbrain
 created-on: 2021-08-13T11:40:28.177Z
