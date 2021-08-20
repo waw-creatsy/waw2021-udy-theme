@@ -5,6 +5,9 @@ seo:
   twitter:card: summary
 artiestendiscipline: Grafiek
 associate-kunstenaar: site/exhibitor/chantal-sallustin.md
+foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
+  - url: /static/images/waw_chantal_sallustin_02.jpg
+  - url: /static/images/waw_chantal_sallustin_03.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/maison-rosiéroise.md
 name: Chantal Sallustin
 created-on: 2021-08-13T06:37:19.136Z
