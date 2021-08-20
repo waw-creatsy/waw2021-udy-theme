@@ -6,9 +6,8 @@ seo:
 sf: Painting/Drawn-travelbooks
 referral-exhibitor: site/exhibitor/sophie-collet.md
 image-gallery:
+  - url: /static/images/waw_sophie_collet_01.jpg
   - url: /static/images/waw_sophie_collet_02.jpg
-  - url: /static/images/waw_sophie_collet_03.jpg
-  - {}
 referral-place: site/place/place-of-sophie-collet-and-ann-schoemans.md
 name: Sophie Collet
 created-on: 2021-08-12T15:36:28.938Z
