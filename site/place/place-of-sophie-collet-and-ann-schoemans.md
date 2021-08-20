@@ -7,8 +7,8 @@ language-link: site/index/home.md
 place-number: 5
 featured-artwork:
   url: /static/images/waw_ann_schoemans_00.jpg
-quote: IL NEIGE, D‘UNE LÉGÈRE ET RÊVEUSE       ET FOL ATRE ET FL ANEUSE       ET
-  NEUVE NEIGE
+quote: il neige, d'une légère et rêveuse      et folâtre et flâneuse       et
+  neuve neige
 opening-hours: 11am> 7pm
 number-of-exhibitors: 6 artists
 copy-artist-present-in-this-place: Sophie Collet, Ann Schoemans, Ise Cellier,
