@@ -9,7 +9,7 @@ short-description: ""
 image:
   url: /static/images/pigment-nouvelles-photo.jpg
 place: site/place/chez-caroline-dujardin.md
-name: "Demo : Réaliser sa peinture avec des pigments"
+name: "Evenement au lieu : Demo - Réaliser sa peinture avec des pigments"
 created-on: 2021-08-07T20:11:50.339Z
 updated-on: 2021-08-07T20:11:50.357Z
 published-on: 2021-08-07T20:11:50.370Z
