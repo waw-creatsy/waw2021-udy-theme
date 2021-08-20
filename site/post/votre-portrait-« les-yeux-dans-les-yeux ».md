@@ -8,7 +8,7 @@ date-time: Tous les jours de 11h à 19h
 image:
   url: /static/images/les-yeux-dans-les-yeux-3.jpg
 place: site/place/hangar-de-latelier-16.md
-name: "Evénement au lieu 11 : Votre portrait « les yeux dans les yeux »"
+name: Votre portrait « les yeux dans les yeux »
 created-on: 2021-08-18T16:10:07.871Z
 updated-on: 2021-08-18T16:10:07.887Z
 published-on: 2021-08-18T16:10:07.897Z
