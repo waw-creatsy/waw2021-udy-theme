@@ -5,6 +5,9 @@ seo:
   twitter:card: summary
 artiestendiscipline: Textiel kunst/Vrije grafiek
 associate-kunstenaar: site/exhibitor/ise-cellier.md
+foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
+  - url: /static/images/waw_ise_cellier_00.jpg
+  - url: /static/images/waw_ise_cellier_03.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-sophie-collet-en-ann-schoemans.md
 name: Ise Cellier
 created-on: 2021-08-12T16:00:20.618Z
