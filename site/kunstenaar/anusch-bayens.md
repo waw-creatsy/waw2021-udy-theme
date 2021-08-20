@@ -5,6 +5,9 @@ seo:
   twitter:card: summary
 artiestendiscipline: Glas
 associate-kunstenaar: site/exhibitor/anusch-bayens.md
+foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
+  - url: /static/images/waw_anuschb_02.jpg
+  - url: /static/images/waw_anuschb_03.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-patricia-widmer.md
 name: Anusch Bayens
 created-on: 2021-08-13T07:03:06.960Z
