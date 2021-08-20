@@ -4,7 +4,7 @@ layout: single-exhibitor.html
 seo:
   twitter:card: summary
 featured-artwork:
-  url: ""
+  url: /static/images/waw_christine_reper_01.jpg
 mail: mailto:christinereper.be@gmail.com
 instagram-url: https://www.instagram.com/christine_reper/?hl=fr
 name: Christine Reper
