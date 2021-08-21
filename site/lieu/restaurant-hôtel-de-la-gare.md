@@ -7,7 +7,7 @@ seo:
   description: Lieu numéro 13/Claude Chervault, Brigitte Schuermans
 language-link-choisir-accueil: site/index/accueil.md
 numero-du-lieu: 13
-phrase-blanche: UNE PAGE BLANCHE       UNE PAGE DE SILENCE       EN FRAGILE IMMOBILITÉ
+phrase-blanche: UNE PAGE BLANCHE       UNE PAGE DE SILENCE       EN FRAGILE IMMOBILITÉ
 horaire-d-ouverture: 11h>19h
 nombre-d-artistes-1-artiste-2-artistes: 2 artistes
 lieu-associe: site/place/restaurant-hôtel-de-la-gare.md
