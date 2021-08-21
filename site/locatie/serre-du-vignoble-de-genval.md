@@ -5,8 +5,8 @@ seo:
   twitter:card: summary
 language-link-choisir: site/index/hoofdpagina.md
 numero-du-lieu: 6
-witte-zin: MA BELLE ET BLANCHE AMIE       CHAQUE BRINDILLE       A SA
-  MANTILLE       CHAQUE GLAÇON       EST UN RAYON
+witte-zin: MA BELLE ET BLANCHE AMIE       CHAQUE BRINDILLE       A SA MANTILLE  
+      CHAQUE GLAÇON       EST UN RAYON
 openingstijd: 11.00 > 19.00 uur
 aantal-kunstenaars: 1 kunstenaar
 associated-locatie: site/place/serre-du-vignoble-de-genval.md
