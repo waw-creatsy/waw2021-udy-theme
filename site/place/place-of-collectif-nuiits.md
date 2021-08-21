@@ -7,7 +7,7 @@ language-link: site/index/home.md
 place-number: 9
 featured-artwork:
   url: /static/images/waw_collectif_nuiit_00.jpg
-quote: " CHARGE DU BLANC       SUR LES BRANCHES       ÉTONNEMENT DU SILENCE"
+quote: CHARGE DU BLANC       SUR LES BRANCHES       ÉTONNEMENT DU SILENCE
 opening-hours: 11am>7pm
 number-of-exhibitors: 3 artists
 copy-artist-present-in-this-place: Collectif Nuiits, Gerald Dederen, Bernard Declercq
