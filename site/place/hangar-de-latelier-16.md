@@ -7,7 +7,7 @@ language-link: site/index/home.md
 place-number: 11
 featured-artwork:
   url: /static/images/waw_colin_delvaulx_01.jpg
-quote: CE MOT NE SORTIRA PAS DE MA PLUME       NE BLANCHIRA PAS VOS LÈVRES
+quote: CE MOT NE SORTIRA PAS DE MA PLUME       NE BLANCHIRA PAS VOS LÈVRES
 opening-hours: 11am>7pm
 number-of-exhibitors: 2 artists
 event: site/post/peinture-libre-collective.md
