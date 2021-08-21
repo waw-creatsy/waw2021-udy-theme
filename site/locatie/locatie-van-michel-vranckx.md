@@ -5,7 +5,7 @@ seo:
   twitter:card: summary
 language-link-choisir: site/index/hoofdpagina.md
 numero-du-lieu: 19
-witte-zin: UN DÉCLIC SUR LE PAPIER BLANC       ET JE RALLUME VOTRE VIE
+witte-zin: UN DÉCLIC SUR LE PAPIER BLANC       ET JE RALLUME VOTRE VIE
 openingstijd: 11.00 > 19.00 uur
 aantal-kunstenaars: 3 kunstenaars
 associated-locatie: site/place/place-of-michel-vranckx.md
