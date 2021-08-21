@@ -8,7 +8,7 @@ place-number: 8
 featured-artwork:
   url: /static/images/waw_caroline_dujardin-_01.jpeg
   alt: Peinture de Caroline Dujardin
-quote: COMME DU LINGE ÉPARS AU JARDIN       LA NEIGE
+quote: COMME DU LINGE ÉPARS AU JARDIN       LA NEIGE
 opening-hours: 11am > 7pm
 number-of-exhibitors: 4 artists
 event: site/post/réaliser-sa-peinture-avec-des-pigments.md
