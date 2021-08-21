@@ -5,7 +5,7 @@ seo:
   twitter:card: summary
 language-link-choisir-accueil: site/index/accueil.md
 numero-du-lieu: 17
-phrase-blanche: CE MOT NE SORTIRA PAS DE MA PLUME       NE DÉTRUIRA PAS L’ESPACE BLANC
+phrase-blanche: CE MOT NE SORTIRA PAS DE MA PLUME       NE DÉTRUIRA PAS L’ESPACE BLANC
 horaire-d-ouverture: 11h>19h
 nombre-d-artistes-1-artiste-2-artistes: 1 artiste
 lieu-associe: site/place/michel-delvaulx.md
