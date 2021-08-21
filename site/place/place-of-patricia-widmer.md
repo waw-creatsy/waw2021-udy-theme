@@ -7,7 +7,7 @@ language-link: site/index/home.md
 place-number: 14
 featured-artwork:
   url: /static/images/waw_patricia_widmer_00.jpg.jpg
-quote: UNE PAGE BLANCHE       UNE PAGE DE SILENCE       EN IMMOBILE FRAGILITÉ
+quote: "UNE PAGE BLANCHE       UNE PAGE DE SILENCE       EN IMMOBILE FRAGILITÉ "
 opening-hours: 11am>7pm
 number-of-exhibitors: 2 artists
 copy-artist-present-in-this-place: Patricia Widmer, Anusch Bayens
