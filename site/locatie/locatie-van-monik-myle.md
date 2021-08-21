@@ -5,7 +5,7 @@ seo:
   twitter:card: summary
 language-link-choisir: site/index/hoofdpagina.md
 numero-du-lieu: 7
-witte-zin: CES ESPACES DE GLACE       JE LES JETTE DANS LE SOLEIL       EN
+witte-zin: CES ESPACES DE GLACE       JE LES JETTE DANS LE SOLEIL       EN
   SORTENT LES TORCHES DE MES MOTS
 openingstijd: 11.00 > 19.00 uur
 aantal-kunstenaars: 2 kunstenaars
