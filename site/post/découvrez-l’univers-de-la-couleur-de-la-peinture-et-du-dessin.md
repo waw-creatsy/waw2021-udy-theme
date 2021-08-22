@@ -7,7 +7,7 @@ category: site/category/événements.md
 date-time: Le dimanche 17 oct à 15h
 short-description: ""
 image:
-  url: /static/images/couleurs-peinture-et-dessin.jpg
+  url: /static/images/waw_caroline_dujardin_03.png
 place: site/place/chez-caroline-dujardin.md
 name: "Exposé sur l’univers de la couleur, de la peinture et du dessin "
 created-on: 2021-08-07T20:13:30.037Z
