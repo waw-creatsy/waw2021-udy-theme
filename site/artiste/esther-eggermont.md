@@ -17,3 +17,12 @@ created-on: 2021-08-13T11:49:42.011Z
 updated-on: 2021-08-13T11:49:42.021Z
 published-on: 2021-08-13T11:49:42.031Z
 ---
+<!--StartFragment-->
+
+« Dès que nous avons découvert ce qu'est l'objet représenté, la photographie se transforme instantanément pour nous - elle n'est plus un conglomérat confus de tons clairs et foncés, de bords incertains et de volumes ambivalents, elle montre maintenant une "chose" que nous investissons d'une identité à part entière, un être. (...) - la plénitude, la cohérence, l'identité, que nous attribuons à la scène représentée est une projection, un refus d'une réalité appauvrie au profit d'une plénitude imaginaire «  
+
+Victor Burgin
+
+
+
+<!--EndFragment-->
