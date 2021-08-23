@@ -17,6 +17,6 @@ published-on: 2021-08-13T06:54:47.841Z
 ---
 <!--StartFragment-->
 
-**Vetrekkende van vegetale motieven wil ik kwetsbaarheid en vergankelijkheid als thema aanreiken en ombuigen tot een soort van schoonheidsbeleving; een trieste lichtvoetigheid.  De schilderijen ontstaan door het herhaaldelijk opzetten, weghalen of wegschuren van de verf. Een wisselwerking tussen verschijnen en verdwijnen van vorm en kleur. Wat rest is een soort van nabeeld dat doet mijmeren en de toeschouwer uitnodigt te verdwalen binnen het onzekere beeld dat een metafoor is voor ons nietig bestaan.**
+Vetrekkende van vegetale motieven wil ik kwetsbaarheid en vergankelijkheid als thema aanreiken en ombuigen tot een soort van schoonheidsbeleving; een trieste lichtvoetigheid.  De schilderijen ontstaan door het herhaaldelijk opzetten, weghalen of wegschuren van de verf. Een wisselwerking tussen verschijnen en verdwijnen van vorm en kleur. Wat rest is een soort van nabeeld dat doet mijmeren en de toeschouwer uitnodigt te verdwalen binnen het onzekere beeld dat een metafoor is voor ons nietig bestaan.
 
 <!--EndFragment-->
