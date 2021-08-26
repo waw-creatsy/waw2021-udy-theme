@@ -7,6 +7,10 @@ seo:
   description: Monik Myle - Arts visuel/cyanotypes - lieu numéro 7
 discipline: Visual arts, cyanotype
 artiste-associe: site/exhibitor/monik-myle.md
+galerie-d-images-attention-memes-images-qu-en-en:
+  - url: /static/images/waw_monik_myle_01.jpg
+  - url: /static/images/waw_monik_myle_02.jpg
+  - url: /static/images/waw_monik_myle_03.jpg
 lieu: site/lieu/chez-monik-myle.md
 name: Monik Myle
 created-on: 2021-08-13T11:34:09.125Z
