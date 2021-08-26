@@ -7,8 +7,8 @@ sf: Visual arts, cyanotype
 referral-exhibitor: site/exhibitor/monik-myle.md
 image-gallery:
   - url: /static/images/waw_monik_myle_01.jpg
-  - url: /static/images/waw_monik_myle_02.jpg
   - url: /static/images/waw_monik_myle_03.jpg
+  - url: /static/images/waw_monik_myle_02.jpg
 referral-place: site/place/place-of-monik-myle.md
 name: Monik Myle
 created-on: 2021-08-13T11:33:09.218Z
