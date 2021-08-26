@@ -7,7 +7,7 @@ sf: Painting
 referral-exhibitor: site/exhibitor/anne-françoise-jadin.md
 image-gallery:
   - url: /static/images/waw_anne_francoise_jadin_07.jpg
-  - url: /static/images/waw_anne_francoise_jadin_08.jpg
+  - url: /static/images/waw_anne_francoise_jadin_06.jpg
   - url: /static/images/waw_anne_francoise_jadin_09.jpg
 referral-place: site/place/place-of-anne-françoise-jadin.md
 name: Anne Françoise Jadin
