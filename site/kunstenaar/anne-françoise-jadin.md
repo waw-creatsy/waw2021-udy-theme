@@ -6,8 +6,10 @@ seo:
 artiestendiscipline: Schilderkunst
 associate-kunstenaar: site/exhibitor/anne-françoise-jadin.md
 foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
-  - url: /static/images/waw_anne_francoise_jadin_01.jpg
+  - url: /static/images/waw_anne_francoise_jadin_07.jpg
   - url: /static/images/waw_anne_francoise_jadin_03.jpg
+  - url: /static/images/waw_anne_francoise_jadin_08.jpg
+  - url: /static/images/waw_anne_francoise_jadin_09.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-anne-françoise-jadin.md
 name: Anne Françoise Jadin
 created-on: 2021-08-12T19:47:50.560Z
