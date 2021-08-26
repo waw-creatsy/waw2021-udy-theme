@@ -11,3 +11,12 @@ created-on: 2021-08-13T11:34:51.571Z
 updated-on: 2021-08-13T11:34:51.580Z
 published-on: 2021-08-13T11:34:51.590Z
 ---
+"Ontdekken zit in onze aard. We begonnen als zwervers, en we zijn nog steeds zwervers. 
+
+We hebben lang genoeg aan de oevers van de kosmische oceaan vertoefd. 
+
+We zijn eindelijk klaar om naar de sterren te varen."                 (Carl Sagan, Cosmos)
+
+
+
+Work in progress - (project met sterrekundigen)
