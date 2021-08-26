@@ -8,7 +8,7 @@ discipline: Peinture
 artiste-associe: site/exhibitor/anne-françoise-jadin.md
 galerie-d-images-attention-memes-images-qu-en-en:
   - url: /static/images/waw_anne_francoise_jadin_07.jpg
-  - url: /static/images/waw_anne_francoise_jadin_08.jpg
+  - url: /static/images/waw_anne_francoise_jadin_06.jpg
   - url: /static/images/waw_anne_francoise_jadin_09.jpg
 lieu: site/lieu/chez-anne-françoise-jadin.md
 name: Anne Françoise Jadin
