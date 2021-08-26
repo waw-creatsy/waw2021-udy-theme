@@ -6,7 +6,7 @@ seo:
 language-link: site/index/home.md
 place-number: 12
 featured-artwork:
-  url: /static/images/waw_anne_francoise_jadin_00.jpg
+  url: /static/images/waw_anne_francoise_jadin_06.jpg
 quote: L’ALPHABET BLANC VOLTIGE       À LA RENCONTRE DE MA PHRASE
 opening-hours: 11am>7pm
 number-of-exhibitors: 2 artists
