@@ -15,8 +15,6 @@ published-on: 2021-08-13T11:34:51.590Z
 
 We hebben lang genoeg aan de oevers van de kosmische oceaan vertoefd. 
 
-We zijn eindelijk klaar om naar de sterren te varen."                 (Carl Sagan, Cosmos)
-
-
+We zijn eindelijk klaar om naar de sterren te varen."                      (Carl Sagan, Cosmos)
 
 Work in progress - (project met sterrekundigen)
