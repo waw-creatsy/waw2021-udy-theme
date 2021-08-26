@@ -6,8 +6,9 @@ seo:
 sf: Painting
 referral-exhibitor: site/exhibitor/anne-françoise-jadin.md
 image-gallery:
-  - url: /static/images/waw_anne_francoise_jadin_01.jpg
-  - url: /static/images/waw_anne_francoise_jadin_03.jpg
+  - url: /static/images/waw_anne_francoise_jadin_07.jpg
+  - url: /static/images/waw_anne_francoise_jadin_08.jpg
+  - url: /static/images/waw_anne_francoise_jadin_09.jpg
 referral-place: site/place/place-of-anne-françoise-jadin.md
 name: Anne Françoise Jadin
 created-on: 2021-08-12T19:45:09.068Z
