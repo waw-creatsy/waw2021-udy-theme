@@ -5,7 +5,8 @@ seo:
   twitter:card: summary
 language-link-choisir: site/index/hoofdpagina.md
 numero-du-lieu: 11
-witte-zin: "ce mot ne sortira pas de ma plume      ne blanchira pas vos lèvres "
+witte-zin: "ce mot ne sortira pas de ma plume                            ne
+  blanchira pas vos lèvres "
 openingstijd: 11.00 > 19.00 uur
 aantal-kunstenaars: 2 kunstenaars
 associated-locatie: site/place/hangar-de-latelier-16.md
