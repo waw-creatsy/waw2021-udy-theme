@@ -7,8 +7,8 @@ language-link: site/index/home.md
 place-number: 6
 featured-artwork:
   url: /static/images/waw_bernard_hubot_01.jpg
-quote: MA BELLE ET BLANCHE AMIE       CHAQUE BRINDILLE       A SA MANTILLE      
-  CHAQUE GLAÇON       EST UN RAYON
+quote: "ma belle et blanche amie chaque brindille      a sa mantille      chaque
+  glaçon est un rayon "
 opening-hours: 11am>7pm
 number-of-exhibitors: " 1 artist"
 copy-artist-present-in-this-place: Bernard Hubot
