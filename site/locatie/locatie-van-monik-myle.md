@@ -5,8 +5,8 @@ seo:
   twitter:card: summary
 language-link-choisir: site/index/hoofdpagina.md
 numero-du-lieu: 7
-witte-zin: CES ESPACES DE GLACE       JE LES JETTE DANS LE SOLEIL       EN
-  SORTENT LES TORCHES DE MES MOTS
+witte-zin: "ces espaces de glace       je les jette dans le soleil     en
+  sortent les torches de mes mots  "
 openingstijd: 11.00 > 19.00 uur
 aantal-kunstenaars: 2 kunstenaars
 associated-locatie: site/place/place-of-monik-myle.md
