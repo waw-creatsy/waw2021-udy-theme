@@ -5,7 +5,7 @@ seo:
   twitter:card: summary
 language-link-choisir: site/index/hoofdpagina.md
 numero-du-lieu: 3
-witte-zin: L’ALPHABET BLANC VOLTIGE       À LA RENCONTRE DE MA PHRASE
+witte-zin: "l’alphabet blanc voltige     à la rencontre de ma phrase "
 openingstijd: Zaterdag 16 en 23 oct - 16.00 uur
 aantal-kunstenaars: De leerlingen
 associated-locatie: site/place/rixensart-academy-theater.md
