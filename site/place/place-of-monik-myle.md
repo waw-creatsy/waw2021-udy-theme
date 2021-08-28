@@ -7,7 +7,7 @@ language-link: site/index/home.md
 place-number: 7
 featured-artwork:
   url: /static/images/waw_monik_myle_00.jpg
-quote: "ces espaces de glace            je les jette dans le soleil
+quote: "ces espaces de glace                 je les jette dans le soleil
                  en sortent les torches de mes mots  "
 opening-hours: 11am>7pm
 number-of-exhibitors: 2 artists
