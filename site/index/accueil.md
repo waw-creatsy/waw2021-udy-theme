@@ -37,8 +37,6 @@ workshops: >-
 events: |-
   <h1>Événements</h1>
 
-  <p>Lorem ipsum</p>
-
   <a href="https://whiteartwalk.be/blog">Voir les événements</a>
 info: >-
   <h1>Informations pratiques</h1>
