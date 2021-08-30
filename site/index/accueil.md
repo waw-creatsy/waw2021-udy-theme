@@ -19,15 +19,15 @@ concept: >-
 
   <p>Le WAW, c'est une balade artistique d'un atelier &agrave; l'autre, d'un univers &agrave; l'autre, d'une vibration &agrave; l'autre.</p>
 
-  <p>Le fil rouge... toujours le blanc.</p>
+  <p>Le fil rouge... toujours le blanc.<br />
 
-  <p>Le blanc comme champ de tous les possibles.</p>
+  <p>Le blanc comme champ de tous les possibles.<br />
 
   <p>l'art comme un rendez-vous.</p>
 
   <p>Le tout r&eacute;uni par les phrases po&eacute;tiques de Marie-Claire d&rsquo;Orbaix.</p>
 
-  <p>Venez donc d&eacute;couvrir plus de 50 artistes et/ou &eacute;v&eacute;nements r&eacute;partis sur 20 lieux de la commune de Rixensart, Genval et Rosi&egrave;res (voir plan et informations pratiques)</p>
+  <p>Venez donc d&eacute;couvrir plus de 50 artistes et/ou &eacute;v&eacute;nements r&eacute;partis sur 20 lieux de la commune de Rixensart, Genval et Rosi&egrave;res (<a href="https://waw2021.netlify.app/index/accueil/#about">voir plan et informations pratiques</a>)</p>
 
   <p>Bienvenue dans le WAW et belle balade !</p>
 workshops: >-
