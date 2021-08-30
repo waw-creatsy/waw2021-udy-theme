@@ -15,8 +15,6 @@ concept: >-
 
   <p>The WAW is an artistic stroll from one studio to another, from one universe to another, from one vibration to another.</p>
 
-  <p>&nbsp;</p>
-
   <p>White as a window of all possibilities.</p>
 
   <p>Art as a &laquo; rendez-vous &raquo;</p>
