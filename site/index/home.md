@@ -63,19 +63,19 @@ partner-3-link: https://www.bnpparibasfortis.be/
 links: >-
   <h1>Links &amp; aknowledgements</h1>
 
-  <p>Sylvie Van den Eynde-Cayphas | schepen van cultuur Rixensart</p>
+  <p><b>Sylvie Van den Eynde-Cayphas</b> | schepen van cultuur Rixensart</p>
 
-  <p>Dhr Raepsaet | Tir &agrave; l&rsquo;Arc</p>
+  <p><b>Dhr Raepsaet</b> | Tir &agrave; l&rsquo;Arc</p>
 
-  <p>Nicolas Vuille | <a href="https://vinsdegenval.be/" target="_blank">Vins de Genval</a></p>
+  <p><b>Nicolas Vuille</b> | <a href="https://vinsdegenval.be/" target="_blank">Vins de Genval</a></p>
 
-  <p>Gr&eacute;goire Dune &nbsp;| Rixensart Academy theater</p>
+  <p><b>Gr&eacute;goire Dune</b> &nbsp;| Rixensart Academy theater</p>
 
-  <p>Caroline Lamarche, Renaud en B&eacute;atrice Denuit | for the gathering around Marie-Claire d&rsquo;Orbaix</p>
+  <p><b>Caroline Lamarche, Renaud en B&eacute;atrice Denuit</b> | for the gathering around Marie-Claire d&rsquo;Orbaix</p>
 
-  <p>Ingrid Fogelbaum et Michel Vertongen &nbsp;| for the warm welcome in their home</p>
+  <p><b>Ingrid Fogelbaum et Michel Vertongen</b> ;| for the warm welcome in their home</p>
 
-  <p>Jonathan Lapierre | Graphiste &amp; Web designer | <a href="https://www.jonathanlapierre.be">www.jonathanlapierre.be</a> | <a href="https://www.creatsy.be">www.creatsy.be</a></p>
+  <p><b>Jonathan Lapierre</b> | Graphiste &amp; Web designer | <a href="https://www.jonathanlapierre.be">www.jonathanlapierre.be</a> | <a href="https://www.creatsy.be">www.creatsy.be</a></p>
 language-code: EN
 name: Home
 created-on: 2021-08-07T20:50:24.706Z
