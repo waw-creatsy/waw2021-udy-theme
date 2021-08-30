@@ -33,7 +33,7 @@ workshops: >-
 events: |-
   <h1>Events</h1>
 
-  <a href="https://whiteartwalk.be/blog">Voir les événements</a>
+  <a href="https://whiteartwalk.be/blog">View events</a>
 info: >-
   <h1>Practical information</h1>
 
