@@ -10,7 +10,7 @@ foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
   - url: /static/images/waw_catherine_rombouts_03.jpg
   - url: /static/images/waw_catherine_rombouts_04.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/centre-protestant.md
-name: Collectif Catherine Rombouts & Sophie Richelle
+name: Catherine Rombouts & Sophie Richelle
 created-on: 2021-08-13T11:21:41.653Z
 updated-on: 2021-08-13T11:21:41.662Z
 published-on: 2021-08-13T11:21:41.670Z
