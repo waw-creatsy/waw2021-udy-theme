@@ -71,7 +71,7 @@ links: >-
 
   <p><strong>Monsieur Raepsaet</strong> | Tir &agrave; l&rsquo;Arc</a></p>
 
-  <p><strong>Nicolas Vuille</strong> | <a href="https://vinsdegenval.be/" target="_blank">Vins de Genval</p>
+  <p><strong>Nicolas Vuille</strong> | <a href="https://vinsdegenval.be/" target="_blank">Vins de Genval</a></p>
 
   <p><strong>Gr&eacute;goire Dune</strong> | Acad&eacute;mie des arts de la parole de Rixensart</p>
 
