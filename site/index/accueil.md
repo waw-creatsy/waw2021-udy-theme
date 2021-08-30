@@ -73,11 +73,11 @@ partner-3-link: https://www.bnpparibasfortis.be/
 links: >-
   <h1>Liens &amp; remerciements</h1>
 
-  <p><strong>Sylvie Van den Eynde-Cayphas</strong> | <a href="https://vinsdegenval.be/" target="_blank">&Eacute;chevine de la culture &agrave; Rixensart</a></p>
+  <p><strong>Sylvie Van den Eynde-Cayphas</strong> | &Eacute;chevine de la culture &agrave; Rixensart</p>
 
   <p><strong>Monsieur Raepsaet</strong> | Tir &agrave; l&rsquo;Arc</p>
 
-  <p><strong>Nicolas Vuille</strong> | Vins de Genval</p>
+  <p><strong>Nicolas Vuille</strong> | <a href="https://vinsdegenval.be/" target="_blank">Vins de Genval</a></p>
 
   <p><strong>Gr&eacute;goire Dune</strong> | Acad&eacute;mie des arts de la parole de Rixensart</p>
 
