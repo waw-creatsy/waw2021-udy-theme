@@ -35,6 +35,13 @@
       height: auto;
   }</style></head>
 <body>
+  <div udesly-cookie-bar="cookie-bar" cookie-duration="7" class="cookie-bar-wrapper">
+    <div class="cookie-bar-text">By using this website you agree to our <a href="/cookie-policy/" target="_blank" class="link">cookie policy</a><br></div>
+    <div class="div-block-280">
+      <a cookie="accept" href="#" class="button w-button">Accept</a>
+      <a cookie="deny" href="#" class="button-2 w-button">Deny</a>
+    </div>
+  </div>
   <a href="#header" class="return-to-top w-inline-block"><img src="/static/images/arrow-up-line.svg" loading="lazy" alt="return to top"></a>
   <div class="w-clearfix">
     <div class="facebook-sdk w-embed w-script">
@@ -191,7 +198,7 @@
                 </a>
               </div>
               <div class="sidebar-navlink-wrapper">
-                <a href="#" class="dot-link w-inline-block"></a>
+                <a href="#ateliers" class="dot-link w-inline-block"></a>
                 <a href="#" class="sidebar-link w-inline-block w-clearfix">
                   <div class="dot"></div>
                   <div class="sidebar-navlink-label">Locaties</div>
@@ -244,13 +251,13 @@ alk" class="waw2"></div>
   <header data-ix="show-logo-after-header" id="header" class="header wf-section">
     {%- if item.data.language-code == "EN" -%}<div data-collapse="medium" data-animation="default" data-duration="400" role="banner" class="navbar w-nav">
       <div class="wrapper">
-        <a href="{{ item.url }}" class="logo-branding logo-hide w-nav-brand"><img src="/static/images/waw-small.png" width="120" data-sizes="[{&quot;max&quot;:991,&quot;size&quot;:&quot;49.140625px&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="WAW White Art Walk logo" class="img-logo"></a>
+        <a href="{{ item.url }}" class="logo-branding logo-hide w-nav-brand"><img src="/static/images/waw-small.png" width="120" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="WAW White Art Walk logo" class="img-logo"></a>
         <nav role="navigation" class="nav-menu w-nav-menu">
           <a href="{{ item.url }}" class="navlink w-nav-link">{{ item.data.name }}</a>
           <a href="/places/" class="navlink w-nav-link">Places</a>
           <a href="/artists/" class="navlink w-nav-link">Artists</a>
-          <a href="/blog/" target="_blank" class="navlink w-nav-link">News / Events</a>
-          <a href="https://www.whiteartwalk.be/archives" target="_blank" class="navlink w-nav-link">Previous editions</a>
+          <a href="/blog/" target="_blank" class="navlink w-nav-link">Events</a>
+          <a href="/archives/" target="_blank" class="navlink w-nav-link">Archives</a>
           <a href="/contact/" class="navlink w-nav-link">Contact</a>
           <div class="social-block-nav">
             <a href="https://www.facebook.com/brasseriedelacambre" target="_blank" class="social-navlink w-inline-block"><img src="/static/images/facebook-circle-line-2.svg" loading="lazy" alt="Facebook icon" class="social-img-nav"></a>
@@ -266,13 +273,13 @@ alk" class="waw2"></div>
     </div>{%- endif -%}
     {%- if item.data.language-code == "FR" -%}<div data-collapse="medium" data-animation="default" data-duration="400" role="banner" class="navbar w-nav">
       <div class="wrapper">
-        <a href="{{ item.url }}" class="logo-branding logo-hide w-nav-brand"><img src="/static/images/waw-small.png" width="120" data-sizes="[{&quot;max&quot;:991,&quot;size&quot;:&quot;49.140625px&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="WAW White Art Walk logo" class="img-logo"></a>
+        <a href="{{ item.url }}" class="logo-branding logo-hide w-nav-brand"><img src="/static/images/waw-small.png" width="120" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="WAW White Art Walk logo" class="img-logo"></a>
         <nav role="navigation" class="nav-menu w-nav-menu">
           <a href="{{ item.url }}" class="navlink w-nav-link">{{ item.data.name }}</a>
           <a href="/lieux/" class="navlink w-nav-link">Lieux</a>
           <a href="/artistes/" class="navlink w-nav-link">Artistes</a>
-          <a href="/blog/" class="navlink w-nav-link">Actualités / Événements</a>
-          <a href="https://www.whiteartwalk.be/archives" target="_blank" class="navlink w-nav-link">Éditions précédentes</a>
+          <a href="/blog/" class="navlink w-nav-link">Événements</a>
+          <a href="/archives/" class="navlink w-nav-link">Archives</a>
           <a href="/contactez-nous/" class="navlink w-nav-link">Contact</a>
           <div class="social-block-nav">
             <a href="https://www.facebook.com/brasseriedelacambre" target="_blank" class="social-navlink w-inline-block"><img src="/static/images/facebook-circle-line-2.svg" loading="lazy" alt="Facebook icon" class="social-img-nav"></a>
@@ -293,8 +300,8 @@ alk" class="waw2"></div>
           <a href="{{ item.url }}" class="navlink w-nav-link">{{ item.data.name }}</a>
           <a href="/locaties/" class="navlink w-nav-link">Locaties</a>
           <a href="/kunstenaars/" class="navlink w-nav-link">Kunstenaars</a>
-          <a href="/blog/" target="_blank" class="navlink w-nav-link">Nieuws / Evenementen</a>
-          <a href="https://www.whiteartwalk.be/archives" target="_blank" class="navlink w-nav-link">Vorige edities</a>
+          <a href="/blog/" target="_blank" class="navlink w-nav-link">Evenementen</a>
+          <a href="/archives/" target="_blank" class="navlink w-nav-link">Archief</a>
           <a href="/contact-nl/" class="navlink w-nav-link">Contact</a>
           <div class="social-block-nav">
             <a href="https://www.facebook.com/brasseriedelacambre" target="_blank" class="social-navlink w-inline-block"><img src="/static/images/facebook-circle-line-2.svg" loading="lazy" alt="Facebook icon" class="social-img-nav"></a>
@@ -361,7 +368,7 @@ alk" class="waw2"></div>
                       <p class="exhibitors">{{ item.data['number-of-exhibitors'] }}</p>
                     </div>
                   </div>
-                  <div class="image-wrapper"><img src="{{ item.data['featured-artwork'].url | escape }}" data-sizes="[{"max":767,"size":"100vw"},{"max":10000,"size":"42vw"}]" alt="{{ item.data.name | escape }}" class="thumbnail-image"></div>
+                  <div class="image-wrapper"><img src="{{ item.data['featured-artwork'].url | escape }}" data-sizes="[{"max":10000,"size":"100vw"}]" alt="{{ item.data.name | escape }}" class="thumbnail-image"></div>
                 </a>
               </div>
             </div>{%- endfor -%}
@@ -389,7 +396,7 @@ alk" class="waw2"></div>
                       <p class="exhibitors">{{ item.data['nombre-d-artistes-1-artiste-2-artistes'] }}</p>
                     </div>
                   </div>
-                  <div class="image-wrapper">{%- assign ref = item | resolveReference: "lieu-associe", "place" -%}<img src="{{ ref.data['featured-artwork'].url | escape }}" data-sizes="[{"max":767,"size":"100vw"},{"max":10000,"size":"42vw"}]" alt="{{ item.data.name | escape }}" class="thumbnail-image"></div>
+                  <div class="image-wrapper">{%- assign ref = item | resolveReference: "lieu-associe", "place" -%}<img src="{{ ref.data['featured-artwork'].url | escape }}" data-sizes="[{"max":10000,"size":"100vw"}]" alt="{{ item.data.name | escape }}" class="thumbnail-image"></div>
                 </a>
               </div>
             </div>{%- endfor -%}
@@ -453,7 +460,7 @@ alk" class="waw2"></div>
       </div>
     </div>
     <div class="wrapper">
-      <a href="https://www.google.be/maps/place/Rixensart/@50.7218187,4.5044805,14z/data=!3m1!4b1!4m5!3m4!1s0x47c3d701f6465cf5:0x33306cea48e710c2!8m2!3d50.7156249!4d4.5310355" target="_blank" class="waw-map w-inline-block"><img loading="lazy" width="1223" alt="{{ item.data.map.alt | escape }}" src="{{ item.data.map.url | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;87vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;94vw&quot;}]"></a>
+      <a href="https://www.google.be/maps/place/Rixensart/@50.7218187,4.5044805,14z/data=!3m1!4b1!4m5!3m4!1s0x47c3d701f6465cf5:0x33306cea48e710c2!8m2!3d50.7156249!4d4.5310355" target="_blank" class="waw-map w-inline-block"><img loading="lazy" width="1223" alt="{{ item.data.map.alt | escape }}" src="{{ item.data.map.url | escape }}" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]"></a>
     </div>
   </section>
   <section id="sponsors" class="section wf-section">
@@ -465,10 +472,16 @@ alk" class="waw2"></div>
         <div class="content">
           <div class="dyntext w-richtext">{{ item.data.partners | markdown }}</div>
           <div class="sponsors-container">
-            <a id="w-node-_0bfbcc3b-62d9-fc35-abeb-499675e2520f-ec14f045" href="{{ item.data['partner-1-link'] | escape }}" class="sponsor-block w-inline-block"><img data-sizes="[{"max":479,"size":"87vw"},{"max":767,"size":"42vw"},{"max":991,"size":"324px"},{"max":10000,"size":"327.5px"}]" width="480" src="{{ item.data['partner-1-logo'].url | escape }}" alt="{{ item.data['partner-1-link'] | escape }}" class="img-sponsor"></a>
-            {%- if item.data.partner-2-link -%}<a id="w-node-_9981ff57-9539-48a1-711e-afd9fac1c936-ec14f045" href="{{ item.data['partner-2-link'] | escape }}" class="sponsor-block w-inline-block"><img data-sizes="[{"max":479,"size":"87vw"},{"max":767,"size":"42vw"},{"max":991,"size":"324px"},{"max":10000,"size":"327.5px"}]" width="480" src="{{ item.data['partner-2-logo'].url | escape }}" alt="{{ item.data['partner-2-link'] | escape }}" class="img-sponsor"></a>{%- endif -%}
-            {%- if item.data.partner-3-link -%}<a id="w-node-_015cb5fa-e256-91f4-9915-e05ae94eaa29-ec14f045" href="{{ item.data['partner-3-link'] | escape }}" class="sponsor-block w-inline-block"><img data-sizes="[{"max":479,"size":"87vw"},{"max":767,"size":"42vw"},{"max":991,"size":"324px"},{"max":10000,"size":"327.5px"}]" width="480" src="{{ item.data['partner-3-logo'].url | escape }}" alt="{{ item.data['partner-3-link'] | escape }}" class="img-sponsor"></a>{%- endif -%}
-            {%- if item.data.partner-4-link -%}<a id="w-node-_427efc0a-6cd6-4c79-2b33-a2eb9d1a0c60-ec14f045" href="{{ item.data['partner-4-link'] | escape }}" class="sponsor-block last-sponsor-block w-inline-block"><img data-sizes="[{"max":479,"size":"87vw"},{"max":767,"size":"42vw"},{"max":991,"size":"325px"},{"max":10000,"size":"328.5px"}]" width="480" src="{{ item.data['partner-4-logo'].url | escape }}" alt="{{ item.data['partner-4-logo'].alt | escape }}" class="img-sponsor"></a>{%- endif -%}
+            <a id="w-node-_0bfbcc3b-62d9-fc35-abeb-499675e2520f-ec14f045" href="{{ item.data['partner-1-link'] | escape }}" class="sponsor-block w-inline-block">
+              <div class="sponsor-wrapper"><img data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" width="480" src="{{ item.data['partner-1-logo'].url | escape }}" alt="{{ item.data['partner-1-link'] | escape }}" class="img-sponsor"></div>
+            </a>
+            {%- if item.data.partner-2-link -%}<a id="w-node-_9981ff57-9539-48a1-711e-afd9fac1c936-ec14f045" href="{{ item.data['partner-2-link'] | escape }}" class="sponsor-block w-inline-block">
+              <div class="sponsor-wrapper"><img data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" width="480" src="{{ item.data['partner-2-logo'].url | escape }}" alt="{{ item.data['partner-2-link'] | escape }}" class="img-sponsor"></div>
+            </a>{%- endif -%}
+            {%- if item.data.partner-3-link -%}<a id="w-node-_015cb5fa-e256-91f4-9915-e05ae94eaa29-ec14f045" href="{{ item.data['partner-3-link'] | escape }}" class="sponsor-block w-inline-block">
+              <div class="sponsor-wrapper"><img data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" width="480" src="{{ item.data['partner-3-logo'].url | escape }}" alt="{{ item.data['partner-3-link'] | escape }}" class="img-sponsor"></div>
+            </a>{%- endif -%}
+            {%- if item.data.partner-4-link -%}<a id="w-node-_427efc0a-6cd6-4c79-2b33-a2eb9d1a0c60-ec14f045" href="{{ item.data['partner-4-link'] | escape }}" class="sponsor-block last-sponsor-block w-inline-block"><img data-sizes="[{"max":10000,"size":"100vw"}]" width="480" src="{{ item.data['partner-4-logo'].url | escape }}" alt="{{ item.data['partner-4-logo'].alt | escape }}" class="img-sponsor"></a>{%- endif -%}
           </div>
         </div>
       </div>
@@ -490,7 +503,7 @@ alk" class="waw2"></div>
     <div class="wrapper">
       <div class="w-row">
         <div class="w-col w-col-6">
-          <div class="footer-block w-clearfix"><img src="/static/images/waw-logo-fond-blanc.png" width="76" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;32vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;76px&quot;}]" sizes="(max-width: 479px) 32vw, 76px" srcset="/static/images/waw-logo-fond-blanc-p-500x501.png 500w, /static/images/waw-logo-fond-blanc.png 859w" alt="White Art Walk logo" class="logo-footer">
+          <div class="footer-block w-clearfix"><img src="/static/images/waw-logo-fond-blanc.png" width="76" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" sizes="100vw" srcset="/static/images/waw-logo-fond-blanc-p-500x501.png 500w, /static/images/waw-logo-fond-blanc.png 859w" alt="White Art Walk logo" class="logo-footer">
             <h1 class="title-footer">white art walk</h1>
             <p class="p-footer">Carte blanche to the artists<br>in&nbsp;<strong>Rixensart</strong>,&nbsp;<strong>Genval</strong>&nbsp;et&nbsp;<strong>Rosières</strong></p>
           </div>
@@ -500,7 +513,7 @@ alk" class="waw2"></div>
             <p class="copyright-creatsy">Handcrafted with love by<br>
               <a href="https://www.jonathanlapierre.be">Jonathan Lapierre</a>
             </p>
-            <a href="https://www.creatsy.be" class="creatsy w-inline-block"><img src="/static/images/creatsy.png" width="819" alt="creatsy.be – Création de site web sur mesure" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;80px&quot;}]" sizes="(max-width: 479px) 100vw, 80px" srcset="/static/images/creatsy-p-500.png 500w, /static/images/creatsy.png 1638w" class="creatsy-logo"></a>
+            <a href="https://www.creatsy.be" class="creatsy w-inline-block"><img src="/static/images/creatsy.png" width="819" alt="creatsy.be – Création de site web sur mesure" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" sizes="100vw" srcset="/static/images/creatsy-p-500.png 500w, /static/images/creatsy.png 1638w" class="creatsy-logo"></a>
           </div>
         </div>
       </div>
@@ -510,7 +523,7 @@ alk" class="waw2"></div>
     <div class="wrapper">
       <div class="w-row">
         <div class="w-col w-col-6">
-          <div class="footer-block w-clearfix"><img src="/static/images/waw-logo-fond-blanc.png" width="76" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;32vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;76px&quot;}]" sizes="(max-width: 479px) 32vw, 76px" srcset="/static/images/waw-logo-fond-blanc-p-500x501.png 500w, /static/images/waw-logo-fond-blanc.png 859w" alt="White Art Walk logo" class="logo-footer">
+          <div class="footer-block w-clearfix"><img src="/static/images/waw-logo-fond-blanc.png" width="76" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" sizes="100vw" srcset="/static/images/waw-logo-fond-blanc-p-500x501.png 500w, /static/images/waw-logo-fond-blanc.png 859w" alt="White Art Walk logo" class="logo-footer">
             <h1 class="title-footer">white art walk</h1>
             <p class="p-footer">Carte blanche aux&nbsp;artistes<br>de <strong>Rixensart</strong>,&nbsp;<strong>Genval</strong>&nbsp;et&nbsp;<strong>Rosières</strong></p>
           </div>
@@ -520,7 +533,7 @@ alk" class="waw2"></div>
             <p class="copyright-creatsy">Handcrafted with love by<br>
               <a href="https://www.jonathanlapierre.be">Jonathan Lapierre</a>
             </p>
-            <a href="https://www.creatsy.be" class="creatsy w-inline-block"><img src="/static/images/creatsy.png" width="819" alt="creatsy.be – Création de site web sur mesure" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;80px&quot;}]" sizes="(max-width: 479px) 100vw, 80px" srcset="/static/images/creatsy-p-500.png 500w, /static/images/creatsy.png 1638w" class="creatsy-logo"></a>
+            <a href="https://www.creatsy.be" class="creatsy w-inline-block"><img src="/static/images/creatsy.png" width="819" alt="creatsy.be – Création de site web sur mesure" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" sizes="100vw" srcset="/static/images/creatsy-p-500.png 500w, /static/images/creatsy.png 1638w" class="creatsy-logo"></a>
           </div>
         </div>
       </div>
@@ -550,5 +563,6 @@ alk" class="waw2"></div>
   <script src="/static/js/waw2021.js" type="text/javascript" async="" defer=""></script>
   <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
   <script src="https://cdn.jsdelivr.net/npm/udesly-cms-filters@2.0.13/udesly-cms-filters.umd.js" async="" defer=""></script>
+  <script src="https://cdn.jsdelivr.net/npm/udesly-wf-cookie-bar@1.0.3/udesly-wf-cookie-bar.js" async="" defer=""></script>
 
 <script src="/static/js/udesly-11ty.min.js" defer="" async=""></script><script>document.querySelectorAll('link[rel="preload"]').forEach(function(e) { e.rel = "stylesheet" })</script></body></html>

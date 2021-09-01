@@ -1,13 +1,8 @@
-<!doctype html><html data-wf-page="60d428d419f83836ae6bd4a7" data-wf-site="601d45694896e47200fb6cdf"><head><style>html{visibility: hidden;opacity:0;}</style>{%- assign item = page | getCurrentPageItem -%}{%- assign pageItem = item -%}
+<!doctype html><html data-wf-page="612f6db8c2722c07fc67a630" data-wf-site="601d45694896e47200fb6cdf"><head><style>html{visibility: hidden;opacity:0;}</style>{%- assign item = page | getCurrentPageItem -%}{%- assign pageItem = item -%}
   <meta charset="utf-8">
   
   
-  
-  
-  <meta content="WAW – white art walk – Contact" property="twitter:title">
-  <meta content="Carte blanche aan de kunstenaars in Rixensart, Genval and Rosières" property="twitter:description">
-  
-  
+  <meta content="Archives" property="twitter:title">
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <link href="/static/css/normalize.css" rel="preload" type="text/css" as="style" onload="this.rel='stylesheet'" onerror="this.rel='stylesheet'">
   <link href="/static/css/components.css" rel="preload" type="text/css" as="style" onload="this.rel='stylesheet'" onerror="this.rel='stylesheet'">
@@ -35,7 +30,7 @@
 <body>
   <div data-collapse="medium" data-animation="default" data-duration="400" role="banner" class="navbar w-nav">
     <div class="wrapper">
-      {%- assign collectionId = "main" -%}{%- assign collection = collections["5edce7a3"][collectionId] -%}<div class="w-dyn-list">
+      {%- assign collectionId = "main" -%}{%- assign collection = collections["5d38e431"][collectionId] -%}<div class="w-dyn-list">
         {%- if collection.length > 0 -%}<div role="list" class="w-dyn-items">
           {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
             <a href="{{ item.url }}" class="logo-branding w-nav-brand"><img src="/static/images/waw-small.png" width="120" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;49.140625px&quot;}]" alt="WAW White Art Walk logo" class="img-logo"></a>
@@ -46,7 +41,7 @@
         </div>{%- endunless -%}
       </div>
       <nav role="navigation" class="nav-menu w-nav-menu">
-        {%- assign collectionId = "main" -%}{%- assign collection = collections["5edce7a3"][collectionId] -%}<div class="w-dyn-list">
+        {%- assign collectionId = "main" -%}{%- assign collection = collections["5d38e431"][collectionId] -%}<div class="w-dyn-list">
           {%- if collection.length > 0 -%}<div role="list" class="w-dyn-items">
             {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
               <a href="{{ item.url }}" class="navlink w-nav-link">{{ item.data.name }}</a>
@@ -56,11 +51,11 @@
             <div>No items found.</div>
           </div>{%- endunless -%}
         </div>
-        <a href="/locaties/" class="navlink w-nav-link">Locaties</a>
-        <a href="/kunstenaars/" class="navlink w-nav-link">Kunstenaars</a>
-        <a href="/blog/" target="_blank" class="navlink w-nav-link">Evenementen</a>
-        <a href="/archives/" target="_blank" class="navlink w-nav-link">Archief</a>
-        <a href="/contact-nl/" aria-current="page" class="navlink w-nav-link w--current">Contact</a>
+        <a href="/lieux/" class="navlink w-nav-link">Lieux</a>
+        <a href="/artistes/" class="navlink w-nav-link">Artistes</a>
+        <a href="/blog/" class="navlink w-nav-link">Événements</a>
+        <a href="/archives/" aria-current="page" class="navlink w-nav-link w--current">Archives</a>
+        <a href="/contactez-nous/" class="navlink w-nav-link">Contact</a>
         <div class="social-block-nav">
           <a href="https://www.facebook.com/brasseriedelacambre" target="_blank" class="social-navlink w-inline-block"><img src="/static/images/facebook-circle-line-2.svg" loading="lazy" alt="Facebook icon" class="social-img-nav"></a>
           <a href="https://www.instagram.com/waw.white.art.walk/" target="_blank" class="social-navlink w-inline-block"><img src="/static/images/instagram-line-2.svg" loading="lazy" alt="Instagram icon" class="social-img-nav"></a>
@@ -73,33 +68,30 @@
       </div>
     </div>
   </div>
-  <section class="section wf-section">
+  <div class="section wf-section">
     <div class="w-container">
-      <h1 class="h1-contact">Contact</h1>
-      <div class="w-richtext">
-        <p>« White Art Walk » wordt georganiseerd door Christine Reper en Monik Myle.<br></p>
-      </div>
-      <div class="form-wrapper w-form">
-        <form id="email-form" name="email-form" data-name="Email Form" redirect="/success" data-redirect="/success" method="post" data-netlify="true"><label for="Name-2">Voornaam / Naam</label><input type="text" id="Name-2" name="Name-2" data-name="Name 2" placeholder="Enter your name" maxlength="256" class="txt-field w-input"><label for="Email-2">E-mailadres</label><input type="email" id="Email-2" name="Email-2" data-name="Email 2" placeholder="Enter your email address" maxlength="256" required="" class="txt-field w-input"><label for="Message-2">Bericht</label><textarea id="Message-2" name="Message-2" placeholder="Example Text" maxlength="5000" data-name="Message 2" class="textarea w-input"></textarea><label class="w-checkbox w-clearfix"><input type="checkbox" id="checkbox-3" name="checkbox-3" data-name="Checkbox 3" class="w-checkbox-input checkbox"><span for="checkbox-3" class="checkbox-label w-form-label">Ja, plaats me alsjeblieft op de verzendlijst voor informatie over het volgende evenement.</span></label><input type="submit" value="Verzend" data-wait="Please wait..." class="submit-btn w-button"></form>
-        <div class="w-form-done">
-          <div>Thank you! Your submission has been received!</div>
-        </div>
-        <div class="w-form-fail">
-          <div>Oops! Something went wrong while submitting the form</div>
-        </div>
-      </div>
-      <div class="contactpress w-richtext">
-        <p>Perscontact&nbsp;: <a href="mailto:christine.reper@scarlet.be">Christine Reper</a><br></p>
+      <div href="https://www.whiteartwalk.be/archives" target="_blank" class="w-richtext">
+        <h1>Archives</h1>
+        <h2>Éditions précédentes</h2>
+        <ul role="list">
+          <li>
+            <a href="http://www.whiteartwalk.be/archives/2019/" target="_blank">Édition 2019</a>
+          </li>
+          <li>
+            <a href="http://www.whiteartwalk.be/archives/2017/" target="_blank">Édition 2017</a>
+          </li>
+        </ul>
+        <p><br></p>
       </div>
     </div>
-  </section>
+  </div>
   <footer class="footer wf-section">
     <div class="wrapper">
       <div class="w-row">
         <div class="w-col w-col-6">
           <div class="footer-block w-clearfix"><img src="/static/images/waw-logo-fond-blanc.png" width="76" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;76px&quot;}]" sizes="76px" srcset="/static/images/waw-logo-fond-blanc-p-500x501.png 500w, /static/images/waw-logo-fond-blanc.png 859w" alt="White Art Walk logo" class="logo-footer">
             <h1 class="title-footer">white art walk</h1>
-            <p class="p-footer">Carte blanche aan de kunstenaars<br>in&nbsp;<strong>Rixensart</strong>,&nbsp;<strong>Genval</strong>&nbsp;et&nbsp;<strong>Rosières</strong></p>
+            <p class="p-footer">Carte blanche aux&nbsp;artistes<br>de <strong>Rixensart</strong>,&nbsp;<strong>Genval</strong>&nbsp;et&nbsp;<strong>Rosières</strong></p>
           </div>
         </div>
         <div class="w-col w-col-6">

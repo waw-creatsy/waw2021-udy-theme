@@ -80,5 +80,30 @@ alk" class="waw2"></div>
   <script src="https://code.jquery.com/jquery-3.5.1.min.js" type="text/javascript" crossorigin="anonymous"></script>
   <script src="/static/js/waw2021.js" type="text/javascript" async="" defer=""></script>
   <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
+  <script src="https://uploads-ssl.webflow.com/5a9eaaa5685169000102decf/5c93a76c5bef9b99e9537992_jquery.cookie.js.txt" async="" defer=""></script>
+  <script>
+var lang = navigator.language;
+              if (!$.cookie('language-en-redirect-cookie') && lang.indexOf("en") !== -1) {
+              var date = new Date();      
+              date.setTime(date.getTime() + 24 * 60 * 60 * 1000);
+              $.cookie('language-en-redirect-cookie', true, { expires: date });
+              $(location).attr('href', '/index/home/');
+          }
+        	  else if (!$.cookie('language-fr-redirect-cookie') && lang.indexOf("fr") !== -1) {
+              var date = new Date();      
+              date.setTime(date.getTime() + 24 * 60 * 60 * 1000);
+              $.cookie('language-fr-redirect-cookie', true, { expires: date });
+              $(location).attr('href', '/index/accueil/');
+          }
+        	  else if (!$.cookie('language-nl-redirect-cookie') && lang.indexOf("nl") !== -1) {
+              var date = new Date();      
+              date.setTime(date.getTime() + 24 * 60 * 60 * 1000);
+              $.cookie('language-nl-redirect-cookie', true, { expires: date });
+              $(location).attr('href', '/index/hoofdpagina/');
+          }
+       	 else {
+          		// do nothing
+          		}
+</script>
 
 <script src="/static/js/udesly-11ty.min.js" defer="" async=""></script><script>document.querySelectorAll('link[rel="preload"]').forEach(function(e) { e.rel = "stylesheet" })</script><script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script><script>window.netlifyIdentity&&window.netlifyIdentity.on("init",function(a){a||window.netlifyIdentity.on("login",()=>{document.location.href="/admin/"})});</script></body></html>
