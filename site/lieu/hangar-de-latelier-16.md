@@ -12,7 +12,7 @@ phrase-blanche: "ce mot ne sortira pas de ma plume                    
 horaire-d-ouverture: 11h>19h
 nombre-d-artistes-1-artiste-2-artistes: 2 artistes
 lieu-associe: site/place/hangar-de-latelier-16.md
-name: Hangar de "l'Atelier 16"
+name: Hangar de « l'Atelier 16 »
 created-on: 2021-08-13T12:09:23.497Z
 updated-on: 2021-08-13T12:09:23.505Z
 published-on: 2021-08-13T12:09:23.513Z
