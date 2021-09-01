@@ -9,7 +9,7 @@ phrase-blanche: "l’alphabet blanc voltige à la rencontre de ma phrase "
 horaire-d-ouverture: Samedi 16 et 26 oct à 16h
 nombre-d-artistes-1-artiste-2-artistes: "Les élèves "
 lieu-associe: site/place/rixensart-academy-theater.md
-name: Académie des arts de la parole de Rixensart
+name: Académie des arts de la parole
 created-on: 2021-08-13T19:41:01.772Z
 updated-on: 2021-08-13T19:41:01.782Z
 published-on: 2021-08-13T19:41:01.791Z
