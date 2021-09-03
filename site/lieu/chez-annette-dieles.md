@@ -7,7 +7,7 @@ seo:
   description: Lieu numéro 1/Annette Dieles/14h>19h
 language-link-choisir-accueil: site/index/accueil.md
 numero-du-lieu: 1
-phrase-blanche: DIRE OUI COMME LES FLEURS DU CERISIER       QUI RESTENT BLANCHES DANS LA NUIT
+phrase-blanche: DIRE OUI COMME LES FLEURS DU CERISIER .... QUI RESTENT BLANCHES DANS LA NUIT
 horaire-d-ouverture: 14h > 19h
 nombre-d-artistes-1-artiste-2-artistes: 1 artiste
 lieu-associe: site/place/annette-dieles.md
