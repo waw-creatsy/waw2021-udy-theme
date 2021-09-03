@@ -7,7 +7,7 @@ language-link: site/index/home.md
 place-number: 3
 featured-artwork:
   url: /static/images/academy-temporaire.png
-quote: "l’alphabet blanc voltige à la rencontre de ma phrase "
+quote: "l’alphabet blanc voltige .... à la rencontre de ma phrase "
 opening-hours: Saterday 16 and 23 0ct at 4 pm.
 number-of-exhibitors: 1 artist
 event: site/post/entracte-théâtral-–-« art »-de-yasmina-reza.md
