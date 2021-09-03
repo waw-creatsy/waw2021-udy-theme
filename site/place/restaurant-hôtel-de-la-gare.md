@@ -7,7 +7,7 @@ language-link: site/index/home.md
 place-number: 13
 featured-artwork:
   url: /static/images/waw_claude_hervault_01.jpg
-quote: UNE PAGE BLANCHE       UNE PAGE DE SILENCE       EN FRAGILE IMMOBILITÉ
+quote: UNE PAGE BLANCHE .... UNE PAGE DE SILENCE .... EN FRAGILE IMMOBILITÉ
 opening-hours: 11am>7pm
 number-of-exhibitors: 2 artists
 copy-artist-present-in-this-place: Claude Chervault, Brigitte Schuermans
