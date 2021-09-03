@@ -7,8 +7,7 @@ language-link: site/index/home.md
 place-number: 17
 featured-artwork:
   url: /static/images/waw_michel_delvaulx_03.jpg
-quote: "ce mot ne sortira pas de ma plume                            ne détruira
-  pas l'espace blanc "
+quote: "ce mot ne sortira pas de ma plume .... ne détruira pas l'espace blanc "
 opening-hours: 11am>7pm
 number-of-exhibitors: 1 artist
 copy-artist-present-in-this-place: Michel Delvaulx
