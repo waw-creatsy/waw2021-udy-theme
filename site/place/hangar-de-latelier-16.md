@@ -12,7 +12,7 @@ opening-hours: 11am>7pm
 number-of-exhibitors: 2 artists
 event: site/post/peinture-libre-collective.md
 copy-artist-present-in-this-place: Colin Delvaulx, Véronique van der Wielen
-name: Hangar de "l'Atelier 16"
+name: Place of Colin Delvaulx
 created-on: 2021-08-13T12:07:51.305Z
 updated-on: 2021-08-13T12:07:51.315Z
 published-on: 2021-08-13T12:07:51.323Z
