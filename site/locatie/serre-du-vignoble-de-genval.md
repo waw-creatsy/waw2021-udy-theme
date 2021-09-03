@@ -5,8 +5,8 @@ seo:
   twitter:card: summary
 language-link-choisir: site/index/hoofdpagina.md
 numero-du-lieu: 6
-witte-zin: "ma belle et blanche amie chaque brindille .... a sa mantille ....
-  chaque glaçon est un rayon "
+witte-zin: "ma belle et blanche amie .... chaque brindille .... a sa mantille
+  .... chaque glaçon est un rayon "
 openingstijd: 11.00 > 19.00 uur
 aantal-kunstenaars: 1 kunstenaar
 associated-locatie: site/place/serre-du-vignoble-de-genval.md
