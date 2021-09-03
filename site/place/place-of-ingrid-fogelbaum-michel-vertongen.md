@@ -7,7 +7,7 @@ language-link: site/index/home.md
 place-number: 18
 featured-artwork:
   url: /static/images/mcd-o-noyau-de-feu-couverture.jpeg
-quote: COMME UNE BLANCHE PAROLE        COMME UN SURSAUT DE PÉTALE
+quote: COMME UNE BLANCHE PAROLE .... COMME UN SURSAUT DE PÉTALE
 opening-hours: Sunday 17 oct at 3pm
 number-of-exhibitors: 1 artist
 event: site/post/noyau-de-feu -rencontre-autour-de-marie-claire-d’orbaix-1.md
