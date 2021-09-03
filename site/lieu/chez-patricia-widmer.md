@@ -7,7 +7,7 @@ seo:
   description: Lieu numéro 14/Patricia Widmer, Anusch Bayens/11h>19h
 language-link-choisir-accueil: site/index/accueil.md
 numero-du-lieu: 14
-phrase-blanche: "UNE PAGE BLANCHE       UNE PAGE DE SILENCE       EN IMMOBILE FRAGILITÉ "
+phrase-blanche: "UNE PAGE BLANCHE .... UNE PAGE DE SILENCE .... EN IMMOBILE FRAGILITÉ "
 horaire-d-ouverture: 11h > 19h
 nombre-d-artistes-1-artiste-2-artistes: 2 artistes
 lieu-associe: site/place/place-of-patricia-widmer.md
