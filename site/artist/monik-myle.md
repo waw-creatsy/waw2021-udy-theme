@@ -21,12 +21,8 @@ We have lingered long enough on the shores of the cosmic ocean.
 
 We are ready at last to set sail for the stars.” 
 
-
-
  *Carl Sagan, Cosmos*
-
-
 
 Work in progress on a group project with astrophysicists
 
-https://www.projectatelier.space
+<https://www.projectatelier.space>
