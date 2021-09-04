@@ -18,6 +18,4 @@ La perche, lieu étonnant qui abrite le Musée du Tir à l’arc est exceptionne
 
 Démonstration et opportunité de s’essayer au tir à la perche verticale. 
 
-https://www.redweb.be/rixensart2018/tirarc.htm
-
-<!--EndFragment-->
+[https://www.destinationbw.be/fr/musee-du-tir-a-l-arc-](https://www.destinationbw.be/fr/fiche/decouverte-et-divertissement/musee-du-tir-a-l-arc-rixensart_TFOALD-01-0009DF/)<!--EndFragment-->
