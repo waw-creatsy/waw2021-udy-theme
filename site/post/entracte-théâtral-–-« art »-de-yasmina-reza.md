@@ -4,7 +4,7 @@ layout: single-post.html
 seo:
   twitter:card: summary
 category: site/category/événements.md
-date-time: les Samedis 09 et 16 0ctobre à 16h
+date-time: les samedis 9 et 16 0ctobre à 16h
 image:
   url: /static/images/art-pièce-1.jpg
 place: site/place/rixensart-academy-theater.md
