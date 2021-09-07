@@ -6,7 +6,7 @@ seo:
 language-link-choisir-accueil: site/index/accueil.md
 numero-du-lieu: 3
 phrase-blanche: "l’alphabet blanc voltige .... à la rencontre de ma phrase "
-horaire-d-ouverture: Samedi 16 et 26 oct à 16h
+horaire-d-ouverture: Samedi 9 et 16 oct à 16h
 nombre-d-artistes-1-artiste-2-artistes: "Les élèves "
 lieu-associe: site/place/rixensart-academy-theater.md
 name: Académie des arts de la parole
