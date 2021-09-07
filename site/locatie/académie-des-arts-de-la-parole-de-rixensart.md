@@ -6,7 +6,7 @@ seo:
 language-link-choisir: site/index/hoofdpagina.md
 numero-du-lieu: 3
 witte-zin: "l’alphabet blanc voltige .... à la rencontre de ma phrase "
-openingstijd: Zaterdag 9 en 16 oct - 16.00 uur
+openingstijd: Zaterdag 9 en 16 okt - 16.00 uur
 aantal-kunstenaars: De leerlingen
 associated-locatie: site/place/rixensart-academy-theater.md
 name: Académie des arts de la parole de Rixensart
