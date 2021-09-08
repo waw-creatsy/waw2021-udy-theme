@@ -6,8 +6,8 @@ seo:
 artiestendiscipline: Multimedia, cyanotype
 associate-kunstenaar: site/exhibitor/monik-myle.md
 foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
-  - url: /static/images/waw_monik_myle_01.jpg
   - url: /static/images/waw_monik_myle_03.jpg
+  - url: /static/images/waw_monik_myle_01.jpg
   - url: /static/images/waw_monik_myle_02.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-monik-myle.md
 name: Monik Myle
@@ -23,4 +23,4 @@ We zijn eindelijk klaar om naar de sterren te varen."                      (Car
 
 Work in progress - (project met sterrekundigen)
 
-https://www.projectatelier.space
+<https://www.projectatelier.space>
