@@ -8,8 +8,8 @@ seo:
 discipline: Visual arts, cyanotype
 artiste-associe: site/exhibitor/monik-myle.md
 galerie-d-images-attention-memes-images-qu-en-en:
-  - url: /static/images/waw_monik_myle_01.jpg
   - url: /static/images/waw_monik_myle_03.jpg
+  - url: /static/images/waw_monik_myle_01.jpg
   - url: /static/images/waw_monik_myle_02.jpg
 lieu: site/lieu/chez-monik-myle.md
 name: Monik Myle
@@ -21,4 +21,4 @@ published-on: 2021-08-13T11:34:09.141Z
 
 Travail en cours d'un projet de groupe avec des astrophysiciens.
 
-https://www.projectatelier.space
+<https://www.projectatelier.space>
