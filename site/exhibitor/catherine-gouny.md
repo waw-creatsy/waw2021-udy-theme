@@ -5,7 +5,7 @@ seo:
   twitter:card: summary
 featured-artwork:
   url: /static/images/waw_catherine_gouny_00.jpg
-mail: mailto:chatherine.gouny.peintures@gmail.com
+mail: mailto:catherine.gouny.peintures@gmail.com
 website-url: https://www.catherinegouny.com/
 instagram-url: https://www.instagram.com/catherinegouny/?hl=fr
 name: Catherine Gouny
