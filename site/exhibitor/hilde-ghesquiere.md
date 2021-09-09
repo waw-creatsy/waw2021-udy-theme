@@ -4,7 +4,7 @@ layout: single-exhibitor.html
 seo:
   twitter:card: summary
 featured-artwork:
-  url: ""
+  url: /static/images/waw_hilde_ghesquiere_01.jpg
 mail: mailto:hilde.ghesquiere@gmail.com
 website-url: https://hildeghesquiere.weebly.com/
 name: Hilde Ghesquiere
