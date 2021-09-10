@@ -5,11 +5,7 @@ seo:
   twitter:card: summary
 artiestendiscipline: Fotographie
 associate-kunstenaar: site/exhibitor/christine-reper.md
-foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
-  - url: /static/images/waw_hilde_ghesquiere_04.jpg
-  - url: /static/images/waw_hilde_ghesquiere_05.jpg
-  - url: /static/images/waw_hilde_ghesquiere_06.jpg
-  - url: /static/images/waw_hilde_ghesquiere_08.jpg
+foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en: []
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/bij-christine-reper.md
 name: Hilde Ghesquiere
 created-on: 2021-08-09T16:14:04.863Z
