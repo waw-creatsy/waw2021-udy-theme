@@ -5,7 +5,11 @@ seo:
   twitter:card: summary
 sf: Photography
 referral-exhibitor: site/exhibitor/hilde-ghesquiere.md
-image-gallery: []
+image-gallery:
+  - url: /static/images/waw_hilde_ghesquiere_04.jpg
+  - url: /static/images/waw_hilde_ghesquiere_05.jpg
+  - url: /static/images/waw_hilde_ghesquiere_06.jpg
+  - url: /static/images/waw_hilde_ghesquiere_08.jpg
 referral-place: site/place/christines-place.md
 name: Hilde Ghesquiere
 created-on: 2021-08-09T16:00:19.265Z
