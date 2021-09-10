@@ -7,7 +7,7 @@ language-link: site/index/home.md
 place-number: 1
 featured-artwork:
   url: /static/images/waw_annette_dieles_01.jpg
-quote: DIRE OUI COMME LES FLEURS DU CERISIER QUI RESTENT BLANCHES DANS LA NUIT
+quote: DIRE OUI COMME LES FLEURS DU CERISIER .... QUI RESTENT BLANCHES DANS LA NUIT
 opening-hours: 2pm>7pm
 number-of-exhibitors: 1 artist
 copy-artist-present-in-this-place: Annette Dieles
