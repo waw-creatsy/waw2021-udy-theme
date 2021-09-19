@@ -5,7 +5,7 @@ seo:
   twitter:card: summary
 language-link-choisir-accueil: site/index/accueil.md
 numero-du-lieu: 3
-phrase-blanche: "l’alphabet blanc voltige .... à la rencontre de ma phrase "
+phrase-blanche: "voix de l'air, ô claire transparence "
 horaire-d-ouverture: Samedi 9 et 16 oct à 15h et 16h
 nombre-d-artistes-1-artiste-2-artistes: "Les élèves "
 lieu-associe: site/place/rixensart-academy-theater.md
