@@ -4,7 +4,7 @@ layout: single-kunstenaar.html
 seo:
   twitter:card: summary
 artiestendiscipline: Fotographie
-associate-kunstenaar: site/exhibitor/christine-reper.md
+associate-kunstenaar: site/exhibitor/hilde-ghesquiere.md
 foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
   - url: /static/images/waw_hilde_ghesquiere_04.jpg
   - url: /static/images/waw_hilde_ghesquiere_05.jpg
