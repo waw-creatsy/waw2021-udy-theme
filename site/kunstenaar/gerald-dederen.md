@@ -10,7 +10,7 @@ foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
   - url: /static/images/waw_gérald_dederen_01.jpg
   - url: /static/images/waw_gérald_dederen_04.jpg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/locatie-van-juliane-lavis.md
-name: Gerald Dederen
+name: Gérald Dederen
 created-on: 2021-08-12T17:00:16.168Z
 updated-on: 2021-08-12T17:00:16.181Z
 published-on: 2021-08-12T17:00:16.189Z
