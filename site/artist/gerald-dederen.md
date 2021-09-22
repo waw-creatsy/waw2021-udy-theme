@@ -10,7 +10,7 @@ image-gallery:
   - url: /static/images/waw_gérald_dederen_01.jpg
   - url: /static/images/waw_gérald_dederen_04.jpg
 referral-place: site/place/place-of-collectif-nuiits.md
-name: Gerald Dederen
+name: Gérald Dederen
 created-on: 2021-08-12T16:58:06.186Z
 updated-on: 2021-08-12T16:58:06.219Z
 published-on: 2021-08-12T16:58:06.231Z
