@@ -12,7 +12,7 @@ galerie-d-images-attention-memes-images-qu-en-en:
   - url: /static/images/waw_gérald_dederen_01.jpg
   - url: /static/images/waw_gérald_dederen_04.jpg
 lieu: site/lieu/collectif-nuiits.md
-name: Gerald Dederen
+name: Gérald Dederen
 created-on: 2021-08-12T16:59:25.659Z
 updated-on: 2021-08-12T16:59:25.672Z
 published-on: 2021-08-12T16:59:25.681Z
