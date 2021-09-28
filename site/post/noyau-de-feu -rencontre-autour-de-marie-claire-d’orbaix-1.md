@@ -17,3 +17,9 @@ published-on: 2021-08-18T19:31:36.644Z
 Présentation et lecture de textes de Marie-Claire d’Orbaix par Caroline Lamarche suivie d’une conversation avec Renaud et Béatrice Denuit**.** 
 
 **Inscription obligatoire** par mail à “ingridfogelbaum@gmail.com”
+
+
+
+![](/static/images/ecouteurs_mini.png)
+
+<https://soundcloud.com/user-364117993/white-art-walk-rixensart-2021>
