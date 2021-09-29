@@ -4,8 +4,11 @@ layout: single-artiste.html
 seo:
   twitter:card: summary
 discipline: Art dramatique
+artiste-associe: site/exhibitor/les-élèves-de-lacadémie.md
 galerie-d-images-attention-memes-images-qu-en-en:
   - url: /static/images/academy-temporaire.png
+  - {}
+lieu: site/lieu/académie-des-arts-de-la-parole-de-rixensart.md
 name: Les élèves de l'académie
 created-on: 2021-09-29T07:57:31.288Z
 updated-on: 2021-09-29T07:57:31.305Z
