@@ -15,7 +15,7 @@ concept: >-
 
   <p>Fort du succ&egrave;s rencontr&eacute; en 2017 et 2019, le WAW s&rsquo;enrichit encore et toujours de nouveaux artistes pour sa troisi&egrave;me &eacute;dition.</p>
 
-  <p>Cette ann&eacute;e, le th&eacute;&acirc;tre et la po&eacute;sie s&rsquo;invitent &eacute;galement dans notre parcours qui accueille les &eacute;l&egrave;ves de l&rsquo;Acad&eacute;mie des arts de la parole de Rixensart et met &agrave; l&rsquo;honneur la po&eacute;tesse belge Marie-Claire d'Orbaix (plus d&rsquo;info sur cette partie du parcours dans l&rsquo;onglet &laquo;&eacute;v&eacute;nements&raquo;).</p>
+  <p>Cette ann&eacute;e, le th&eacute;&acirc;tre et la po&eacute;sie s&rsquo;invitent &eacute;galement dans notre parcours qui accueille les &eacute;l&egrave;ves de l&rsquo;Acad&eacute;mie des arts de la parole de Rixensart et met &agrave; l&rsquo;honneur la po&eacute;tesse belge <a href="https://www.whiteartwalk.be/post/noyau-de-feu%C2%A0-rencontre-autour-de-marie-claire-d%E2%80%99orbaix-1/">Marie-Claire d'Orbaix</a.</p>
 
   <p>Le WAW, c'est une balade artistique d'un atelier &agrave; l'autre, d'un univers &agrave; l'autre, d'une vibration &agrave; l'autre.</p>
 
@@ -25,9 +25,9 @@ concept: >-
 
   <p>l'art comme un rendez-vous.</p>
 
-  <p>Le tout r&eacute;uni par les phrases po&eacute;tiques de Marie-Claire d&rsquo;Orbaix.</p>
+  <p>Le tout r&eacute;uni par les <a href="https://www.whiteartwalk.be/post/noyau-de-feu%C2%A0-rencontre-autour-de-marie-claire-d%E2%80%99orbaix-1/">phrases</a> po&eacute;tiques de Marie-Claire d&rsquo;Orbaix.</p>
 
-  <p>Venez donc d&eacute;couvrir plus de 50 artistes et/ou &eacute;v&eacute;nements r&eacute;partis sur 20 lieux de la commune de Rixensart, Genval et Rosi&egrave;res (<a href="https://waw2021.netlify.app/index/accueil/#about">voir plan et informations pratiques</a>)</p>
+  <p>Venez donc d&eacute;couvrir plus de 50 artistes et/ou &eacute;v&eacute;nements r&eacute;partis sur 20 lieux de la commune de Rixensart, Genval et Rosi&egrave;res (<a href="https://www.whiteartwalk.be/index/accueil/#about">voir plan et informations pratiques</a>)</p>
 
   <p>Bienvenue dans le WAW et belle balade !</p>
 workshops: >-
@@ -57,7 +57,7 @@ info: >-
   <p><strong>Atelier 16</strong>&nbsp;| Christine Reper&nbsp;<a href="https://www.google.be/maps/place/Rue+Jolie+18,+1331+Rixensart/@50.7299617,4.5395864,17z/data=!3m1!4b1!4m5!3m4!1s0x47c3d7a7227d9e47:0xea1ca3177b0c5ab!8m2!3d50.7299617!4d4.5417751?hl=fr"><strong>Rosi&egrave;res</strong>&nbsp;- Rue Jolie 18</a></p>
 map:
   alt: Où acheter le plan ?
-  url: /static/images/waw-rixensart-plan-2019.jpg
+  url: /static/images/waw-rixensart-plan-2021.jpg
 partners: <h1>Sponsors & partenaires</h1>
 partner-1-logo:
   url: /static/images/logo-brabant-wallon-rvb.jpg
