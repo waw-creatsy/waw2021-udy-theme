@@ -49,7 +49,7 @@ info: >-
 
   <p><strong>Locatie 16</strong> | Christine Reper | <a href="https://www.google.be/maps/place/Rue+Jolie+18,+1331+Rixensart/@50.7299617,4.5395864,17z/data=!3m1!4b1!4m5!3m4!1s0x47c3d7a7227d9e47:0xea1ca3177b0c5ab!8m2!3d50.7299617!4d4.5417751?hl=fr" target="_blank">Rosi&egrave;res - Rue Jolie 18</a></p>
 map:
-  url: /static/images/waw-rixensart-plan-2019.jpg
+  url: /static/images/waw-rixensart-plan-2021.jpg
   alt: map
 partners: <h1>Sponsors &amp; partners</h1>
 partner-1-logo:
