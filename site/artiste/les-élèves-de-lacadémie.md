@@ -18,8 +18,8 @@ published-on: 2021-09-29T07:57:31.316Z
 
 [🎧    (click)](https://soundcloud.com/user-364117993/white-art-walk-rixensart-2021)
 
-*Voices :* pupils of theater classes of the Academy of  Rixensart: 
+*Voix :* Les élèves des classes de théâtre de l'Académie de Rixensart: 
 
-Teachers: Rémy Orianne et Félix Vannoorenberghe 
+Professeurs : Rémy Orianne et Félix Vannoorenberghe 
 
-*Musical composition and sound production* :  Grégoire Dune
+Composition musicale et realisation :  Grégoire Dune
