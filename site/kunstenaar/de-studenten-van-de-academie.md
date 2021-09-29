@@ -17,8 +17,8 @@ Dramatische kunst
 
 [🎧    (click)](https://soundcloud.com/user-364117993/white-art-walk-rixensart-2021)
 
-*Voices :* pupils of theater classes of the Academy of  Rixensart: 
+*Voices :* studenten van het Academie te Rixensart
 
-Teachers: Rémy Orianne et Félix Vannoorenberghe 
+leraars: Rémy Orianne et Félix Vannoorenberghe 
 
-*Musical composition and sound production* :  Grégoire Dune
+*Muzikale kompositie en klankbewerking* :  Grégoire Dune
