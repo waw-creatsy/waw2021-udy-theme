@@ -3,7 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
-artiestendiscipline: Dramatische kunst
+artiestendiscipline: Dramatische kunsten
 associate-kunstenaar: site/exhibitor/les-élèves-de-lacadémie.md
 foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
   - url: /static/images/academy-temporaire.png
@@ -13,7 +13,7 @@ created-on: 2021-09-29T08:03:38.725Z
 updated-on: 2021-09-29T08:03:38.748Z
 published-on: 2021-09-29T08:03:38.764Z
 ---
-Dramatische kunst
+Dramatische kunsten
 
 [🎧    (click)](https://soundcloud.com/user-364117993/white-art-walk-rixensart-2021)
 
