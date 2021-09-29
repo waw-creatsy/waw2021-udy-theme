@@ -9,7 +9,7 @@ referral-exhibitor: site/exhibitor/les-élèves-de-lacadémie.md
 image-gallery:
   - url: ""
 referral-place: site/place/rixensart-academy-theater.md
-name: Rixensart Academy theater
+name: The students of the academy
 created-on: 2021-08-13T19:39:15.240Z
 updated-on: 2021-08-13T19:39:15.250Z
 published-on: 2021-08-13T19:39:15.258Z
