@@ -14,7 +14,7 @@ created-on: 2021-08-13T19:39:15.240Z
 updated-on: 2021-08-13T19:39:15.250Z
 published-on: 2021-08-13T19:39:15.258Z
 ---
-**Dramatic Arts**
+**Dramatic Arts - The sentences of Marie-Claire d'Orbaix**
 
  [🎧    (click)](https://soundcloud.com/user-364117993/white-art-walk-rixensart-2021)
 
