@@ -7,8 +7,8 @@ language-link: site/index/home.md
 place-number: 15
 featured-artwork:
   url: /static/images/waw_myriam_deru_01.jpg
-quote: DANS LE BLANC RELIQUAIRE .... S’ENCHÂSSENT LA DERNIÈRE NUIT .... ET LA
-  PREMIÈRE AURORE
+quote: ma belle et blanche amie .... chaque brindille .... a sa mantille ....
+  chaque glaçon .... est un rayon
 opening-hours: 11am>7pm
 number-of-exhibitors: 5 artists
 copy-artist-present-in-this-place: Myriam Deru, Antoine Deschuyter, Caroline
