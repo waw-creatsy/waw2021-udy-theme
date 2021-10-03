@@ -5,8 +5,8 @@ seo:
   twitter:card: summary
 language-link-choisir-accueil: site/index/accueil.md
 numero-du-lieu: 6
-phrase-blanche: "ma belle et blanche .... amie chaque brindille .... a sa
-  mantille .... chaque glaçon est un rayon "
+phrase-blanche: DANS LE BLANC RELIQUAIRE .... S’ENCHÂSSENT LA DERNIÈRE NUIT ....
+  ET LA PREMIÈRE AURORE
 horaire-d-ouverture: 11h > 19h
 nombre-d-artistes-1-artiste-2-artistes: 1 artiste
 lieu-associe: site/place/serre-du-vignoble-de-genval.md
