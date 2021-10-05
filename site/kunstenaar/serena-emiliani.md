@@ -17,14 +17,14 @@ published-on: 2021-08-13T11:58:05.048Z
 ---
 <!--StartFragment-->
 
-Envol : travail poético-féministe … où le féminin s’expose aussi …
-Le plâtre d’abord poussière, se solidifie pour accueillir ces morceaux de corps de femmes et devient un doux et
-soyeux réceptacle.
-Engluées dans ces tartes et ces boules, les femmes se révèlent et témoignent.
-L’ambivalence est au cœur de la réflexion.
-Le blanc annonce le rouge.
-La douceur précède la désobéissance.
-La douleur est omniprésente.
-La liberté, elle, est juste là, palpable…
+De Vlucht : poëtisch-feministisch werk… waar ook de vrouwelijke kant straalt …
+Het gips, in staat van stof, wordt vast om plaats te bieden aan deze stukken vrouwelijke lichamen en veranderdt in een
+zijdeachtige etui.
+Vast in de taarten en ballen, de vrouwen zijn onthuld en ze getuigen.
+Ambivalentie staat centraal in de reflectie.
+Wit kondigt rood aan.
+Zoetheid gaat voor ongehoorzaamheid.
+De pijn is overal.
+Vrijheid, ligt net voor ons en is ook voelbaar…
 
 <!--EndFragment-->
