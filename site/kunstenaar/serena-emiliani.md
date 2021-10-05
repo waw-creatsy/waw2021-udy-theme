@@ -3,7 +3,7 @@ tags: kunstenaar
 layout: single-kunstenaar.html
 seo:
   twitter:card: summary
-artiestendiscipline: Visuele kunst/Performance
+artiestendiscipline: Beeldhouwkunst
 associate-kunstenaar: site/exhibitor/serena-emiliani.md
 foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
   - url: /static/images/waw_serena_emilani_01.jpg
