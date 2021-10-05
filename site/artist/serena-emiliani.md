@@ -17,14 +17,13 @@ published-on: 2021-08-13T11:55:10.815Z
 ---
 <!--StartFragment-->
 
-Envol : travail poético-féministe … où le féminin s’expose aussi …
-Le plâtre d’abord poussière, se solidifie pour accueillir ces morceaux de corps de femmes et devient un doux et
-soyeux réceptacle.
-Engluées dans ces tartes et ces boules, les femmes se révèlent et témoignent.
-L’ambivalence est au cœur de la réflexion.
-Le blanc annonce le rouge.
-La douceur précède la désobéissance.
-La douleur est omniprésente.
-La liberté, elle, est juste là, palpable…
+Take-off : poetic-feminist work … where the feminine is also exposed …
+The plaster, at first dust, solidifies to receive these pieces of female bodies and becomes a soft and silky receptacle.
+Stuck in these pies and balls, the women reveal themselves and demonstrate.
+Ambivalence is at the heart of the reflection.
+White announces red.
+Sweetness precedes disobedience.
+Pain is everywhere.
+Freedom is in front of us, and is palpable…
 
 <!--EndFragment-->
