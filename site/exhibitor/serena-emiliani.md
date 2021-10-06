@@ -5,7 +5,7 @@ seo:
   twitter:card: summary
 featured-artwork:
   alt: ""
-  url: /static/images/waw_serena_emilani_00.jpg
+  url: /static/images/waw_caty_berip_01.jpg
 mail: mailto:caty.berip@gmail.com
 website-url: Https://catyberip.wixsite.com/clit
 facebook-url: https://www.facebook.com/caty.berip/
