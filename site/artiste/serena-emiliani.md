@@ -8,10 +8,9 @@ seo:
 discipline: Sculpture
 artiste-associe: site/exhibitor/serena-emiliani.md
 galerie-d-images-attention-memes-images-qu-en-en:
-  - url: /static/images/waw_caty_berip_01.jpg
   - url: /static/images/waw_cathy_berip_03.jpg
   - url: /static/images/waw_cathy_berip_02.jpg
-  - {}
+  - url: /static/images/waw_cathy_berip_04.jpeg
 lieu: site/lieu/tour-musée-et-café-du-tir-à-larc-de-genval.md
 name: Caty Berip
 created-on: 2021-08-13T11:56:02.101Z
