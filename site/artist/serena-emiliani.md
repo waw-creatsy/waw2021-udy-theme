@@ -6,9 +6,9 @@ seo:
 sf: Sculpture
 referral-exhibitor: site/exhibitor/serena-emiliani.md
 image-gallery:
-  - url: /static/images/waw_caty_berip_01.jpg
   - url: /static/images/waw_cathy_berip_03.jpg
   - url: /static/images/waw_cathy_berip_02.jpg
+  - url: /static/images/waw_cathy_berip_04.jpeg
 referral-place: site/place/tour-musée-et-café-du-tir-à-larc-de-genval.md
 name: Caty Berip
 created-on: 2021-08-13T11:55:10.792Z
