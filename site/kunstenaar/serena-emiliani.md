@@ -6,9 +6,9 @@ seo:
 artiestendiscipline: Beeldhouwkunst
 associate-kunstenaar: site/exhibitor/serena-emiliani.md
 foto-galerij-waarschuwing-dezelfde-afbeeldingen-als-in-en:
-  - url: /static/images/waw_caty_berip_01.jpg
   - url: /static/images/waw_cathy_berip_03.jpg
   - url: /static/images/waw_cathy_berip_02.jpg
+  - url: /static/images/waw_cathy_berip_04.jpeg
 locatie-waarschuwing-dezelfde-plaatsen-als-in-en-df: site/locatie/tour-musée-et-café-du-tir-à-larc-de-genval.md
 name: Caty Berip
 created-on: 2021-08-13T11:58:05.022Z
