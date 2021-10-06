@@ -6,7 +6,7 @@ seo:
 language-link: site/index/home.md
 place-number: 10
 featured-artwork:
-  url: /static/images/waw_esther_eggermont_01.jpg
+  url: /static/images/waw_esther_eggermont_00.jpg
 quote: CE JOUR-LÀ .... J’AI SENTI BOUGER LA BANQUISE .... EN MOI
 opening-hours: 11am>7pm
 number-of-exhibitors: 2 artists
