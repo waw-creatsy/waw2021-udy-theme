@@ -5,7 +5,7 @@ seo:
   twitter:card: summary
 language-link-choisir: site/index/hoofdpagina.md
 numero-du-lieu: 2
-witte-zin: PAROLES PRISES AU GLACIER DU SILENCE .... MOTS DE GEL QUI CHAUFFENT MES LARMES
+witte-zin: PAROLES PRISES AU GLACIER DU SILENCE .... MOTS DE GEL QUE CHAUFFENT MES LARMES
 openingstijd: 11.00 > 19.00 uur
 aantal-kunstenaars: 2 kunstenaars
 associated-locatie: site/place/espace-kamer-9-k9.md
