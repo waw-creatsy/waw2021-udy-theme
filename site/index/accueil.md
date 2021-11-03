@@ -95,4 +95,4 @@ published-on: 2021-08-07T18:24:38.821Z
 ---
 Les artistes ouvrent leurs ateliers\
 les week-ends des **9** – **10**\
-et **16** – **17 octobre** de 11h à 19h.
+et **16** – **17 octobre** de 12h à 19h.
