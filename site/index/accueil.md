@@ -13,7 +13,7 @@ concept: >-
   <h1>Concept</h1>
 
 
-  <p>Fort du succ&egrave;s rencontr&eacute; en 2017 et 2019, le WAW s&rsquo;enrichit encore et toujours de nouveaux artistes pour sa troisi&egrave;me &eacute;dition.</p>
+  <p>Fort du succès rencontr&eacute; en 2017 et 2019, le WAW s&rsquo;enrichit encore et toujours de nouveaux artistes pour sa troisi&egrave;me &eacute;dition.</p>
 
   <p>Cette ann&eacute;e, le th&eacute;&acirc;tre et la po&eacute;sie s&rsquo;invitent &eacute;galement dans notre parcours qui accueille les &eacute;l&egrave;ves de l&rsquo;Acad&eacute;mie des arts de la parole de Rixensart et met &agrave; l&rsquo;honneur la po&eacute;tesse belge <a href="https://www.whiteartwalk.be/post/noyau-de-feu%C2%A0-rencontre-autour-de-marie-claire-d%E2%80%99orbaix-1/">Marie-Claire d'Orbaix</a>.</p>
 
