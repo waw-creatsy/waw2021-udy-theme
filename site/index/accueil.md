@@ -35,7 +35,7 @@ events: |-
 
   <a href="https://whiteartwalk.be/blog">View events</a>
 info: >-
-  <h1>Information pratique</h1>
+  <h1>Informations pratiques</h1>
 
   <p><strong>Quand :</strong> Les week-ends des 09 -10 et 16 - 17 octobre de 11h à 19h</p>
 
