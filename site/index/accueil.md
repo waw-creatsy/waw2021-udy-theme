@@ -54,7 +54,7 @@ partner-2-logo:
 partner-3-logo:
   url: /static/images/bnpparibasfortis.png
 links: >-
-  <h1>Links &amp; aknowledgements</h1>
+  <h1>Liens et remerciements</h1>
 
   <p><b>Sylvie Van den Eynde-Cayphas</b> | Echevin de la Rixensart</p>
 
