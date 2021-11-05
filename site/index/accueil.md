@@ -6,23 +6,55 @@ seo:
 edition: "Edition 2021 de White Art Walk (WAW)  à Rixensart, Genval et Rosières :"
 white-card-title: « CARTE BLANCHE » AUX ARTISTES
 concept: >-
-  <h1>Concept</h1>
+  <h1>**Le concept du WAW**</h1>
 
-  <p>Building on the success of 2017 and 2019, the WAW is expanding again with new artists for its third edition.</p>
+  <p>Fort du succès rencontré en 2017 et 2019, le WAW s’enrichit encore et toujours de nouveaux artistes pour sa troisième édition.</p>
 
-  <p>This year, theatre and poetry are also part of our programme, which welcomes students from the Acad&eacute;mie des arts de la parole de Rixensart and honours the Belgian poet Marie-Claire d'Orbaix (more information on this part of the programme in the "events" tab).</p>
+  <p>Cette année, le théâtre et la poésie s’invitent également dans notre parcours qui accueille les élèves de l’Académie des arts de la parole de Rixensart et met à l’honneur la poétesse belge Marie-Claire d'Orbaix (plus d’info sur cette partie du parcours dans l’onglet «événements»).</p>
 
-  <p>The WAW is an artistic stroll from one studio to another, from one universe to another, from one vibration to another.</p>
+  <p>Le WAW, c'est une balade artistique d'un atelier à l'autre, d'un univers à l'autre, d'une vibration à l'autre.</p>
 
-  <p>White as a window of all possibilities.</p>
 
-  <p>Art as a &laquo; rendez-vous &raquo;</p>
 
-  <p>All brought together by the poetic phrases of Marie-Claire d&rsquo;Orbaix.</p>
+  <p>Le blanc comme champ de tous les possibles.</p>
 
-  <p>Come and discover more than 50 artists and/or events spread over 20 locations in Rixensart, Genval and Rosi&egrave;res (<a href="https://waw2021.netlify.app/index/home/#about" target="_blank">see map and practical information)</a></p>
+  <p>l'art comme un rendez-vous.</p>
 
-  <p>Welcome to the WAW and enjoy the ride!</p>
+  <p>Le tout réuni par les phrases poétiques de Marie-Claire d’Orbaix.</p>
+
+  <p>Venez donc découvrir plus de 50 artistes et/ou événements répartis sur 20 lieux de la commune de Rixensart, Genval et Rosières *(voir plan et informations pratiques*) (</a></p>Bienvenue dans le WAW et belle balade !</p>
+
+
+
+
+  **Le concept du WAW**
+
+
+  Fort du succès rencontré en 2017 et 2019, le WAW s’enrichit encore et toujours de nouveaux artistes pour sa troisième édition.
+
+
+  Cette année, le théâtre et la poésie s’invitent également dans notre parcours qui accueille les élèves de l’Académie des arts de la parole de Rixensart et met à l’honneur la poétesse belge Marie-Claire d'Orbaix (plus d’info sur cette partie du parcours dans l’onglet «événements»).
+
+
+  Le WAW, c'est une balade artistique d'un atelier à l'autre, d'un univers à l'autre, d'une vibration à l'autre.
+
+
+  Le fil rouge... toujours le blanc.
+
+
+  Le blanc comme champ de tous les possibles.
+
+
+  l'art comme un rendez-vous.
+
+
+  Le tout réuni par les phrases poétiques de Marie-Claire d’Orbaix.
+
+
+  Venez donc découvrir plus de 50 artistes et/ou événements répartis sur 20 lieux de la commune de Rixensart, Genval et Rosières *(voir plan et informations pratiques*)
+
+
+  Bienvenue dans le WAW et belle balade !
 workshops: >-
   <h1>Les lieux </h1>
 
