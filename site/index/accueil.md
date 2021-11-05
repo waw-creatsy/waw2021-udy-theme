@@ -48,6 +48,8 @@ map:
 partners: <h1>Sponsors &amp; partners</h1>
 partner-1-logo:
   url: /static/images/logo-brabant-wallon-rvb.jpg
+partner-2-logo:
+  url: /static/images/commune-de-rixensart.png
 name: Accueil
 created-on: 2021-11-05T18:37:41.574Z
 updated-on: 2021-11-05T18:37:41.593Z
