@@ -11,6 +11,10 @@ workshops: >-
   <p><strong>50 artistes répartis sur 20 lieux</strong> présentent leur travaille ou vous offrent une pause théatrale ou poétique dans les entités de Genval, Rixensart et Rosi&egrave;res</p>
 
   <p>A chaque lieu vous serez accueillis par les phrases de Marie Claire d'Orbaix en prélude à de multiples découvertes artistiques.</p>
+events: |-
+  <h1>Evénements</h1>
+
+  <a href="https://whiteartwalk.be/blog">Zie evenementens</a>
 info: >-
   <h1>Information pratique</h1>
 
