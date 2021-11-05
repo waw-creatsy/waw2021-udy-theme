@@ -21,7 +21,9 @@ concept: >-
 
   <p>Le tout réuni par les phrases poétiques de Marie-Claire d’Orbaix.</p>
 
-  <p>Venez donc découvrir plus de 50 artistes et/ou événements répartis sur 20 lieux de la commune de Rixensart, Genval et Rosières \\*(voir plan et informations pratiques\\*) (</a></p>Bienvenue dans le WAW et belle balade !</p>
+  <p>Venez donc découvrir plus de 50 artistes et/ou événements répartis sur 20 lieux de la commune de Rixensart, Genval et Rosi&egrave;res (<a href="https://waw2021.netlify.app/index/home/#about" target="_blank">voir plan et information pratique)</a></p>
+
+  <p>Bienvenue dans le WAW et belle balade !</p>
 workshops: >-
   <h1>Les lieux </h1>
 
