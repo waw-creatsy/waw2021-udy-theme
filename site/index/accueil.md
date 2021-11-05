@@ -5,6 +5,24 @@ seo:
   twitter:card: summary
 edition: "Edition 2021 de White Art Walk (WAW)  in Rixensart, Genval & Rosières :"
 white-card-title: « CARTE BLANCHE » AUX ARTISTES
+concept: >-
+  <h1>Concept</h1>
+
+  <p>Building on the success of 2017 and 2019, the WAW is expanding again with new artists for its third edition.</p>
+
+  <p>This year, theatre and poetry are also part of our programme, which welcomes students from the Acad&eacute;mie des arts de la parole de Rixensart and honours the Belgian poet Marie-Claire d'Orbaix (more information on this part of the programme in the "events" tab).</p>
+
+  <p>The WAW is an artistic stroll from one studio to another, from one universe to another, from one vibration to another.</p>
+
+  <p>White as a window of all possibilities.</p>
+
+  <p>Art as a &laquo; rendez-vous &raquo;</p>
+
+  <p>All brought together by the poetic phrases of Marie-Claire d&rsquo;Orbaix.</p>
+
+  <p>Come and discover more than 50 artists and/or events spread over 20 locations in Rixensart, Genval and Rosi&egrave;res (<a href="https://waw2021.netlify.app/index/home/#about" target="_blank">see map and practical information)</a></p>
+
+  <p>Welcome to the WAW and enjoy the ride!</p>
 workshops: >-
   <h1>Les lieux </h1>
 
