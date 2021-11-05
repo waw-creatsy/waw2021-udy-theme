@@ -8,7 +8,7 @@ white-card-title: « CARTE BLANCHE » AUX ARTISTES
 workshops: >-
   <h1>Les lieux </h1>
 
-  <p><strong>50 artistes répartis sur 20 lieux</strong> présentent leur travaille ou vous offre une pause théatrale ou poétique dans les entités de Genval, Rixensart et Rosi&egrave;res</p>
+  <p><strong>50 artistes répartis sur 20 lieux</strong> présentent leur travaille ou vous offrent une pause théatrale ou poétique dans les entités de Genval, Rixensart et Rosi&egrave;res</p>
 
   <p>A chaque lieu vous serez accueillis par les phrases de Marie Claire d'Orbaix en prélude à de multiples découvertes artistiques.</p>
 name: Accueil
