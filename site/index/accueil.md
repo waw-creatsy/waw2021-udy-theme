@@ -31,12 +31,13 @@ concept: >-
 
   <p>Bienvenue dans le WAW et belle balade !</p>
 workshops: >-
-  <h1>Les lieux</h1>
-
-  <p>50 artistes r&eacute;partis sur 20 lieux exposent leurs œuvres ou proposent une pause th&eacute;&acirc;trale ou po&eacute;tique dans les entit&eacute;s de Genval, Rixensart et Rosi&egrave;res</p>
+  # Les lieux
 
 
-  <p>Dans chaque lieu vous serez accueillis par les phrases de Marie Claire d&rsquo;Orbaix en guise de pr&eacute;lude &agrave; de multiples d&eacute;couvertes artistiques</p>
+  50 artistes répartis sur 20 lieux exposent leurs œuvres ou proposent une pause théâtrale ou poétique dans les entités de Genval, Rixensart et Rosières
+
+
+  Dans chaque lieu vous serez accueillis par les phrases de Marie Claire d’Orbaix en guise de prélude à de multiples découvertes artistiques
 events: |-
   <h1>Événements</h1>
 
