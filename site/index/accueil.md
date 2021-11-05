@@ -3,7 +3,7 @@ tags: index
 layout: single-index.html
 seo:
   twitter:card: summary
-edition: "Edition 2021 de White Art Walk (WAW)  in Rixensart, Genval & Rosières :"
+edition: "Edition 2021 de White Art Walk (WAW)  à Rixensart, Genval & Rosières :"
 white-card-title: « CARTE BLANCHE » AUX ARTISTES
 concept: >-
   <h1>Concept</h1>
