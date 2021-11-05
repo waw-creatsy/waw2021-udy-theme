@@ -53,6 +53,22 @@ partner-2-logo:
   url: /static/images/commune-de-rixensart.png
 partner-3-logo:
   url: /static/images/bnpparibasfortis.png
+links: >-
+  <h1>Links &amp; aknowledgements</h1>
+
+  <p><b>Sylvie Van den Eynde-Cayphas</b> | Echevin de la Rixensart</p>
+
+  <p><b>Mr Raepsaet</b> | Tir à l'arc de Genval</p>
+
+  <p><b>Nicolas Vuille</b> | <a href="https://vinsdegenval.be/" target="_blank">Vins de Genval</a></p>
+
+  <p><b>Gr&eacute;goire Dune</b> &nbsp;| Académie de Rixensart</p>
+
+  <p><b>Caroline Lamarche, Renaud en B&eacute;atrice Denuit</b> | pour leur lecture des textes de Marie-Claire d&rsquo;Orbaix</p>
+
+  <p><b>Ingrid Fogelbaum et Michel Vertongen</b> ;| pour l'accueil dans leur maison</p>
+
+  <p><b>Jonathan Lapierre</b> | Graphiste &amp; Web designer | <a href="https://www.jonathanlapierre.be">www.jonathanlapierre.be</a> | <a href="https://www.creatsy.be">www.creatsy.be</a></p>
 name: Accueil
 created-on: 2021-11-05T18:37:41.574Z
 updated-on: 2021-11-05T18:37:41.593Z
