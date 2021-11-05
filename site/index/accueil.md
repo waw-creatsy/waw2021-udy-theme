@@ -66,7 +66,7 @@ links: >-
 
   <p><b>Caroline Lamarche, Renaud en B&eacute;atrice Denuit</b> | pour leur lecture des textes de Marie-Claire d&rsquo;Orbaix</p>
 
-  <p><b>Ingrid Fogelbaum et Michel Vertongen</b> ;| pour l'accueil dans leur maison</p>
+  <p><b>Ingrid Fogelbaum et Michel Vertongen</b> | pour l'accueil dans leur maison</p>
 
   <p><b>Jonathan Lapierre</b> | Graphiste &amp; Web designer | <a href="https://www.jonathanlapierre.be">www.jonathanlapierre.be</a> | <a href="https://www.creatsy.be">www.creatsy.be</a></p>
 name: Accueil
