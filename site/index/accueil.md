@@ -14,7 +14,7 @@ workshops: >-
 info: >-
   <h1>Information pratique</h1>
 
-  <p><strong>Quand :</strong> Les week-kends des 09 -10 et 16 - 17 octobre de 11h à 19h</p>
+  <p><strong>Quand :</strong> Les week-ends des 09 -10 et 16 - 17 octobre de 11h à 19h</p>
 
   <p><strong> Comment :<strong> Un plan présentant les différents lieux sera disponible pour  &euro;3 aux 2 lieux suivants: </p>
 
