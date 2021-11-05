@@ -30,9 +30,9 @@ workshops: >-
 
   <p>A chaque lieu vous serez accueillis par les phrases de Marie-Claire d'Orbaix en prélude à de multiples découvertes artistiques.</p>
 events: |-
-  <h1>Evénements</h1>
+  <h1>Events</h1>
 
-  <a href="https://whiteartwalk.be/blog">Zie evenementens</a>
+  <a href="https://whiteartwalk.be/blog">View events</a>
 info: >-
   <h1>Information pratique</h1>
 
