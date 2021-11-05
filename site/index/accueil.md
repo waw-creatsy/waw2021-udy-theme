@@ -5,6 +5,12 @@ seo:
   twitter:card: summary
 edition: "Edition 2021 de White Art Walk (WAW)  in Rixensart, Genval & Rosières :"
 white-card-title: « CARTE BLANCHE » AUX ARTISTES
+workshops: >-
+  <h1>Les lieux </h1>
+
+  <p><strong>50 artistes répartis sur 20 lieux</strong> présentent leur travaille ou vous offre une pause théatrale ou poétique dans les entités de Genval, Rixensart et Rosi&egrave;res</p>
+
+  <p>A chaque lieu vous serez accueillis par les phrases de Marie Claire d'Orbaix en prélude à de multiples découvertes artistiques.</p>
 name: Accueil
 created-on: 2021-11-05T18:37:41.574Z
 updated-on: 2021-11-05T18:37:41.593Z
