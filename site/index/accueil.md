@@ -12,7 +12,7 @@ concept: >-
 
   <p>Cette année, le théâtre et la poésie s’invitent également dans notre parcours qui accueille les élèves de l’Académie des arts de la parole de Rixensart et met à l’honneur la poétesse belge Marie-Claire d'Orbaix (plus d’info sur cette partie du parcours dans l’onglet «événements»).</p>
 
-  <p>Le WAW, c'est une balade artistique d'un atelier à l'autre, d'un univers à l'autre, d'une vibration à l'autre.</p><p>Le fil rouge... toujours le blanc</p>
+  <p>Le WAW, c'est une balade artistique d'un atelier à l'autre, d'un univers à l'autre, d'une vibration à l'autre.</p><p>Le fil rouge... toujours le blanc.</p>
 
 
   <p>Le blanc comme champ de tous les possibles.</p>
@@ -52,7 +52,7 @@ partner-1-logo:
 partner-2-logo:
   url: /static/images/commune-de-rixensart.png
 partner-3-logo:
-  url: /static/images/bnpparibasfortis.png
+  url: ""
 links: >-
   <h1>Liens et remerciements</h1>
 
