@@ -53,6 +53,8 @@ partner-1-logo:
 partner-1-link: https://brabantwallon.be/bw/
 partner-2-logo:
   url: /static/images/commune-de-rixensart.png
+  alt: Logo Rixensart
+partner-2-link: https://www.rixensart.be/
 partner-3-logo:
   url: ""
 links: >-
