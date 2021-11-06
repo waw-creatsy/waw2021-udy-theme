@@ -57,9 +57,9 @@ partner-2-logo:
   alt: logo Rixensart
 partner-2-link: https://www.rixensart.be/
 partner-3-logo:
-  url: /static/images/bnpparibasfortis.png
-  alt: logo BNP Paribas Fortis
-partner-3-link: https://www.bnpparibasfortis.be/
+  url: ""
+  alt: ""
+partner-3-link: ""
 links: >-
   <h1>Links &amp; aknowledgements</h1>
 
