@@ -49,6 +49,7 @@ map:
 partners: <h1>Sponsors &amp; partners</h1>
 partner-1-logo:
   url: /static/images/logo-brabant-wallon-rvb.jpg
+  alt: logo Brabant wallon
 partner-2-logo:
   url: /static/images/commune-de-rixensart.png
 partner-3-logo:
