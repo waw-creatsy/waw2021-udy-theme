@@ -73,6 +73,7 @@ links: >-
   <p><b>Ingrid Fogelbaum et Michel Vertongen</b> | pour l'accueil dans leur maison</p>
 
   <p><b>Jonathan Lapierre</b> | Graphiste &amp; Web designer | <a href="https://www.jonathanlapierre.be">www.jonathanlapierre.be</a> | <a href="https://www.creatsy.be">www.creatsy.be</a></p>
+language-code: FR
 name: Accueil
 created-on: 2021-11-05T18:37:41.574Z
 updated-on: 2021-11-05T18:37:41.593Z
